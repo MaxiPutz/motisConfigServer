@@ -1,0 +1,5070 @@
+[
+  {
+    "Name": "al_tirana.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/al_tirana.gtfs.zip"
+  },
+  {
+    "Name": "at_Linz-AG-2025.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/at_Linz-AG-2025.gtfs.zip"
+  },
+  {
+    "Name": "at_PTA-Carinthia-2025.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/at_PTA-Carinthia-2025.gtfs.zip"
+  },
+  {
+    "Name": "at_PTA-Eastern-Region-2025.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/at_PTA-Eastern-Region-2025.gtfs.zip"
+  },
+  {
+    "Name": "at_PTA-Salzburg-2025.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/at_PTA-Salzburg-2025.gtfs.zip"
+  },
+  {
+    "Name": "at_PTA-Styria-2025.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/at_PTA-Styria-2025.gtfs.zip"
+  },
+  {
+    "Name": "at_PTA-Tyrol-2025.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/at_PTA-Tyrol-2025.gtfs.zip"
+  },
+  {
+    "Name": "at_PTA-Upper-Austria-2025.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/at_PTA-Upper-Austria-2025.gtfs.zip"
+  },
+  {
+    "Name": "at_PTA-Vorarlberg-2025.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/at_PTA-Vorarlberg-2025.gtfs.zip"
+  },
+  {
+    "Name": "at_Railway-Current-Reference-Data-2025.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/at_Railway-Current-Reference-Data-2025.gtfs.zip"
+  },
+  {
+    "Name": "au_Translink-BOW.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/au_Translink-BOW.gtfs.zip"
+  },
+  {
+    "Name": "au_Translink-BUN.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/au_Translink-BUN.gtfs.zip"
+  },
+  {
+    "Name": "au_Translink-CNS.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/au_Translink-CNS.gtfs.zip"
+  },
+  {
+    "Name": "au_Translink-GLT.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/au_Translink-GLT.gtfs.zip"
+  },
+  {
+    "Name": "au_Translink-GYM.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/au_Translink-GYM.gtfs.zip"
+  },
+  {
+    "Name": "au_Translink-INN.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/au_Translink-INN.gtfs.zip"
+  },
+  {
+    "Name": "au_Translink-KIL.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/au_Translink-KIL.gtfs.zip"
+  },
+  {
+    "Name": "au_Translink-MAG.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/au_Translink-MAG.gtfs.zip"
+  },
+  {
+    "Name": "au_Translink-MAL.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/au_Translink-MAL.gtfs.zip"
+  },
+  {
+    "Name": "au_Translink-MHB.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/au_Translink-MHB.gtfs.zip"
+  },
+  {
+    "Name": "au_Translink-MIF.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/au_Translink-MIF.gtfs.zip"
+  },
+  {
+    "Name": "au_Translink-MKY.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/au_Translink-MKY.gtfs.zip"
+  },
+  {
+    "Name": "au_Translink-NSI.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/au_Translink-NSI.gtfs.zip"
+  },
+  {
+    "Name": "au_Translink-RKY.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/au_Translink-RKY.gtfs.zip"
+  },
+  {
+    "Name": "au_Translink-SEQ.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/au_Translink-SEQ.gtfs.zip"
+  },
+  {
+    "Name": "au_Translink-TWB.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/au_Translink-TWB.gtfs.zip"
+  },
+  {
+    "Name": "au_Translink-WAR.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/au_Translink-WAR.gtfs.zip"
+  },
+  {
+    "Name": "au_Translink-WHT.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/au_Translink-WHT.gtfs.zip"
+  },
+  {
+    "Name": "ba_Centrotrans.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ba_Centrotrans.gtfs.zip"
+  },
+  {
+    "Name": "ba_Sarajevo-MSKS.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ba_Sarajevo-MSKS.gtfs.zip"
+  },
+  {
+    "Name": "be_delijn.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/be_delijn.gtfs.zip"
+  },
+  {
+    "Name": "be_dewaterbus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/be_dewaterbus.gtfs.zip"
+  },
+  {
+    "Name": "be_sncb.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/be_sncb.gtfs.zip"
+  },
+  {
+    "Name": "be_stib.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/be_stib.gtfs.zip"
+  },
+  {
+    "Name": "be_tec.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/be_tec.gtfs.zip"
+  },
+  {
+    "Name": "bm_Bermuda-Department-of-Public-Transportation.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/bm_Bermuda-Department-of-Public-Transportation.gtfs.zip"
+  },
+  {
+    "Name": "br_rio-de-janeiro.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/br_rio-de-janeiro.gtfs.zip"
+  },
+  {
+    "Name": "br_rio-grande-do-sul.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/br_rio-grande-do-sul.gtfs.zip"
+  },
+  {
+    "Name": "ca-bc_BC-Ferries.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-bc_BC-Ferries.gtfs.zip"
+  },
+  {
+    "Name": "ca-bc_Black-Ball-Ferry-Line.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-bc_Black-Ball-Ferry-Line.gtfs.zip"
+  },
+  {
+    "Name": "ca-bc_Campbell-River-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-bc_Campbell-River-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-bc_Comox-Valley-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-bc_Comox-Valley-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-bc_Cowichan-Valley-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-bc_Cowichan-Valley-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-bc_Creston-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-bc_Creston-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-bc_Dawson-Creek-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-bc_Dawson-Creek-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-bc_East-Kootenay-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-bc_East-Kootenay-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-bc_Fort-St-John-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-bc_Fort-St-John-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-bc_Fraser-Valley-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-bc_Fraser-Valley-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-bc_Kamloops-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-bc_Kamloops-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-bc_Nanaimo-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-bc_Nanaimo-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-bc_North-Okanagan-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-bc_North-Okanagan-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-bc_Port-Alberni-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-bc_Port-Alberni-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-bc_Powell-River-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-bc_Powell-River-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-bc_Prince-George-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-bc_Prince-George-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-bc_Prince-Rupert-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-bc_Prince-Rupert-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-bc_South-Okanagan-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-bc_South-Okanagan-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-bc_Squamish-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-bc_Squamish-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-bc_Sunshine-Coast-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-bc_Sunshine-Coast-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-bc_TransLink.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-bc_TransLink.gtfs.zip"
+  },
+  {
+    "Name": "ca-bc_Victoria-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-bc_Victoria-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-bc_West-Kootenay-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-bc_West-Kootenay-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-bc_Whistler-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-bc_Whistler-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_Barrie-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_Barrie-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_Belleville-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_Belleville-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_Brampton-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_Brampton-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_Chatham-Kent-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_Chatham-Kent-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_Cornwall-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_Cornwall-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_Durham-Region-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_Durham-Region-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_Grand-River-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_Grand-River-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_Greater-Sudbury-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_Greater-Sudbury-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_Guelph-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_Guelph-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_Hamilton-Street-Railway.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_Hamilton-Street-Railway.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_Kingston-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_Kingston-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_Lindsay-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_Lindsay-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_London-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_London-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_Metrolinx-gotransit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_Metrolinx-gotransit.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_MiWay.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_MiWay.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_Mid-Pen-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_Mid-Pen-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_Middlesex-County-Connect.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_Middlesex-County-Connect.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_Milton-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_Milton-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_North-Bay-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_North-Bay-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_OCTranspo.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_OCTranspo.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_Oakville-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_Oakville-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_Ontario-Northland.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_Ontario-Northland.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_Orangeville-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_Orangeville-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_Orillia-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_Orillia-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_PCConnect.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_PCConnect.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_Railway-City-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_Railway-City-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_Ride-Norfolk.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_Ride-Norfolk.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_Sarnia-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_Sarnia-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_Sault-Ste-Marie-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_Sault-Ste-Marie-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_Simcoe-County-LINX.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_Simcoe-County-LINX.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_Stratford-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_Stratford-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_TTC.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_TTC.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_Temiskaming-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_Temiskaming-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_Thunder-Bay-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_Thunder-Bay-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_Timmins-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_Timmins-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_Transit-Windsor.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_Transit-Windsor.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_UP-Express.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_UP-Express.gtfs.zip"
+  },
+  {
+    "Name": "ca-on_York-Region-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-on_York-Region-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca-qc_Exo-citchambly-richelieu-carignan.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-qc_Exo-citchambly-richelieu-carignan.gtfs.zip"
+  },
+  {
+    "Name": "ca-qc_Exo-citduhaut-saint-laurent.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-qc_Exo-citduhaut-saint-laurent.gtfs.zip"
+  },
+  {
+    "Name": "ca-qc_Exo-citlapresqu%C3%AEle.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-qc_Exo-citlapresqu%C3%AEle.gtfs.zip"
+  },
+  {
+    "Name": "ca-qc_Exo-citlaurentides.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-qc_Exo-citlaurentides.gtfs.zip"
+  },
+  {
+    "Name": "ca-qc_Exo-citsud.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-qc_Exo-citsud.gtfs.zip"
+  },
+  {
+    "Name": "ca-qc_Exo-citvall%C3%A9e-du-richelieu.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-qc_Exo-citvall%C3%A9e-du-richelieu.gtfs.zip"
+  },
+  {
+    "Name": "ca-qc_Exo-mrcdelassomption.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-qc_Exo-mrcdelassomption.gtfs.zip"
+  },
+  {
+    "Name": "ca-qc_Exo-mrclesmoulinsurbis.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-qc_Exo-mrclesmoulinsurbis.gtfs.zip"
+  },
+  {
+    "Name": "ca-qc_Exo-omitsainte-julie.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-qc_Exo-omitsainte-julie.gtfs.zip"
+  },
+  {
+    "Name": "ca-qc_Exo-reseaudetransportmetropolitain.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-qc_Exo-reseaudetransportmetropolitain.gtfs.zip"
+  },
+  {
+    "Name": "ca-qc_Exo-richelain-roussillon.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-qc_Exo-richelain-roussillon.gtfs.zip"
+  },
+  {
+    "Name": "ca-qc_Exo-varannes.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-qc_Exo-varannes.gtfs.zip"
+  },
+  {
+    "Name": "ca-qc_RTC.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-qc_RTC.gtfs.zip"
+  },
+  {
+    "Name": "ca-qc_RTL.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-qc_RTL.gtfs.zip"
+  },
+  {
+    "Name": "ca-qc_STLevis.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-qc_STLevis.gtfs.zip"
+  },
+  {
+    "Name": "ca-qc_STM.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-qc_STM.gtfs.zip"
+  },
+  {
+    "Name": "ca-qc_STO.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-qc_STO.gtfs.zip"
+  },
+  {
+    "Name": "ca-qc_STS-Sherbrooke.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-qc_STS-Sherbrooke.gtfs.zip"
+  },
+  {
+    "Name": "ca-qc_STTR.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca-qc_STTR.gtfs.zip"
+  },
+  {
+    "Name": "ca_Brandon-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca_Brandon-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca_Calgary-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca_Calgary-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca_Codiac-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca_Codiac-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca_Cold-Lake-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca_Cold-Lake-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca_Edmonton-Transit-Service.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca_Edmonton-Transit-Service.gtfs.zip"
+  },
+  {
+    "Name": "ca_Fredericton-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca_Fredericton-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca_Grande-Prairie-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca_Grande-Prairie-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca_Halifax-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca_Halifax-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca_Lethbridge-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca_Lethbridge-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca_Medicine-Hat-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca_Medicine-Hat-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca_Metrobus-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca_Metrobus-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca_Prince-Albert-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca_Prince-Albert-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca_Red-Deer-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca_Red-Deer-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca_Regina-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca_Regina-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca_Roam-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca_Roam-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca_Saint-John-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca_Saint-John-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca_Saskatoon-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca_Saskatoon-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca_T3-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca_T3-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca_Viarail.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca_Viarail.gtfs.zip"
+  },
+  {
+    "Name": "ca_Whitehorse-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca_Whitehorse-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca_Winnipeg-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca_Winnipeg-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ca_Wood-Buffalo-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ca_Wood-Buffalo-Transit.gtfs.zip"
+  },
+  {
+    "Name": "ch_opentransportdataswiss25.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ch_opentransportdataswiss25.gtfs.zip"
+  },
+  {
+    "Name": "co_transmilenio.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/co_transmilenio.gtfs.zip"
+  },
+  {
+    "Name": "cy_EMEL.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/cy_EMEL.gtfs.zip"
+  },
+  {
+    "Name": "cy_Intercity.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/cy_Intercity.gtfs.zip"
+  },
+  {
+    "Name": "cy_LPT.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/cy_LPT.gtfs.zip"
+  },
+  {
+    "Name": "cy_NPT.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/cy_NPT.gtfs.zip"
+  },
+  {
+    "Name": "cy_OSEA-Famagusta.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/cy_OSEA-Famagusta.gtfs.zip"
+  },
+  {
+    "Name": "cy_Osypa-Pafos.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/cy_Osypa-Pafos.gtfs.zip"
+  },
+  {
+    "Name": "cz_Bean-Shuttle.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/cz_Bean-Shuttle.gtfs.zip"
+  },
+  {
+    "Name": "cz_CZPTT.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/cz_CZPTT.gtfs.zip"
+  },
+  {
+    "Name": "cz_DPMLJ.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/cz_DPMLJ.gtfs.zip"
+  },
+  {
+    "Name": "cz_DPMO.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/cz_DPMO.gtfs.zip"
+  },
+  {
+    "Name": "cz_IDS-JMK.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/cz_IDS-JMK.gtfs.zip"
+  },
+  {
+    "Name": "cz_PID.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/cz_PID.gtfs.zip"
+  },
+  {
+    "Name": "cz_PMDP.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/cz_PMDP.gtfs.zip"
+  },
+  {
+    "Name": "de_AVV-Aachen.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/de_AVV-Aachen.gtfs.zip"
+  },
+  {
+    "Name": "de_DELFI.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/de_DELFI.gtfs.zip"
+  },
+  {
+    "Name": "de_VBB.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/de_VBB.gtfs.zip"
+  },
+  {
+    "Name": "de_VBN.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/de_VBN.gtfs.zip"
+  },
+  {
+    "Name": "dk_rejseplanen.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/dk_rejseplanen.gtfs.zip"
+  },
+  {
+    "Name": "ee_peatus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ee_peatus.gtfs.zip"
+  },
+  {
+    "Name": "es_AECFA-slots.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_AECFA-slots.gtfs.zip"
+  },
+  {
+    "Name": "es_ALSA-autobuses.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_ALSA-autobuses.gtfs.zip"
+  },
+  {
+    "Name": "es_Alavabus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Alavabus.gtfs.zip"
+  },
+  {
+    "Name": "es_Autobus-Madrid-Aranda-de-Duero-Burgo-de-Osma.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autobus-Madrid-Aranda-de-Duero-Burgo-de-Osma.gtfs.zip"
+  },
+  {
+    "Name": "es_Autobuses-Empresa-Casas.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autobuses-Empresa-Casas.gtfs.zip"
+  },
+  {
+    "Name": "es_Autobuses-Junta-de-Extremadura.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autobuses-Junta-de-Extremadura.gtfs.zip"
+  },
+  {
+    "Name": "es_Autobuses-La-Uni%C3%B3n-%28ALU%29.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autobuses-La-Uni%C3%B3n-%28ALU%29.gtfs.zip"
+  },
+  {
+    "Name": "es_Autobuses-Samar.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autobuses-Samar.gtfs.zip"
+  },
+  {
+    "Name": "es_Autobuses-Sarbus-%E2%80%93-La-Vallesana.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autobuses-Sarbus-%E2%80%93-La-Vallesana.gtfs.zip"
+  },
+  {
+    "Name": "es_Autobuses-TCC-Barcelona.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autobuses-TCC-Barcelona.gtfs.zip"
+  },
+  {
+    "Name": "es_Autobuses-Urbanos-Dos-Hermanas.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autobuses-Urbanos-Dos-Hermanas.gtfs.zip"
+  },
+  {
+    "Name": "es_Autobuses-Urbanos-de-Ciudad-Real.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autobuses-Urbanos-de-Ciudad-Real.gtfs.zip"
+  },
+  {
+    "Name": "es_Autobuses-Xunta-de-Galicia.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autobuses-Xunta-de-Galicia.gtfs.zip"
+  },
+  {
+    "Name": "es_Autobuses-interurbanos-de-la-Comunidad-de-Madrid.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autobuses-interurbanos-de-la-Comunidad-de-Madrid.gtfs.zip"
+  },
+  {
+    "Name": "es_Autobuses-urbanos-de-Alicante.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autobuses-urbanos-de-Alicante.gtfs.zip"
+  },
+  {
+    "Name": "es_Autobuses-urbanos-de-San-Vicente-del-Raspeig.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autobuses-urbanos-de-San-Vicente-del-Raspeig.gtfs.zip"
+  },
+  {
+    "Name": "es_Autobusos-de-Lleida.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autobusos-de-Lleida.gtfs.zip"
+  },
+  {
+    "Name": "es_Autob%C3%BAs-Comarca-de-Pamplona.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autob%C3%BAs-Comarca-de-Pamplona.gtfs.zip"
+  },
+  {
+    "Name": "es_Autob%C3%BAs-Principado-de-Asturias.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autob%C3%BAs-Principado-de-Asturias.gtfs.zip"
+  },
+  {
+    "Name": "es_Autob%C3%BAs-de-la-isla-de-Ibiza.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autob%C3%BAs-de-la-isla-de-Ibiza.gtfs.zip"
+  },
+  {
+    "Name": "es_Autob%C3%BAs-de-la-isla-de-Menorca.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autob%C3%BAs-de-la-isla-de-Menorca.gtfs.zip"
+  },
+  {
+    "Name": "es_Autob%C3%BAs-en-Cantabria.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autob%C3%BAs-en-Cantabria.gtfs.zip"
+  },
+  {
+    "Name": "es_Autob%C3%BAs-interurbano-Comunidad-Valenciana.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autob%C3%BAs-interurbano-Comunidad-Valenciana.gtfs.zip"
+  },
+  {
+    "Name": "es_Autob%C3%BAs-interurbano-de-Catalu%C3%B1a.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autob%C3%BAs-interurbano-de-Catalu%C3%B1a.gtfs.zip"
+  },
+  {
+    "Name": "es_Autob%C3%BAs-interurbano-de-Navarra.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autob%C3%BAs-interurbano-de-Navarra.gtfs.zip"
+  },
+  {
+    "Name": "es_Autob%C3%BAs-interurbano-de-Tenerife.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autob%C3%BAs-interurbano-de-Tenerife.gtfs.zip"
+  },
+  {
+    "Name": "es_Autob%C3%BAs-metropolitano-Barcelona.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autob%C3%BAs-metropolitano-Barcelona.gtfs.zip"
+  },
+  {
+    "Name": "es_Autob%C3%BAs-urbano-de-Castell%C3%B3n-de-la-Plana.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autob%C3%BAs-urbano-de-Castell%C3%B3n-de-la-Plana.gtfs.zip"
+  },
+  {
+    "Name": "es_Autob%C3%BAs-urbano-de-C%C3%A1ceres.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autob%C3%BAs-urbano-de-C%C3%A1ceres.gtfs.zip"
+  },
+  {
+    "Name": "es_Autob%C3%BAs-urbano-de-C%C3%B3rdoba.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autob%C3%BAs-urbano-de-C%C3%B3rdoba.gtfs.zip"
+  },
+  {
+    "Name": "es_Autob%C3%BAs-urbano-de-Fuengirola.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autob%C3%BAs-urbano-de-Fuengirola.gtfs.zip"
+  },
+  {
+    "Name": "es_Autob%C3%BAs-urbano-de-Girona.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autob%C3%BAs-urbano-de-Girona.gtfs.zip"
+  },
+  {
+    "Name": "es_Autob%C3%BAs-urbano-de-Granada.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autob%C3%BAs-urbano-de-Granada.gtfs.zip"
+  },
+  {
+    "Name": "es_Autob%C3%BAs-urbano-de-Huesca.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autob%C3%BAs-urbano-de-Huesca.gtfs.zip"
+  },
+  {
+    "Name": "es_Autob%C3%BAs-urbano-de-Las-Palmas-de-Gran-Canaria.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autob%C3%BAs-urbano-de-Las-Palmas-de-Gran-Canaria.gtfs.zip"
+  },
+  {
+    "Name": "es_Autob%C3%BAs-urbano-de-Madrid-%28CRTM%29.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autob%C3%BAs-urbano-de-Madrid-%28CRTM%29.gtfs.zip"
+  },
+  {
+    "Name": "es_Autob%C3%BAs-urbano-de-Madrid.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autob%C3%BAs-urbano-de-Madrid.gtfs.zip"
+  },
+  {
+    "Name": "es_Autob%C3%BAs-urbano-de-Matar%C3%B3.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autob%C3%BAs-urbano-de-Matar%C3%B3.gtfs.zip"
+  },
+  {
+    "Name": "es_Autob%C3%BAs-urbano-de-M%C3%A1laga.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autob%C3%BAs-urbano-de-M%C3%A1laga.gtfs.zip"
+  },
+  {
+    "Name": "es_Autob%C3%BAs-urbano-de-Ourense.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autob%C3%BAs-urbano-de-Ourense.gtfs.zip"
+  },
+  {
+    "Name": "es_Autob%C3%BAs-urbano-de-Palma-de-Mallorca.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autob%C3%BAs-urbano-de-Palma-de-Mallorca.gtfs.zip"
+  },
+  {
+    "Name": "es_Autob%C3%BAs-urbano-de-Soria.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autob%C3%BAs-urbano-de-Soria.gtfs.zip"
+  },
+  {
+    "Name": "es_Autob%C3%BAs-urbano-de-Tarrasa.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autob%C3%BAs-urbano-de-Tarrasa.gtfs.zip"
+  },
+  {
+    "Name": "es_Autob%C3%BAs-urbano-de-Valencia.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autob%C3%BAs-urbano-de-Valencia.gtfs.zip"
+  },
+  {
+    "Name": "es_Autob%C3%BAs-urbano-de-Valladolid.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autob%C3%BAs-urbano-de-Valladolid.gtfs.zip"
+  },
+  {
+    "Name": "es_Autob%C3%BAs-urbano-de-la-Coru%C3%B1a.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autob%C3%BAs-urbano-de-la-Coru%C3%B1a.gtfs.zip"
+  },
+  {
+    "Name": "es_Autob%C3%BAs-urbano-de-%C3%81vila.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autob%C3%BAs-urbano-de-%C3%81vila.gtfs.zip"
+  },
+  {
+    "Name": "es_Autob%C3%BAs-y-tranv%C3%ADa-de-Sevilla.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autob%C3%BAs-y-tranv%C3%ADa-de-Sevilla.gtfs.zip"
+  },
+  {
+    "Name": "es_Autocares-Autocorb.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autocares-Autocorb.gtfs.zip"
+  },
+  {
+    "Name": "es_Autocares-Baraza.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Autocares-Baraza.gtfs.zip"
+  },
+  {
+    "Name": "es_Bilbobus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Bilbobus.gtfs.zip"
+  },
+  {
+    "Name": "es_Bizkaibus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Bizkaibus.gtfs.zip"
+  },
+  {
+    "Name": "es_Bus-urbano-de-Segovia.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Bus-urbano-de-Segovia.gtfs.zip"
+  },
+  {
+    "Name": "es_Cercan%C3%ADas-Madrid.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Cercan%C3%ADas-Madrid.gtfs.zip"
+  },
+  {
+    "Name": "es_Cercan%C3%ADas-Renfe.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Cercan%C3%ADas-Renfe.gtfs.zip"
+  },
+  {
+    "Name": "es_Donostiabus-%28Dbus%29.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Donostiabus-%28Dbus%29.gtfs.zip"
+  },
+  {
+    "Name": "es_EMT-Tarragona.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_EMT-Tarragona.gtfs.zip"
+  },
+  {
+    "Name": "es_Euskotren.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Euskotren.gtfs.zip"
+  },
+  {
+    "Name": "es_Ferrocarriles-de-la-Generalitat-de-Catalu%C3%B1a.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Ferrocarriles-de-la-Generalitat-de-Catalu%C3%B1a.gtfs.zip"
+  },
+  {
+    "Name": "es_Ferry-Bale%C3%A0ria.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Ferry-Bale%C3%A0ria.gtfs.zip"
+  },
+  {
+    "Name": "es_Ferry-Fred.Olsen.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Ferry-Fred.Olsen.gtfs.zip"
+  },
+  {
+    "Name": "es_Feve.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Feve.gtfs.zip"
+  },
+  {
+    "Name": "es_Funicular-de-Artxanda.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Funicular-de-Artxanda.gtfs.zip"
+  },
+  {
+    "Name": "es_Lurraldebus-Arrasate.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Lurraldebus-Arrasate.gtfs.zip"
+  },
+  {
+    "Name": "es_Lurraldebus-Eibar.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Lurraldebus-Eibar.gtfs.zip"
+  },
+  {
+    "Name": "es_Lurraldebus-Ekialdebus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Lurraldebus-Ekialdebus.gtfs.zip"
+  },
+  {
+    "Name": "es_Lurraldebus-Euskotren-bus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Lurraldebus-Euskotren-bus.gtfs.zip"
+  },
+  {
+    "Name": "es_Lurraldebus-Goierrialdea.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Lurraldebus-Goierrialdea.gtfs.zip"
+  },
+  {
+    "Name": "es_Lurraldebus-Guipuzcoana.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Lurraldebus-Guipuzcoana.gtfs.zip"
+  },
+  {
+    "Name": "es_Lurraldebus-Hernani.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Lurraldebus-Hernani.gtfs.zip"
+  },
+  {
+    "Name": "es_Lurraldebus-Lasarte.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Lurraldebus-Lasarte.gtfs.zip"
+  },
+  {
+    "Name": "es_Lurraldebus-Oiartzun.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Lurraldebus-Oiartzun.gtfs.zip"
+  },
+  {
+    "Name": "es_Lurraldebus-Pesa.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Lurraldebus-Pesa.gtfs.zip"
+  },
+  {
+    "Name": "es_Lurraldebus-Renter%C3%ADa.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Lurraldebus-Renter%C3%ADa.gtfs.zip"
+  },
+  {
+    "Name": "es_Lurraldebus-TBH-%28Interurbano-Tolosa-Buruntzaldea%29.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Lurraldebus-TBH-%28Interurbano-Tolosa-Buruntzaldea%29.gtfs.zip"
+  },
+  {
+    "Name": "es_Lurraldebus-Tolosaldea.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Lurraldebus-Tolosaldea.gtfs.zip"
+  },
+  {
+    "Name": "es_Lurraldebus-Zarautz.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Lurraldebus-Zarautz.gtfs.zip"
+  },
+  {
+    "Name": "es_Lurraldebus-auif.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Lurraldebus-auif.gtfs.zip"
+  },
+  {
+    "Name": "es_Metro-Bilbao.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Metro-Bilbao.gtfs.zip"
+  },
+  {
+    "Name": "es_Metro-Ligero-y-Tranv%C3%ADa-Comunidad-de-Madrid.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Metro-Ligero-y-Tranv%C3%ADa-Comunidad-de-Madrid.gtfs.zip"
+  },
+  {
+    "Name": "es_Metro-de-Granada.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Metro-de-Granada.gtfs.zip"
+  },
+  {
+    "Name": "es_Metro-de-Madrid.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Metro-de-Madrid.gtfs.zip"
+  },
+  {
+    "Name": "es_Metro-de-M%C3%A1laga.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Metro-de-M%C3%A1laga.gtfs.zip"
+  },
+  {
+    "Name": "es_Metro-de-Sevilla.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Metro-de-Sevilla.gtfs.zip"
+  },
+  {
+    "Name": "es_Metro-de-Valencia.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Metro-de-Valencia.gtfs.zip"
+  },
+  {
+    "Name": "es_Metrotenerife.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Metrotenerife.gtfs.zip"
+  },
+  {
+    "Name": "es_Ouigo.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Ouigo.gtfs.zip"
+  },
+  {
+    "Name": "es_Pujol-autobuses.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Pujol-autobuses.gtfs.zip"
+  },
+  {
+    "Name": "es_RENFE---Media%2C-Larga-Distancia-y-AVE.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_RENFE---Media%2C-Larga-Distancia-y-AVE.gtfs.zip"
+  },
+  {
+    "Name": "es_Reus-Transport.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Reus-Transport.gtfs.zip"
+  },
+  {
+    "Name": "es_Salamanca-de-Transportes-S.A.-.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Salamanca-de-Transportes-S.A.-.gtfs.zip"
+  },
+  {
+    "Name": "es_Sarfa-autobuses.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Sarfa-autobuses.gtfs.zip"
+  },
+  {
+    "Name": "es_Transbordador-Puente-Bizkaia.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Transbordador-Puente-Bizkaia.gtfs.zip"
+  },
+  {
+    "Name": "es_Transporte-metropolitano-Andaluc%C3%ADa.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Transporte-metropolitano-Andaluc%C3%ADa.gtfs.zip"
+  },
+  {
+    "Name": "es_Transporte-metropolitano-de-Barcelona-%28Bus-y-Metro%29.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Transporte-metropolitano-de-Barcelona-%28Bus-y-Metro%29.gtfs.zip"
+  },
+  {
+    "Name": "es_Transporte-p%C3%BAblico-de-la-Isla-de-Mallorca.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Transporte-p%C3%BAblico-de-la-Isla-de-Mallorca.gtfs.zip"
+  },
+  {
+    "Name": "es_Transporte-urbano-de-Zaragoza.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Transporte-urbano-de-Zaragoza.gtfs.zip"
+  },
+  {
+    "Name": "es_Transportes-Urbanos-de-Santander.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Transportes-Urbanos-de-Santander.gtfs.zip"
+  },
+  {
+    "Name": "es_Transportes-Urbanos-de-Vitoria-%28TUVISA%29.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Transportes-Urbanos-de-Vitoria-%28TUVISA%29.gtfs.zip"
+  },
+  {
+    "Name": "es_Transportes-de-Murcia.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Transportes-de-Murcia.gtfs.zip"
+  },
+  {
+    "Name": "es_Tranv%C3%ADa-Metropolitano-Barcelona.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Tranv%C3%ADa-Metropolitano-Barcelona.gtfs.zip"
+  },
+  {
+    "Name": "es_Tranv%C3%ADa-Metropolitano-Bes%C3%B3s-Barcelona.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Tranv%C3%ADa-Metropolitano-Bes%C3%B3s-Barcelona.gtfs.zip"
+  },
+  {
+    "Name": "es_Tranv%C3%ADa-de-Murcia.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Tranv%C3%ADa-de-Murcia.gtfs.zip"
+  },
+  {
+    "Name": "es_Tranv%C3%ADa-de-Zaragoza.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Tranv%C3%ADa-de-Zaragoza.gtfs.zip"
+  },
+  {
+    "Name": "es_Trasnportes-Insular-de-La-Palma-%28TILP%29.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Trasnportes-Insular-de-La-Palma-%28TILP%29.gtfs.zip"
+  },
+  {
+    "Name": "es_Trenes-y-tranv%C3%ADas-de-Alicante-y-Costa-Blanca.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Trenes-y-tranv%C3%ADas-de-Alicante-y-Costa-Blanca.gtfs.zip"
+  },
+  {
+    "Name": "es_Unauto.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_Unauto.gtfs.zip"
+  },
+  {
+    "Name": "es_VAC-124.-Huesca-Lleida-con-hijuelas.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_VAC-124.-Huesca-Lleida-con-hijuelas.gtfs.zip"
+  },
+  {
+    "Name": "es_VAC-231.-Madrid%2C-Piedrabuena-%28Ciudad-Real%29-y-Agudo-%28Ciudad-Real%29.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_VAC-231.-Madrid%2C-Piedrabuena-%28Ciudad-Real%29-y-Agudo-%28Ciudad-Real%29.gtfs.zip"
+  },
+  {
+    "Name": "es_VAC-232.-Madrid%2C-M%C3%A1laga-y-Algeciras-%28C%C3%A1diz%29.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_VAC-232.-Madrid%2C-M%C3%A1laga-y-Algeciras-%28C%C3%A1diz%29.gtfs.zip"
+  },
+  {
+    "Name": "es_VAC-245.-Huesca-Barcelona.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/es_VAC-245.-Huesca-Barcelona.gtfs.zip"
+  },
+  {
+    "Name": "et_addisababatransportall.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/et_addisababatransportall.gtfs.zip"
+  },
+  {
+    "Name": "eu_blablacar-bus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/eu_blablacar-bus.gtfs.zip"
+  },
+  {
+    "Name": "eu_eurostar.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/eu_eurostar.gtfs.zip"
+  },
+  {
+    "Name": "eu_flixbus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/eu_flixbus.gtfs.zip"
+  },
+  {
+    "Name": "fi_229.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fi_229.gtfs.zip"
+  },
+  {
+    "Name": "fi_digitraffic.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fi_digitraffic.gtfs.zip"
+  },
+  {
+    "Name": "fi_fintraffic.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fi_fintraffic.gtfs.zip"
+  },
+  {
+    "Name": "fi_hsl.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fi_hsl.gtfs.zip"
+  },
+  {
+    "Name": "fr_agen-gtfs-scolaire.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_agen-gtfs-scolaire.gtfs.zip"
+  },
+  {
+    "Name": "fr_agen-gtfs-tad.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_agen-gtfs-tad.gtfs.zip"
+  },
+  {
+    "Name": "fr_agen-gtfs-urbain.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_agen-gtfs-urbain.gtfs.zip"
+  },
+  {
+    "Name": "fr_agence-agglobus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_agence-agglobus.gtfs.zip"
+  },
+  {
+    "Name": "fr_agglobus-offre-theorique-mobilite-reseau-urbain-de-bourges.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_agglobus-offre-theorique-mobilite-reseau-urbain-de-bourges.gtfs.zip"
+  },
+  {
+    "Name": "fr_agglobus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_agglobus.gtfs.zip"
+  },
+  {
+    "Name": "fr_agglopolys-offre-theorique-mobilite-reseau-urbain-azalys-de-blois.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_agglopolys-offre-theorique-mobilite-reseau-urbain-azalys-de-blois.gtfs.zip"
+  },
+  {
+    "Name": "fr_agregat-oura.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_agregat-oura.gtfs.zip"
+  },
+  {
+    "Name": "fr_ametis.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_ametis.gtfs.zip"
+  },
+  {
+    "Name": "fr_amibus-intercom-de-la-vire-au-noireau.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_amibus-intercom-de-la-vire-au-noireau.gtfs.zip"
+  },
+  {
+    "Name": "fr_angers-loire-metropole-reseau-irigo-gtfs-gtfs-rt-siri.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_angers-loire-metropole-reseau-irigo-gtfs-gtfs-rt-siri.gtfs.zip"
+  },
+  {
+    "Name": "fr_ar-bus-landerneau-daoulas-transport.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_ar-bus-landerneau-daoulas-transport.gtfs.zip"
+  },
+  {
+    "Name": "fr_argentanbus-argentan-intercom.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_argentanbus-argentan-intercom.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-circuits-et-horaires-du-reseau-optymo-de-belfort.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-circuits-et-horaires-du-reseau-optymo-de-belfort.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-et-horaires-theoriques-bus-temps-reel.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-et-horaires-theoriques-bus-temps-reel.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-circuit-de-la-lignes-yeu-continent-gtfs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-circuit-de-la-lignes-yeu-continent-gtfs.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-circuits-des-lignes-de-transports-aleop-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-circuits-des-lignes-de-transports-aleop-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-circuits-des-lignes-de-transports-en-commun-en-pays-de-la-loire-gtfs-destineo-reseaux-aom-aleop-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-circuits-des-lignes-de-transports-en-commun-en-pays-de-la-loire-gtfs-destineo-reseaux-aom-aleop-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-bac-nva-m.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-bac-nva-m.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-bri-nva-m-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-bri-nva-m-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-car-nva-m-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-car-nva-m-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-cha-nva-m-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-cha-nva-m-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-cma-nva-m-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-cma-nva-m-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-cog-nva-m-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-cog-nva-m-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-cor-nva-m-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-cor-nva-m-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-cre-nva-m-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-cre-nva-m-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-dor-nva-m-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-dor-nva-m-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-dse-nva-m-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-dse-nva-m-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-gir-nva-m-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-gir-nva-m-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-hvi-nva-m-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-hvi-nva-m-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-lan-nva-m-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-lan-nva-m-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-lga-nva-m-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-lga-nva-m-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-lib-nva-m-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-lib-nva-m-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-lim-nva-m-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-lim-nva-m-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-lro-nva-m-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-lro-nva-m-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-mdm-nva-m-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-mdm-nva-m-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-nio-nva-m-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-nio-nva-m-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-pat-nva-m-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-pat-nva-m-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-per-nva-m-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-per-nva-m-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-roc-nva-m-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-roc-nva-m-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-sai-nva-m-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-sai-nva-m-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-tut-nva-m-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-tut-nva-m-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-vdg-nva-m-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-vdg-nva-m-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-vie-nva-m-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-des-reseaux-naq-vie-nva-m-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-des-reseaux-nva-mobilite-agreges-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-des-reseaux-nva-mobilite-agreges-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-du-reseau-de-transports-beemob-beziers-mediterranee.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-du-reseau-de-transports-beemob-beziers-mediterranee.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-du-reseau-monrezo-cucm-gtfs-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-du-reseau-monrezo-cucm-gtfs-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-du-reseau-routier-regional-de-transport-scolaire-et-interurbain-60-oise-1--81820.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-du-reseau-routier-regional-de-transport-scolaire-et-interurbain-60-oise-1--81820.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-du-reseau-routier-regional-de-transport-scolaire-et-interurbain-60-oise-1--81821.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-du-reseau-routier-regional-de-transport-scolaire-et-interurbain-60-oise-1--81821.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-du-reseau-routier-regional-de-transport-scolaire-et-interurbain-60-oise-1--81822.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-du-reseau-routier-regional-de-transport-scolaire-et-interurbain-60-oise-1--81822.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-du-reseau-routier-regional-de-transport-scolaire-et-interurbain-60-oise-1--81823.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-du-reseau-routier-regional-de-transport-scolaire-et-interurbain-60-oise-1--81823.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-du-reseau-stan-gtfs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-du-reseau-stan-gtfs.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-interurbain-02-aisne.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-interurbain-02-aisne.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-interurbain-62-pas-de-calais-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-interurbain-62-pas-de-calais-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-interurbain-80-somme.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-interurbain-80-somme.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-scolaire-02-aisne.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-scolaire-02-aisne.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-scolaire-80-somme.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-scolaire-80-somme.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-scolaire-et-interurbain-59-nord--81828.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-scolaire-et-interurbain-59-nord--81828.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-scolaire-et-interurbain-59-nord--81829.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-scolaire-et-interurbain-59-nord--81829.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-scolaire-et-interurbain-59-nord--81830.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-scolaire-et-interurbain-59-nord--81830.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-scolaire-et-interurbain-59-nord--81831.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-scolaire-et-interurbain-59-nord--81831.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-scolaire-et-interurbain-59-nord--81832.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-horaires-et-parcours-theoriques-gtfs-du-reseau-routier-regional-de-transport-scolaire-et-interurbain-59-nord--81832.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-itineraires-et-horaires-theoriques-des-reseaux-de-transport-des-membres-de-jvmalin.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-itineraires-et-horaires-theoriques-des-reseaux-de-transport-des-membres-de-jvmalin.gtfs.zip"
+  },
+  {
+    "Name": "fr_arrets-lignes-regulieres-reseau-de-transport-urbain-a-autun.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_arrets-lignes-regulieres-reseau-de-transport-urbain-a-autun.gtfs.zip"
+  },
+  {
+    "Name": "fr_astrobus-lisieux-normandie.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_astrobus-lisieux-normandie.gtfs.zip"
+  },
+  {
+    "Name": "fr_bacs-de-seine-departement-seine-maritime.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_bacs-de-seine-departement-seine-maritime.gtfs.zip"
+  },
+  {
+    "Name": "fr_bagnoles-de-lorne.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_bagnoles-de-lorne.gtfs.zip"
+  },
+  {
+    "Name": "fr_base-de-donnees-multimodale-des-reseaux-de-transport-public-normands.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_base-de-donnees-multimodale-des-reseaux-de-transport-public-normands.gtfs.zip"
+  },
+  {
+    "Name": "fr_base-de-donnees-multimodale-transports-publics-en-bretagne-korrigo-gtfs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_base-de-donnees-multimodale-transports-publics-en-bretagne-korrigo-gtfs.gtfs.zip"
+  },
+  {
+    "Name": "fr_breizhgo-35-experimentation.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_breizhgo-35-experimentation.gtfs.zip"
+  },
+  {
+    "Name": "fr_breizhgo-bateaux--81478.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_breizhgo-bateaux--81478.gtfs.zip"
+  },
+  {
+    "Name": "fr_breizhgo-bateaux--81479.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_breizhgo-bateaux--81479.gtfs.zip"
+  },
+  {
+    "Name": "fr_breizhgo-bateaux--81480.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_breizhgo-bateaux--81480.gtfs.zip"
+  },
+  {
+    "Name": "fr_breizhgo-bateaux--81481.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_breizhgo-bateaux--81481.gtfs.zip"
+  },
+  {
+    "Name": "fr_breizhgo-car--81461.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_breizhgo-car--81461.gtfs.zip"
+  },
+  {
+    "Name": "fr_breizhgo-car--81462.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_breizhgo-car--81462.gtfs.zip"
+  },
+  {
+    "Name": "fr_breizhgo-car--81463.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_breizhgo-car--81463.gtfs.zip"
+  },
+  {
+    "Name": "fr_breizhgo-car--81464.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_breizhgo-car--81464.gtfs.zip"
+  },
+  {
+    "Name": "fr_breizhgo-car--81465.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_breizhgo-car--81465.gtfs.zip"
+  },
+  {
+    "Name": "fr_breizhgo-car--81466.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_breizhgo-car--81466.gtfs.zip"
+  },
+  {
+    "Name": "fr_breizhgo-ter.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_breizhgo-ter.gtfs.zip"
+  },
+  {
+    "Name": "fr_bus-pastel-saint-quentin.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_bus-pastel-saint-quentin.gtfs.zip"
+  },
+  {
+    "Name": "fr_bybus-bayeux-intercom.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_bybus-bayeux-intercom.gtfs.zip"
+  },
+  {
+    "Name": "fr_caen-la-mer-reseau-twisto-gtfs-siri.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_caen-la-mer-reseau-twisto-gtfs-siri.gtfs.zip"
+  },
+  {
+    "Name": "fr_ce-jeu-de-donnees-contient-la-liste-des-arrets-des-horaires-et-des-parcours-theoriques-du-reseau-de-transport-urbain-et-interurbain-de-vrm.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_ce-jeu-de-donnees-contient-la-liste-des-arrets-des-horaires-et-des-parcours-theoriques-du-reseau-de-transport-urbain-et-interurbain-de-vrm.gtfs.zip"
+  },
+  {
+    "Name": "fr_cherpa-horaires-lignes-regulieres.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_cherpa-horaires-lignes-regulieres.gtfs.zip"
+  },
+  {
+    "Name": "fr_colibri-horaires-theoriques-et-temps-reel-du-reseau-de-transport-urbain-de-la-ccmp.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_colibri-horaires-theoriques-et-temps-reel-du-reseau-de-transport-urbain-de-la-ccmp.gtfs.zip"
+  },
+  {
+    "Name": "fr_coqueligo-tad.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_coqueligo-tad.gtfs.zip"
+  },
+  {
+    "Name": "fr_coralie-concarneau-cornouaille-agglomeration-transport.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_coralie-concarneau-cornouaille-agglomeration-transport.gtfs.zip"
+  },
+  {
+    "Name": "fr_cosibus-coutances-mer-et-bocage.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_cosibus-coutances-mer-et-bocage.gtfs.zip"
+  },
+  {
+    "Name": "fr_ctlb-donnees-theoriques-et-rt-aix-les-bains-lac-du-bourget.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_ctlb-donnees-theoriques-et-rt-aix-les-bains-lac-du-bourget.gtfs.zip"
+  },
+  {
+    "Name": "fr_deepmob-dieppe-maritime.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_deepmob-dieppe-maritime.gtfs.zip"
+  },
+  {
+    "Name": "fr_desserte-des-stations-de-ski-iseroises-transaltitude-38.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_desserte-des-stations-de-ski-iseroises-transaltitude-38.gtfs.zip"
+  },
+  {
+    "Name": "fr_donnees-de-mobilite.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_donnees-de-mobilite.gtfs.zip"
+  },
+  {
+    "Name": "fr_donnees-de-transport-en-commun-reseau-altigo-communaute-de-communes-du-brianconnais-format-gtfs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_donnees-de-transport-en-commun-reseau-altigo-communaute-de-communes-du-brianconnais-format-gtfs.gtfs.zip"
+  },
+  {
+    "Name": "fr_donnees-du-reseau-alterneo.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_donnees-du-reseau-alterneo.gtfs.zip"
+  },
+  {
+    "Name": "fr_donnees-du-reseau-evad-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_donnees-du-reseau-evad-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_donnees-gtfs-du-reseau-de-transport-public-cara-bus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_donnees-gtfs-du-reseau-de-transport-public-cara-bus.gtfs.zip"
+  },
+  {
+    "Name": "fr_donnees-gtfs-du-reseau-de-transports-public-du-grand-cahors.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_donnees-gtfs-du-reseau-de-transports-public-du-grand-cahors.gtfs.zip"
+  },
+  {
+    "Name": "fr_donnees-gtfs-reseau-tuc-communaute-dagglomeration-de-cambrai.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_donnees-gtfs-reseau-tuc-communaute-dagglomeration-de-cambrai.gtfs.zip"
+  },
+  {
+    "Name": "fr_donnees-statiques-et-temps-reel-des-lignes-26-et-530-du-reseau-astuce-metropole-rouen-normandie.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_donnees-statiques-et-temps-reel-des-lignes-26-et-530-du-reseau-astuce-metropole-rouen-normandie.gtfs.zip"
+  },
+  {
+    "Name": "fr_donnees-statiques-et-temps-reel-des-lignes-sur-le-secteur-delbeuf-du-reseau-astuce-metropole-rouen-normandie.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_donnees-statiques-et-temps-reel-des-lignes-sur-le-secteur-delbeuf-du-reseau-astuce-metropole-rouen-normandie.gtfs.zip"
+  },
+  {
+    "Name": "fr_donnees-statiques-et-temps-reel-du-reseau-astuce-metropole-rouen-normandie.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_donnees-statiques-et-temps-reel-du-reseau-astuce-metropole-rouen-normandie.gtfs.zip"
+  },
+  {
+    "Name": "fr_donnees-statiques-et-temps-reels-reseau-envia.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_donnees-statiques-et-temps-reels-reseau-envia.gtfs.zip"
+  },
+  {
+    "Name": "fr_donnees-tcat-troyes-champagne-metropole-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_donnees-tcat-troyes-champagne-metropole-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_donnees-theoriques-du-reseau-de-transport-a-la-demande-allotic-communaute-dagglomeration-de-la-region-de-compiegne-et-de-la-basse-automne.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_donnees-theoriques-du-reseau-de-transport-a-la-demande-allotic-communaute-dagglomeration-de-la-region-de-compiegne-et-de-la-basse-automne.gtfs.zip"
+  },
+  {
+    "Name": "fr_donnees-theoriques-du-reseau-hopla-communaute-de-communes-de-la-plaine-destrees.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_donnees-theoriques-du-reseau-hopla-communaute-de-communes-de-la-plaine-destrees.gtfs.zip"
+  },
+  {
+    "Name": "fr_donnees-theoriques-du-reseau-urbain-de-flers-agglo-au-format-gtfs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_donnees-theoriques-du-reseau-urbain-de-flers-agglo-au-format-gtfs.gtfs.zip"
+  },
+  {
+    "Name": "fr_donnees-theoriques-et-temps-reel-du-reseau-airemob-communaute-de-communes-de-laire-cantilienne.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_donnees-theoriques-et-temps-reel-du-reseau-airemob-communaute-de-communes-de-laire-cantilienne.gtfs.zip"
+  },
+  {
+    "Name": "fr_donnees-theoriques-et-temps-reel-du-reseau-corolis-urbain-communaute-dagglomeration-du-beauvaisis.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_donnees-theoriques-et-temps-reel-du-reseau-corolis-urbain-communaute-dagglomeration-du-beauvaisis.gtfs.zip"
+  },
+  {
+    "Name": "fr_donnees-theoriques-et-temps-reel-du-reseau-le-bus-communaute-de-communes-du-clermontois.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_donnees-theoriques-et-temps-reel-du-reseau-le-bus-communaute-de-communes-du-clermontois.gtfs.zip"
+  },
+  {
+    "Name": "fr_donnees-theoriques-et-temps-reel-du-reseau-libbus-communaute-de-communes-du-pays-noyonnais.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_donnees-theoriques-et-temps-reel-du-reseau-libbus-communaute-de-communes-du-pays-noyonnais.gtfs.zip"
+  },
+  {
+    "Name": "fr_donnees-theoriques-et-temps-reel-du-reseau-mobi-communaute-de-communes-du-pays-de-valois.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_donnees-theoriques-et-temps-reel-du-reseau-mobi-communaute-de-communes-du-pays-de-valois.gtfs.zip"
+  },
+  {
+    "Name": "fr_donnees-theoriques-et-temps-reel-du-reseau-pass-thelle-bus-communaute-de-communes-thelloise.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_donnees-theoriques-et-temps-reel-du-reseau-pass-thelle-bus-communaute-de-communes-thelloise.gtfs.zip"
+  },
+  {
+    "Name": "fr_donnees-theoriques-et-temps-reel-du-reseau-sablons-bus-communaute-de-communes-des-sablons.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_donnees-theoriques-et-temps-reel-du-reseau-sablons-bus-communaute-de-communes-des-sablons.gtfs.zip"
+  },
+  {
+    "Name": "fr_donnees-theoriques-et-temps-reel-du-reseau-tic-interurbain-communaute-dagglomeration-de-la-region-de-compiegne-et-de-la-basse-automne.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_donnees-theoriques-et-temps-reel-du-reseau-tic-interurbain-communaute-dagglomeration-de-la-region-de-compiegne-et-de-la-basse-automne.gtfs.zip"
+  },
+  {
+    "Name": "fr_donnees-theoriques-et-temps-reel-du-reseau-tic-urbain-communaute-dagglomeration-de-la-region-de-compiegne-et-de-la-basse-automne.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_donnees-theoriques-et-temps-reel-du-reseau-tic-urbain-communaute-dagglomeration-de-la-region-de-compiegne-et-de-la-basse-automne.gtfs.zip"
+  },
+  {
+    "Name": "fr_donnees-theoriques-et-temps-reel-du-reseau-tohm-communaute-de-communes-des-pays-doise-et-dhalatte.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_donnees-theoriques-et-temps-reel-du-reseau-tohm-communaute-de-communes-des-pays-doise-et-dhalatte.gtfs.zip"
+  },
+  {
+    "Name": "fr_donnees-theoriques-et-temps-reel.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_donnees-theoriques-et-temps-reel.gtfs.zip"
+  },
+  {
+    "Name": "fr_donnees-theoriques-gtfs-et-temps-reel-siri-lite-du-reseau-cts.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_donnees-theoriques-gtfs-et-temps-reel-siri-lite-du-reseau-cts.gtfs.zip"
+  },
+  {
+    "Name": "fr_donnees-transport-du-reseau-artis.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_donnees-transport-du-reseau-artis.gtfs.zip"
+  },
+  {
+    "Name": "fr_dreux-offre-theorique-mobilite-reseau-urbain.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_dreux-offre-theorique-mobilite-reseau-urbain.gtfs.zip"
+  },
+  {
+    "Name": "fr_ecla-lons-agglo-mobilites.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_ecla-lons-agglo-mobilites.gtfs.zip"
+  },
+  {
+    "Name": "fr_elios-transports-urbains-du-grand-villeneuvois.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_elios-transports-urbains-du-grand-villeneuvois.gtfs.zip"
+  },
+  {
+    "Name": "fr_eurostar-gtfs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_eurostar-gtfs.gtfs.zip"
+  },
+  {
+    "Name": "fr_eveole-douai-reseau-bus-du-syndicat-mixte-des-transports-du-douaisis-smtd.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_eveole-douai-reseau-bus-du-syndicat-mixte-des-transports-du-douaisis-smtd.gtfs.zip"
+  },
+  {
+    "Name": "fr_evolity-horaires-theoriques-de-transport-public.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_evolity-horaires-theoriques-de-transport-public.gtfs.zip"
+  },
+  {
+    "Name": "fr_export-quotidien-au-format-gtfs-du-reseau-de-transport-lignes-d-azur.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_export-quotidien-au-format-gtfs-du-reseau-de-transport-lignes-d-azur.gtfs.zip"
+  },
+  {
+    "Name": "fr_fiches-horaires-reseau-urbain-mio-ccmillaugrandscausses.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fiches-horaires-reseau-urbain-mio-ccmillaugrandscausses.gtfs.zip"
+  },
+  {
+    "Name": "fr_fichier-des-donnees-theoriques-du-reseau-idelis-au-format-gtfs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fichier-des-donnees-theoriques-du-reseau-idelis-au-format-gtfs.gtfs.zip"
+  },
+  {
+    "Name": "fr_fichier-des-donnees-theoriques-du-reseau-scolaris-au-format-gtfs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fichier-des-donnees-theoriques-du-reseau-scolaris-au-format-gtfs.gtfs.zip"
+  },
+  {
+    "Name": "fr_fichiers-gtfs-eurometropole-de-metz.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fichiers-gtfs-eurometropole-de-metz.gtfs.zip"
+  },
+  {
+    "Name": "fr_ficibus-fecamp-caux-littoral.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_ficibus-fecamp-caux-littoral.gtfs.zip"
+  },
+  {
+    "Name": "fr_fil-bleu-syndicat-des-mobilites-gtfs-gtfs-rt.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fil-bleu-syndicat-des-mobilites-gtfs-gtfs-rt.gtfs.zip"
+  },
+  {
+    "Name": "fr_filibus-urbain.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_filibus-urbain.gtfs.zip"
+  },
+  {
+    "Name": "fr_finistair-region-bretagne.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_finistair-region-bretagne.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0001-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0001-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0002-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0002-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0003-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0003-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0004-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0004-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0005-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0005-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0006-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0006-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0007-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0007-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0008-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0008-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0009-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0009-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0010-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0010-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0011-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0011-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0012-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0012-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0014-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0014-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0015-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0015-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0016-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0016-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0017-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0017-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0022-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0022-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0023-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0023-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0025-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0025-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0026-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0026-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0027-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0027-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0030-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0030-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0038-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0038-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0039-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0039-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0040-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0040-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0041-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0041-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0042-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0042-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0043-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0043-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0045-0000.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0045-0000.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0046-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0046-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0048-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0048-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0049-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0049-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0050-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0050-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0051-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0051-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_fr-200052264-t0052-0000-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_fr-200052264-t0052-0000-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_giverny-vernon-gare-sncf.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_giverny-vernon-gare-sncf.gtfs.zip"
+  },
+  {
+    "Name": "fr_golfe-de-saint-tropez-donnees-mobilite-tc-cavalaire-ete.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_golfe-de-saint-tropez-donnees-mobilite-tc-cavalaire-ete.gtfs.zip"
+  },
+  {
+    "Name": "fr_golfe-de-saint-tropez-donnees-mobilite-tc-cavalaire-sur-mer-hiver.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_golfe-de-saint-tropez-donnees-mobilite-tc-cavalaire-sur-mer-hiver.gtfs.zip"
+  },
+  {
+    "Name": "fr_golfe-de-saint-tropez-donnees-mobilite-tc-ligne-cogolin.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_golfe-de-saint-tropez-donnees-mobilite-tc-ligne-cogolin.gtfs.zip"
+  },
+  {
+    "Name": "fr_golfe-de-saint-tropez-donnees-mobilite-tc-ligne-de-la-croix-valmer.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_golfe-de-saint-tropez-donnees-mobilite-tc-ligne-de-la-croix-valmer.gtfs.zip"
+  },
+  {
+    "Name": "fr_golfe-de-saint-tropez-donnees-mobilite-tc-ligne-le-rayol-canadel-sur-mer.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_golfe-de-saint-tropez-donnees-mobilite-tc-ligne-le-rayol-canadel-sur-mer.gtfs.zip"
+  },
+  {
+    "Name": "fr_golfe-de-saint-tropez-donnees-mobilite-tc-navette-estivale-grimaud.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_golfe-de-saint-tropez-donnees-mobilite-tc-navette-estivale-grimaud.gtfs.zip"
+  },
+  {
+    "Name": "fr_golfe-de-saint-tropez-donnees-mobilite-tc-navette-estivale-ramatuelle.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_golfe-de-saint-tropez-donnees-mobilite-tc-navette-estivale-ramatuelle.gtfs.zip"
+  },
+  {
+    "Name": "fr_golfe-de-saint-tropez-donnees-mobilite-tc-navette-reguliere-saint-tropez.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_golfe-de-saint-tropez-donnees-mobilite-tc-navette-reguliere-saint-tropez.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-3.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-3.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-arvi.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-arvi.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-de-la-societe-de-transport-urbain-du-grand-montauban-semtm--81195.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-de-la-societe-de-transport-urbain-du-grand-montauban-semtm--81195.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-de-la-societe-de-transport-urbain-du-grand-montauban-semtm--82434.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-de-la-societe-de-transport-urbain-du-grand-montauban-semtm--82434.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-diviamobilites.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-diviamobilites.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-du-reseau-capbus-en-lien-avec-le-temps-reel-zenbus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-du-reseau-capbus-en-lien-avec-le-temps-reel-zenbus.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-du-reseau-de-transports-publics-de-saint-brieuc-armor-agglomeration.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-du-reseau-de-transports-publics-de-saint-brieuc-armor-agglomeration.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-du-reseau-des-transports-bus-et-tramway-setram-circulant-sur-le-territoire-le-mans-metropole.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-du-reseau-des-transports-bus-et-tramway-setram-circulant-sur-le-territoire-le-mans-metropole.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-du-reseau-lyneo.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-du-reseau-lyneo.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-du-reseau-maritime-de-martinique.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-du-reseau-maritime-de-martinique.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-du-transport-scolaire-en-martinique.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-du-transport-scolaire-en-martinique.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-et-gtfs-rt-reseau-orizo-grand-avignon.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-et-gtfs-rt-reseau-orizo-grand-avignon.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-et-gtfs-rt-reseau-tao-orleans-metropole-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-et-gtfs-rt-reseau-tao-orleans-metropole-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-et-siri-du-reseau-ginko-besancon-lignes-urbaines-et-periurbaines.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-et-siri-du-reseau-ginko-besancon-lignes-urbaines-et-periurbaines.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-move-vendome.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-move-vendome.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-noirmoutier-gratibus-ete.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-noirmoutier-gratibus-ete.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-pybus-le-reseau-urbain-de-parthenay.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-pybus-le-reseau-urbain-de-parthenay.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-reseau-chamonix-mobilite.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-reseau-chamonix-mobilite.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-reseau-fablio-lignes-regulieres.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-reseau-fablio-lignes-regulieres.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-reseau-scolaire-coqueligo-septembre-a-novembre-2024.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-reseau-scolaire-coqueligo-septembre-a-novembre-2024.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-reseau-urbain-coqueligo-septembre-a-novembre-2024.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-reseau-urbain-coqueligo-septembre-a-novembre-2024.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-sankeo.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-sankeo.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-static-et-real-time-transporteur-thalys.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-static-et-real-time-transporteur-thalys.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-tac-2024-2025.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-tac-2024-2025.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-tadao--82654.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-tadao--82654.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-tadao--82726.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-tadao--82726.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-transport-horaires-cars-de-corse-du-sud-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-transport-horaires-cars-de-corse-du-sud-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-transport-horaires-cars-de-haute-corse.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-transport-horaires-cars-de-haute-corse.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-transport-horaires-chemins-de-fer-corse-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-transport-horaires-chemins-de-fer-corse-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-transport-horaires-des-lignes-de-la-communaute-de-communes-corse-du-sud-a-berlina.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-transport-horaires-des-lignes-de-la-communaute-de-communes-corse-du-sud-a-berlina.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-transport-horaires-des-lignes-de-la-communaute-dile-rousse-balagne-a-balanina.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-transport-horaires-des-lignes-de-la-communaute-dile-rousse-balagne-a-balanina.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-urbain-de-la-zone-centre.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-urbain-de-la-zone-centre.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-urbain-de-la-zone-nord-cap-nord.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-urbain-de-la-zone-nord-cap-nord.gtfs.zip"
+  },
+  {
+    "Name": "fr_gtfs-urbain-de-la-zone-sud.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_gtfs-urbain-de-la-zone-sud.gtfs.zip"
+  },
+  {
+    "Name": "fr_hobus-honfleur.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_hobus-honfleur.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-a-compter-du-18-novembre-2024.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-a-compter-du-18-novembre-2024.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-ave-espagne-france.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-ave-espagne-france.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-des-bacs-de-loire-en-loire-atlantique-gtfs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-des-bacs-de-loire-en-loire-atlantique-gtfs.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-des-lignes-intercites-sncf.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-des-lignes-intercites-sncf.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-des-lignes-ter-sncf.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-des-lignes-ter-sncf.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-des-lignes-transilien-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-des-lignes-transilien-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-des-tgv.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-des-tgv.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-des-trains-trenitalia-france.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-des-trains-trenitalia-france.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-du-reseau-de-bus-intercom-3.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-du-reseau-de-bus-intercom-3.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-du-reseau-transvilles-au-format-gtfs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-du-reseau-transvilles-au-format-gtfs.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-et-lignes-de-bus-du-reseau-qub-transports-urbains-de-quimper-bretagne-occidentale.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-et-lignes-de-bus-du-reseau-qub-transports-urbains-de-quimper-bretagne-occidentale.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-reseau-au-4-novembre-2024-fichier-gtfs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-reseau-au-4-novembre-2024-fichier-gtfs.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-reseau-zest.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-reseau-zest.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-rlv-mobilites.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-rlv-mobilites.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-au-format-gtfs-et-horaires-temps-reel-au-format-gtfs-rt-du-reseau-car-jaune-a-la-reunion.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-au-format-gtfs-et-horaires-temps-reel-au-format-gtfs-rt-du-reseau-car-jaune-a-la-reunion.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-des-lignes-m-covoit-ligne-plus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-des-lignes-m-covoit-ligne-plus.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-des-lignes-urbaines-et-interurbaines-sur-le-reseau-alesy-gtfs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-des-lignes-urbaines-et-interurbaines-sur-le-reseau-alesy-gtfs.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-du-reseau-figeac-le-bus-gtfs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-du-reseau-figeac-le-bus-gtfs.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-du-reseau-izilo-format-gtfs-de-lorient-agglomeration.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-du-reseau-izilo-format-gtfs-de-lorient-agglomeration.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-du-reseau-maelis-montlucon-communaute-gtfs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-du-reseau-maelis-montlucon-communaute-gtfs.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-du-reseau-moova-communaute-dagglomeration-de-vesoul-gtfs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-du-reseau-moova-communaute-dagglomeration-de-vesoul-gtfs.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-du-reseau-neobus-communaute-de-communes-de-louest-vosgien-gtfs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-du-reseau-neobus-communaute-de-communes-de-louest-vosgien-gtfs.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-du-reseau-stas.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-du-reseau-stas.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-du-reseau-tag.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-du-reseau-tag.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-du-reseau-tgl.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-du-reseau-tgl.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-du-reseau-tougo.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-du-reseau-tougo.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-du-reseau-transport-du-pays-voironnais.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-du-reseau-transport-du-pays-voironnais.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-du-reseau-urbain-de-laon-tul-gtfs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-du-reseau-urbain-de-laon-tul-gtfs.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-du-reseau-zoom-le-grand-chalon.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-du-reseau-zoom-le-grand-chalon.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-du-telepherique-de-la-bastille.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-du-telepherique-de-la-bastille.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-et-en-temps-reel-des-bus-et-autocars-circulant-sur-le-reseau-cap-cotentin--79831.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-et-en-temps-reel-des-bus-et-autocars-circulant-sur-le-reseau-cap-cotentin--79831.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-et-en-temps-reel-des-bus-et-autocars-circulant-sur-le-reseau-cap-cotentin--81638.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-et-en-temps-reel-des-bus-et-autocars-circulant-sur-le-reseau-cap-cotentin--81638.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-et-temps-reel-aux-formats-gtfs-et-gtfs-rt-du-reseau-sitac.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-et-temps-reel-aux-formats-gtfs-et-gtfs-rt-du-reseau-sitac.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-et-temps-reel-de-la-navette-de-sel-et-vermois-gtfs-gtfs-rt.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-et-temps-reel-de-la-navette-de-sel-et-vermois-gtfs-gtfs-rt.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-et-temps-reel-de-la-station-de-ski-valmorel-gtfs-gtfs-rt.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-et-temps-reel-de-la-station-de-ski-valmorel-gtfs-gtfs-rt.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-et-temps-reel-des-bus-et-tramways-circulant-sur-le-territoire-de-brest-metropole.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-et-temps-reel-des-bus-et-tramways-circulant-sur-le-territoire-de-brest-metropole.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-et-temps-reel-des-navettes-paris-saclay-gtfs-gtfs-rt.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-et-temps-reel-des-navettes-paris-saclay-gtfs-gtfs-rt.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-et-temps-reel-du-reseau-alliance-auch-gtfs-gtfs-rt.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-et-temps-reel-du-reseau-alliance-auch-gtfs-gtfs-rt.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-et-temps-reel-du-reseau-bordeaux-navettes-aeroport-30-direct-gtfs-gtfs-rt.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-et-temps-reel-du-reseau-bordeaux-navettes-aeroport-30-direct-gtfs-gtfs-rt.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-et-temps-reel-du-reseau-buss-saintes-gtfs-gtfs-rt.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-et-temps-reel-du-reseau-buss-saintes-gtfs-gtfs-rt.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-et-temps-reel-du-reseau-cavaillon-c-mon-bus-gtfs-gtfs-rt.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-et-temps-reel-du-reseau-cavaillon-c-mon-bus-gtfs-gtfs-rt.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-et-temps-reel-du-reseau-coeur-de-tarentaise-gtfs-gtfs-rt.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-et-temps-reel-du-reseau-coeur-de-tarentaise-gtfs-gtfs-rt.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-et-temps-reel-du-reseau-de-transport-marineo.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-et-temps-reel-du-reseau-de-transport-marineo.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-et-temps-reel-du-reseau-gpso-gtfs-gtfs-rt.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-et-temps-reel-du-reseau-gpso-gtfs-gtfs-rt.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-et-temps-reel-du-reseau-luneo-gtfs-gtfs-rt.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-et-temps-reel-du-reseau-luneo-gtfs-gtfs-rt.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-et-temps-reel-du-reseau-maybus-mayenne-gtfs-gtfs-rt.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-et-temps-reel-du-reseau-maybus-mayenne-gtfs-gtfs-rt.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-et-temps-reel-du-reseau-oloron-sainte-marie-la-navette-gtfs-gtfs-rt.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-et-temps-reel-du-reseau-oloron-sainte-marie-la-navette-gtfs-gtfs-rt.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-et-temps-reel-du-reseau-quimper-bretagne-occidentale-qub-city-gtfs-gtfs-rt.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-et-temps-reel-du-reseau-quimper-bretagne-occidentale-qub-city-gtfs-gtfs-rt.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-et-temps-reel-du-reseau-respire-ile-de-re-gtfs-gtfs-rt.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-et-temps-reel-du-reseau-respire-ile-de-re-gtfs-gtfs-rt.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-et-temps-reel-du-reseau-ritmo-haguenau-gtfs-gtfs-rt.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-et-temps-reel-du-reseau-ritmo-haguenau-gtfs-gtfs-rt.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-et-temps-reel-du-reseau-sarlatbus-gtfs-gtfs-rt.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-et-temps-reel-du-reseau-sarlatbus-gtfs-gtfs-rt.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-et-temps-reel-du-reseau-titus-rosny-sous-bois-gtfs-gtfs-rt.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-et-temps-reel-du-reseau-titus-rosny-sous-bois-gtfs-gtfs-rt.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-et-temps-reel-du-reseau-transports-urbains-mendois-mende-gtfs-gtfs-rt.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-et-temps-reel-du-reseau-transports-urbains-mendois-mende-gtfs-gtfs-rt.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-et-temps-reel-gtfs-gtfs-rt-du-reseau-palmbus-cannes-pays-de-lerins.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-et-temps-reel-gtfs-gtfs-rt-du-reseau-palmbus-cannes-pays-de-lerins.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-et-temps-reel-reseau-mobius.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-et-temps-reel-reseau-mobius.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-et-temps-reels-du-reseau-de-transports-lagglo-en-bus-communaute-dagglomeration-gap-tallard-durance.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-et-temps-reels-du-reseau-de-transports-lagglo-en-bus-communaute-dagglomeration-gap-tallard-durance.gtfs.zip"
+  },
+  {
+    "Name": "fr_horaires-theoriques-reseau-choletbus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_horaires-theoriques-reseau-choletbus.gtfs.zip"
+  },
+  {
+    "Name": "fr_information-sur-les-transports-en-commun.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_information-sur-les-transports-en-commun.gtfs.zip"
+  },
+  {
+    "Name": "fr_issoudun-offre-theorique-mobilite-reseau-urbain.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_issoudun-offre-theorique-mobilite-reseau-urbain.gtfs.zip"
+  },
+  {
+    "Name": "fr_jeu-de-donnee-spl-estival-2025.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_jeu-de-donnee-spl-estival-2025.gtfs.zip"
+  },
+  {
+    "Name": "fr_le-bus-pont-audemer-val-de-risle.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_le-bus-pont-audemer-val-de-risle.gtfs.zip"
+  },
+  {
+    "Name": "fr_les-navettes-du-giffre-horaires-hiver-2023-2024.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_les-navettes-du-giffre-horaires-hiver-2023-2024.gtfs.zip"
+  },
+  {
+    "Name": "fr_lignes-arrets-et-horaires-de-transport-pour-cap-atlantique-lila-presquile-gtfs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_lignes-arrets-et-horaires-de-transport-pour-cap-atlantique-lila-presquile-gtfs.gtfs.zip"
+  },
+  {
+    "Name": "fr_lignes-arrets-et-horaires-theorique-du-reseau-de-transport-gtfs-et-netex-les-sables-dolonne-agglomeration.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_lignes-arrets-et-horaires-theorique-du-reseau-de-transport-gtfs-et-netex-les-sables-dolonne-agglomeration.gtfs.zip"
+  },
+  {
+    "Name": "fr_lignes-arrets-et-horaires-theorique-du-reseau-de-transport-gtfs-netex-saumur-val-de-loire-agglomeration.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_lignes-arrets-et-horaires-theorique-du-reseau-de-transport-gtfs-netex-saumur-val-de-loire-agglomeration.gtfs.zip"
+  },
+  {
+    "Name": "fr_lignes-des-reseaux-transport-zou-provence-alpes-cote-d-azur-express-3-3.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_lignes-des-reseaux-transport-zou-provence-alpes-cote-d-azur-express-3-3.gtfs.zip"
+  },
+  {
+    "Name": "fr_lignes-des-reseaux-transport-zou-provence-alpes-cote-d-azur-proximite-3-3.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_lignes-des-reseaux-transport-zou-provence-alpes-cote-d-azur-proximite-3-3.gtfs.zip"
+  },
+  {
+    "Name": "fr_lignes-des-reseaux-transport-zou-provence-alpes-cote-d-azur-scolaire-1-3.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_lignes-des-reseaux-transport-zou-provence-alpes-cote-d-azur-scolaire-1-3.gtfs.zip"
+  },
+  {
+    "Name": "fr_lignes-maritimes-de-corse-du-sud-de-la-collectivite-de-corse.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_lignes-maritimes-de-corse-du-sud-de-la-collectivite-de-corse.gtfs.zip"
+  },
+  {
+    "Name": "fr_lignes-regulieres-de-transports-sillages-en-pays-de-grasse-urbain-et-scolaire--79821.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_lignes-regulieres-de-transports-sillages-en-pays-de-grasse-urbain-et-scolaire--79821.gtfs.zip"
+  },
+  {
+    "Name": "fr_lignes-regulieres-de-transports-sillages-en-pays-de-grasse-urbain-et-scolaire--79822.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_lignes-regulieres-de-transports-sillages-en-pays-de-grasse-urbain-et-scolaire--79822.gtfs.zip"
+  },
+  {
+    "Name": "fr_lineotim-morlaix-communaute.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_lineotim-morlaix-communaute.gtfs.zip"
+  },
+  {
+    "Name": "fr_localisation-des-arrets-ilevia-bus-metro-et-tram-gtfs-pictogrammes-du-reseau-ilevia-2.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_localisation-des-arrets-ilevia-bus-metro-et-tram-gtfs-pictogrammes-du-reseau-ilevia-2.gtfs.zip"
+  },
+  {
+    "Name": "fr_lyon-tcl.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_lyon-tcl.gtfs.zip"
+  },
+  {
+    "Name": "fr_meribus-hiver.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_meribus-hiver.gtfs.zip"
+  },
+  {
+    "Name": "fr_mobilite-offre-de-transport-du-reseau-bus-gtfs-gtfs-rt.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_mobilite-offre-de-transport-du-reseau-bus-gtfs-gtfs-rt.gtfs.zip"
+  },
+  {
+    "Name": "fr_mobivie-reseau-urbain-vichy-communaute.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_mobivie-reseau-urbain-vichy-communaute.gtfs.zip"
+  },
+  {
+    "Name": "fr_moca-communaute-de-communes-caux-austreberthe.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_moca-communaute-de-communes-caux-austreberthe.gtfs.zip"
+  },
+  {
+    "Name": "fr_navette-chorges-chanteloube-ete-2024-reseau-vai.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_navette-chorges-chanteloube-ete-2024-reseau-vai.gtfs.zip"
+  },
+  {
+    "Name": "fr_navettes-de-loire-forez-agglomeration.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_navettes-de-loire-forez-agglomeration.gtfs.zip"
+  },
+  {
+    "Name": "fr_navettes-estivales-arzibus-2.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_navettes-estivales-arzibus-2.gtfs.zip"
+  },
+  {
+    "Name": "fr_navettes-stations-hiver-2024-2025-reseau-vai.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_navettes-stations-hiver-2024-2025-reseau-vai.gtfs.zip"
+  },
+  {
+    "Name": "fr_neva-granville-terre-et-mer.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_neva-granville-terre-et-mer.gtfs.zip"
+  },
+  {
+    "Name": "fr_nomad-car-region-normandie.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_nomad-car-region-normandie.gtfs.zip"
+  },
+  {
+    "Name": "fr_offre-de-transport-ca-bergeracoise-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_offre-de-transport-ca-bergeracoise-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_offre-de-transport-ca-du-bocage-bressuirais-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_offre-de-transport-ca-du-bocage-bressuirais-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_offre-de-transport-cc-jalles-eau-bourde.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_offre-de-transport-cc-jalles-eau-bourde.gtfs.zip"
+  },
+  {
+    "Name": "fr_offre-de-transport-cc-montesquieu.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_offre-de-transport-cc-montesquieu.gtfs.zip"
+  },
+  {
+    "Name": "fr_offre-de-transport-coban.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_offre-de-transport-coban.gtfs.zip"
+  },
+  {
+    "Name": "fr_offre-de-transport-cobas.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_offre-de-transport-cobas.gtfs.zip"
+  },
+  {
+    "Name": "fr_offre-de-transport-communaute-dagglomeration-le-grand-narbonne.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_offre-de-transport-communaute-dagglomeration-le-grand-narbonne.gtfs.zip"
+  },
+  {
+    "Name": "fr_offre-de-transport-de-la-c-a-beaune-cote-sud-gtfs--82659.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_offre-de-transport-de-la-c-a-beaune-cote-sud-gtfs--82659.gtfs.zip"
+  },
+  {
+    "Name": "fr_offre-de-transport-de-la-c-a-beaune-cote-sud-gtfs--82660.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_offre-de-transport-de-la-c-a-beaune-cote-sud-gtfs--82660.gtfs.zip"
+  },
+  {
+    "Name": "fr_offre-de-transport-de-montpellier-mediterranee-metropole-tam-gtfs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_offre-de-transport-de-montpellier-mediterranee-metropole-tam-gtfs.gtfs.zip"
+  },
+  {
+    "Name": "fr_offre-de-transport-du-reseau-de-laval-agglomeration-gtfs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_offre-de-transport-du-reseau-de-laval-agglomeration-gtfs.gtfs.zip"
+  },
+  {
+    "Name": "fr_offre-de-transport-du-reseau-elsa-petr-selestat-alsace-centrale.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_offre-de-transport-du-reseau-elsa-petr-selestat-alsace-centrale.gtfs.zip"
+  },
+  {
+    "Name": "fr_offre-de-transport-du-reseau-fluo-grand-est-52-region-grand-est-dga-mobilites.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_offre-de-transport-du-reseau-fluo-grand-est-52-region-grand-est-dga-mobilites.gtfs.zip"
+  },
+  {
+    "Name": "fr_offre-de-transport-du-reseau-grand-reims-mobilites-communaute-urbaine-du-grand-reims.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_offre-de-transport-du-reseau-grand-reims-mobilites-communaute-urbaine-du-grand-reims.gtfs.zip"
+  },
+  {
+    "Name": "fr_offre-de-transport-du-reseau-libellus-gtfs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_offre-de-transport-du-reseau-libellus-gtfs.gtfs.zip"
+  },
+  {
+    "Name": "fr_offre-de-transport-du-reseau-linggo-en-ville-petr-du-pays-de-langres.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_offre-de-transport-du-reseau-linggo-en-ville-petr-du-pays-de-langres.gtfs.zip"
+  },
+  {
+    "Name": "fr_offre-de-transport-du-reseau-tango-de-nimes-metropole-gtfs-gtfs-rt.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_offre-de-transport-du-reseau-tango-de-nimes-metropole-gtfs-gtfs-rt.gtfs.zip"
+  },
+  {
+    "Name": "fr_offre-de-transport-du-reseau-trema-gtfs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_offre-de-transport-du-reseau-trema-gtfs.gtfs.zip"
+  },
+  {
+    "Name": "fr_offre-de-transport-solea-et-tram-train-en-format-gtfs-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_offre-de-transport-solea-et-tram-train-en-format-gtfs-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_offre-de-transport-tam-en-temps-reel-gtfs-rt-urbain.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_offre-de-transport-tam-en-temps-reel-gtfs-rt-urbain.gtfs.zip"
+  },
+  {
+    "Name": "fr_offre-de-transports-du-grand-albigeois-gtfs--79687.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_offre-de-transports-du-grand-albigeois-gtfs--79687.gtfs.zip"
+  },
+  {
+    "Name": "fr_offre-de-transports-du-grand-albigeois-gtfs--79728.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_offre-de-transports-du-grand-albigeois-gtfs--79728.gtfs.zip"
+  },
+  {
+    "Name": "fr_offre-de-transports-du-grand-albigeois-gtfs--81522.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_offre-de-transports-du-grand-albigeois-gtfs--81522.gtfs.zip"
+  },
+  {
+    "Name": "fr_offre-de-transports-jybus-a-rumilly.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_offre-de-transports-jybus-a-rumilly.gtfs.zip"
+  },
+  {
+    "Name": "fr_offre-de-transports-reseau-dk-bus-de-la-communaute-urbaine-de-dunkerque-gtfs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_offre-de-transports-reseau-dk-bus-de-la-communaute-urbaine-de-dunkerque-gtfs.gtfs.zip"
+  },
+  {
+    "Name": "fr_offre-de-transports-reseau-tac-annemasse-agglo.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_offre-de-transports-reseau-tac-annemasse-agglo.gtfs.zip"
+  },
+  {
+    "Name": "fr_offre-de-transports-sibra-a-annecy-gtfs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_offre-de-transports-sibra-a-annecy-gtfs.gtfs.zip"
+  },
+  {
+    "Name": "fr_offre-de-transports-urbain-du-reseau-amelys-gtfs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_offre-de-transports-urbain-du-reseau-amelys-gtfs.gtfs.zip"
+  },
+  {
+    "Name": "fr_offre-transport-du-reseau-txik-txak.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_offre-transport-du-reseau-txik-txak.gtfs.zip"
+  },
+  {
+    "Name": "fr_offre-transport-en-commun-du-reseau-transpor-gtfs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_offre-transport-en-commun-du-reseau-transpor-gtfs.gtfs.zip"
+  },
+  {
+    "Name": "fr_offres-de-services-bus-tram-et-scolaire-au-format-gtfs-gtfs-rt-siri-lite.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_offres-de-services-bus-tram-et-scolaire-au-format-gtfs-gtfs-rt-siri-lite.gtfs.zip"
+  },
+  {
+    "Name": "fr_programme-des-rotations-corsica-ferries.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_programme-des-rotations-corsica-ferries.gtfs.zip"
+  },
+  {
+    "Name": "fr_referentiel-topologique-reseau-carsud.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_referentiel-topologique-reseau-carsud.gtfs.zip"
+  },
+  {
+    "Name": "fr_regie-des-transports-baag-gtfs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_regie-des-transports-baag-gtfs.gtfs.zip"
+  },
+  {
+    "Name": "fr_remi-offre-theorique-mobilite-reseau-interurbain-regional.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_remi-offre-theorique-mobilite-reseau-interurbain-regional.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-a-citadina-porto-vecchio-horaires-theoriques-et-temps-reel.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-a-citadina-porto-vecchio-horaires-theoriques-et-temps-reel.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-bus-sete-agglopole-mobilite.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-bus-sete-agglopole-mobilite.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-cars-region-isere-38.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-cars-region-isere-38.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-couralin-grand-dax-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-couralin-grand-dax-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-cvlmobilite-plan-de-transport-theorique-ligne-a-format-gtfs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-cvlmobilite-plan-de-transport-theorique-ligne-a-format-gtfs.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-de-transport-du-grand-dole.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-de-transport-du-grand-dole.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-de-transport-en-commun-lia-gtfs-siri.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-de-transport-en-commun-lia-gtfs-siri.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-de-transport-en-commun-transagglo-de-dlva.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-de-transport-en-commun-transagglo-de-dlva.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-de-transport-impulsyon-a-la-roche-sur-yon.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-de-transport-impulsyon-a-la-roche-sur-yon.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-de-transport-transcove-de-la-communaute-dagglomeration-ventoux-comtat-venaissin.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-de-transport-transcove-de-la-communaute-dagglomeration-ventoux-comtat-venaissin.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-de-transport-urbain-de-la-metropole-toulon-provence-mediterranee.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-de-transport-urbain-de-la-metropole-toulon-provence-mediterranee.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-de-transport-urbains-dignois.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-de-transport-urbains-dignois.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-de-transports-collectifs-de-la-ccgq.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-de-transports-collectifs-de-la-ccgq.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-de-transports-en-commun-de-la-communaute-dagglomeration-de-lauxerrois.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-de-transports-en-commun-de-la-communaute-dagglomeration-de-lauxerrois.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-interurbain-cars-region-ain-01.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-interurbain-cars-region-ain-01.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-interurbain-cars-region-allier-03.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-interurbain-cars-region-allier-03.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-interurbain-cars-region-ardeche-07.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-interurbain-cars-region-ardeche-07.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-interurbain-cars-region-cantal-15.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-interurbain-cars-region-cantal-15.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-interurbain-cars-region-express.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-interurbain-cars-region-express.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-interurbain-cars-region-haute-loire-43.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-interurbain-cars-region-haute-loire-43.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-interurbain-cars-region-haute-savoie-74.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-interurbain-cars-region-haute-savoie-74.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-interurbain-cars-region-loire-42.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-interurbain-cars-region-loire-42.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-interurbain-cars-region-puy-de-dome-63.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-interurbain-cars-region-puy-de-dome-63.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-interurbain-cars-region-savoie-73.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-interurbain-cars-region-savoie-73.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-interurbain-et-scolaire-cars-region-drome-26.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-interurbain-et-scolaire-cars-region-drome-26.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-karouest.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-karouest.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-lagglo-bus-de-lagglo-foix-varilhes.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-lagglo-bus-de-lagglo-foix-varilhes.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-lio-occitanie.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-lio-occitanie.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-lva.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-lva.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-nemus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-nemus.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-rtca.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-rtca.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-ruban.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-ruban.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-taneo-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-taneo-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-transport-mouv-enbus-agglomeration-provence-verte.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-transport-mouv-enbus-agglomeration-provence-verte.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-transport-urbain-de-bernay.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-transport-urbain-de-bernay.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-transport-urbain-du-nord-grande-terre-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-transport-urbain-du-nord-grande-terre-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-transport-urbain-le-bus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-transport-urbain-le-bus.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-urbain-aravis-bus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-urbain-aravis-bus.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-urbain-brevibus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-urbain-brevibus.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-urbain-cacl-agglobus--81498.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-urbain-cacl-agglobus--81498.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-urbain-cacl-agglobus--82387.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-urbain-cacl-agglobus--82387.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-urbain-caux-seine-mobilite-rezobus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-urbain-caux-seine-mobilite-rezobus.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-urbain-dinamo.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-urbain-dinamo.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-urbain-distribus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-urbain-distribus.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-urbain-et-interurbain-dile-de-france-mobilites.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-urbain-et-interurbain-dile-de-france-mobilites.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-urbain-illygo.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-urbain-illygo.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-urbain-interurbain-et-scolaire-de-la-communaute-dagglomeration-privas-centre-ardeche--79272.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-urbain-interurbain-et-scolaire-de-la-communaute-dagglomeration-privas-centre-ardeche--79272.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-urbain-interurbain-et-scolaire-de-la-communaute-dagglomeration-privas-centre-ardeche--81342.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-urbain-interurbain-et-scolaire-de-la-communaute-dagglomeration-privas-centre-ardeche--81342.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-urbain-kiceo.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-urbain-kiceo.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-urbain-la-navette-commune-de-gaillac--82293.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-urbain-la-navette-commune-de-gaillac--82293.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-urbain-la-navette-commune-de-gaillac--82583.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-urbain-la-navette-commune-de-gaillac--82583.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-urbain-la-navette-commune-de-graulhet.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-urbain-la-navette-commune-de-graulhet.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-urbain-le-passe-pont-communes-de-couffouleux-et-de-rabastens.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-urbain-le-passe-pont-communes-de-couffouleux-et-de-rabastens.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-urbain-le-vib.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-urbain-le-vib.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-urbain-lislenbus-commune-de-lisle-sur-tarn.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-urbain-lislenbus-commune-de-lisle-sur-tarn.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-urbain-mat.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-urbain-mat.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-urbain-nosbus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-urbain-nosbus.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-urbain-pondibus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-urbain-pondibus.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-urbain-reso.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-urbain-reso.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-urbain-scolaire-guingamp-paimpol-mobilite.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-urbain-scolaire-guingamp-paimpol-mobilite.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-urbain-surf.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-urbain-surf.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-urbain-ville-de-vitre.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-urbain-ville-de-vitre.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-vai-embrun.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-vai-embrun.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseau-yego-macs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseau-yego-macs.gtfs.zip"
+  },
+  {
+    "Name": "fr_reseaux-de-transports-en-commun-de-la-metropole-daix-marseille-provence-et-des-bouches-du-rhone.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_reseaux-de-transports-en-commun-de-la-metropole-daix-marseille-provence-et-des-bouches-du-rhone.gtfs.zip"
+  },
+  {
+    "Name": "fr_rubis-horaires-theoriques-du-reseau-de-transport-urbain-de-grand-bourg-agglomeration.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_rubis-horaires-theoriques-du-reseau-de-transport-urbain-de-grand-bourg-agglomeration.gtfs.zip"
+  },
+  {
+    "Name": "fr_saonibus-horaires-theoriques-et-temps-reel-du-reseau-de-transport-urbain-de-la-cc-dsv.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_saonibus-horaires-theoriques-et-temps-reel-du-reseau-de-transport-urbain-de-la-cc-dsv.gtfs.zip"
+  },
+  {
+    "Name": "fr_semo-val-de-reuil-louviers-seine-eure-agglo.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_semo-val-de-reuil-louviers-seine-eure-agglo.gtfs.zip"
+  },
+  {
+    "Name": "fr_skibus-courchevel-hiver.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_skibus-courchevel-hiver.gtfs.zip"
+  },
+  {
+    "Name": "fr_sngo-vernon-les-andelys-seine-normandie-agglo.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_sngo-vernon-les-andelys-seine-normandie-agglo.gtfs.zip"
+  },
+  {
+    "Name": "fr_star-horaires-theoriques-et-temps-reel-du-reseau-de-transport-urbain-de-roannais-agglomeration.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_star-horaires-theoriques-et-temps-reel-du-reseau-de-transport-urbain-de-roannais-agglomeration.gtfs.zip"
+  },
+  {
+    "Name": "fr_syndicat-mixte-des-transports-du-petit-cul-de-sac-marin--80398.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_syndicat-mixte-des-transports-du-petit-cul-de-sac-marin--80398.gtfs.zip"
+  },
+  {
+    "Name": "fr_syndicat-mixte-des-transports-du-petit-cul-de-sac-marin--82727.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_syndicat-mixte-des-transports-du-petit-cul-de-sac-marin--82727.gtfs.zip"
+  },
+  {
+    "Name": "fr_syndicat-mixte-des-transports-en-commun-de-lagglomeration-clermontoise-smtc-ac-reseau-t2c-gtfs-gtfs-rt.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_syndicat-mixte-des-transports-en-commun-de-lagglomeration-clermontoise-smtc-ac-reseau-t2c-gtfs-gtfs-rt.gtfs.zip"
+  },
+  {
+    "Name": "fr_tam-horaires-theoriques-du-reseau-de-transport-urbain-sur-la-ville-damberieu-en-bugey.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_tam-horaires-theoriques-du-reseau-de-transport-urbain-sur-la-ville-damberieu-en-bugey.gtfs.zip"
+  },
+  {
+    "Name": "fr_tbk-offre-theorique-et-temps-reel-du-reseau-de-transports-du-pays-de-quimperle.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_tbk-offre-theorique-et-temps-reel-du-reseau-de-transports-du-pays-de-quimperle.gtfs.zip"
+  },
+  {
+    "Name": "fr_tedbus-horaires-des-lignes-reseau.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_tedbus-horaires-des-lignes-reseau.gtfs.zip"
+  },
+  {
+    "Name": "fr_telepherique-du-mont-faron.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_telepherique-du-mont-faron.gtfs.zip"
+  },
+  {
+    "Name": "fr_thonon-agglomeration-donnees-gtfs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_thonon-agglomeration-donnees-gtfs.gtfs.zip"
+  },
+  {
+    "Name": "fr_tico-bus-horaires-theoriques-du-reseau-de-transport-urbain-tico--79864.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_tico-bus-horaires-theoriques-du-reseau-de-transport-urbain-tico--79864.gtfs.zip"
+  },
+  {
+    "Name": "fr_tico-bus-horaires-theoriques-du-reseau-de-transport-urbain-tico--80383.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_tico-bus-horaires-theoriques-du-reseau-de-transport-urbain-tico--80383.gtfs.zip"
+  },
+  {
+    "Name": "fr_tilt-lannion-tregor-communaute.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_tilt-lannion-tregor-communaute.gtfs.zip"
+  },
+  {
+    "Name": "fr_tisseo-offre-de-transport-gtfs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_tisseo-offre-de-transport-gtfs.gtfs.zip"
+  },
+  {
+    "Name": "fr_transport-du-reseau-urbain-agglobus-et-de-transports-scolaires-gtfs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_transport-du-reseau-urbain-agglobus-et-de-transports-scolaires-gtfs.gtfs.zip"
+  },
+  {
+    "Name": "fr_transport-en-commun-de-la-ville-dorange-ccpop-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_transport-en-commun-de-la-ville-dorange-ccpop-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_transport-scolaire-redon-agglomeration-format-gtfs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_transport-scolaire-redon-agglomeration-format-gtfs.gtfs.zip"
+  },
+  {
+    "Name": "fr_transport-urbain-3cma-bus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_transport-urbain-3cma-bus.gtfs.zip"
+  },
+  {
+    "Name": "fr_transport-urbain-du-bassin.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_transport-urbain-du-bassin.gtfs.zip"
+  },
+  {
+    "Name": "fr_transport-urbain.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_transport-urbain.gtfs.zip"
+  },
+  {
+    "Name": "fr_transports-a-la-demande-en-pays-de-la-loire-gtfs-flex-aleop.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_transports-a-la-demande-en-pays-de-la-loire-gtfs-flex-aleop.gtfs.zip"
+  },
+  {
+    "Name": "fr_transports-en-commun-audomarois-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_transports-en-commun-audomarois-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_transports-en-commun-ca2bm.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_transports-en-commun-ca2bm.gtfs.zip"
+  },
+  {
+    "Name": "fr_transports-publics-urbains-sur-le-territoire-de-la-ca-du-pays-de-gex-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_transports-publics-urbains-sur-le-territoire-de-la-ca-du-pays-de-gex-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_transports-urbains-bandol-sanary-s-mer.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_transports-urbains-bandol-sanary-s-mer.gtfs.zip"
+  },
+  {
+    "Name": "fr_transports-urbains-soissonnais-tus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_transports-urbains-soissonnais-tus.gtfs.zip"
+  },
+  {
+    "Name": "fr_transports-urbains-st-cyr-s-mer.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_transports-urbains-st-cyr-s-mer.gtfs.zip"
+  },
+  {
+    "Name": "fr_transports-urbains-tad-ville-de-soissons.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_transports-urbains-tad-ville-de-soissons.gtfs.zip"
+  },
+  {
+    "Name": "fr_transurbain-evreux-portes-de-normandie.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_transurbain-evreux-portes-de-normandie.gtfs.zip"
+  },
+  {
+    "Name": "fr_tudbus-douarnenez-communaute-transport.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_tudbus-douarnenez-communaute-transport.gtfs.zip"
+  },
+  {
+    "Name": "fr_versions-des-horaires-theoriques-des-lignes-de-bus-et-de-metro-du-reseau-star-au-format-gtfs--82774.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_versions-des-horaires-theoriques-des-lignes-de-bus-et-de-metro-du-reseau-star-au-format-gtfs--82774.gtfs.zip"
+  },
+  {
+    "Name": "fr_versions-des-horaires-theoriques-des-lignes-de-bus-et-de-metro-du-reseau-star-au-format-gtfs--82775.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_versions-des-horaires-theoriques-des-lignes-de-bus-et-de-metro-du-reseau-star-au-format-gtfs--82775.gtfs.zip"
+  },
+  {
+    "Name": "fr_versions-des-horaires-theoriques-des-lignes-du-reseau-de-bus-au-format-gtfs.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_versions-des-horaires-theoriques-des-lignes-du-reseau-de-bus-au-format-gtfs.gtfs.zip"
+  },
+  {
+    "Name": "fr_via-bastia-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_via-bastia-1.gtfs.zip"
+  },
+  {
+    "Name": "fr_vikibus-yvetot-normandie.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_vikibus-yvetot-normandie.gtfs.zip"
+  },
+  {
+    "Name": "fr_ville-damboise-offre-theorique-mobilite-reseau-urbain.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_ville-damboise-offre-theorique-mobilite-reseau-urbain.gtfs.zip"
+  },
+  {
+    "Name": "fr_yceo-arrets-horaires-et-lignes-urbaines-et-scolaires-gtfs-1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/fr_yceo-arrets-horaires-et-lignes-urbaines-et-scolaires-gtfs-1.gtfs.zip"
+  },
+  {
+    "Name": "gb_bus-dft.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/gb_bus-dft.gtfs.zip"
+  },
+  {
+    "Name": "gb_great-britain.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/gb_great-britain.gtfs.zip"
+  },
+  {
+    "Name": "gb_northern-ireland.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/gb_northern-ireland.gtfs.zip"
+  },
+  {
+    "Name": "hk_Hong-Kong-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/hk_Hong-Kong-Transit.gtfs.zip"
+  },
+  {
+    "Name": "hr_dubrovnik-libertas.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/hr_dubrovnik-libertas.gtfs.zip"
+  },
+  {
+    "Name": "hr_gradski-parking.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/hr_gradski-parking.gtfs.zip"
+  },
+  {
+    "Name": "hr_hz.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/hr_hz.gtfs.zip"
+  },
+  {
+    "Name": "hr_jl.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/hr_jl.gtfs.zip"
+  },
+  {
+    "Name": "hr_osijekgpp.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/hr_osijekgpp.gtfs.zip"
+  },
+  {
+    "Name": "hr_pulapromet.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/hr_pulapromet.gtfs.zip"
+  },
+  {
+    "Name": "hr_rijeka.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/hr_rijeka.gtfs.zip"
+  },
+  {
+    "Name": "hr_sisak.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/hr_sisak.gtfs.zip"
+  },
+  {
+    "Name": "hr_split.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/hr_split.gtfs.zip"
+  },
+  {
+    "Name": "hr_zet.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/hr_zet.gtfs.zip"
+  },
+  {
+    "Name": "hu_bkk.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/hu_bkk.gtfs.zip"
+  },
+  {
+    "Name": "hu_blaguss-agora.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/hu_blaguss-agora.gtfs.zip"
+  },
+  {
+    "Name": "hu_mav.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/hu_mav.gtfs.zip"
+  },
+  {
+    "Name": "hu_mvk.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/hu_mvk.gtfs.zip"
+  },
+  {
+    "Name": "hu_paksbusz.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/hu_paksbusz.gtfs.zip"
+  },
+  {
+    "Name": "hu_szkt.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/hu_szkt.gtfs.zip"
+  },
+  {
+    "Name": "hu_tukebusz.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/hu_tukebusz.gtfs.zip"
+  },
+  {
+    "Name": "hu_v-busz.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/hu_v-busz.gtfs.zip"
+  },
+  {
+    "Name": "hu_volanbusz.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/hu_volanbusz.gtfs.zip"
+  },
+  {
+    "Name": "id_Transjakarta.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/id_Transjakarta.gtfs.zip"
+  },
+  {
+    "Name": "ie_transport-for-ireland.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ie_transport-for-ireland.gtfs.zip"
+  },
+  {
+    "Name": "il_Israel-MOT.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/il_Israel-MOT.gtfs.zip"
+  },
+  {
+    "Name": "il_Sababus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/il_Sababus.gtfs.zip"
+  },
+  {
+    "Name": "il_busofash.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/il_busofash.gtfs.zip"
+  },
+  {
+    "Name": "is_straeto.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/is_straeto.gtfs.zip"
+  },
+  {
+    "Name": "it_Campania-ANM.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Campania-ANM.gtfs.zip"
+  },
+  {
+    "Name": "it_Campania-EAV.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Campania-EAV.gtfs.zip"
+  },
+  {
+    "Name": "it_Emilia-Romagna-TPER-BLQ-Airport.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Emilia-Romagna-TPER-BLQ-Airport.gtfs.zip"
+  },
+  {
+    "Name": "it_Emilia-Romagna-TPER-Bologna.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Emilia-Romagna-TPER-Bologna.gtfs.zip"
+  },
+  {
+    "Name": "it_Emilia-Romagna-TPER-Ferrara.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Emilia-Romagna-TPER-Ferrara.gtfs.zip"
+  },
+  {
+    "Name": "it_Ferrovie-del-Nord-Barese.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Ferrovie-del-Nord-Barese.gtfs.zip"
+  },
+  {
+    "Name": "it_Lazio-Cotral.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Lazio-Cotral.gtfs.zip"
+  },
+  {
+    "Name": "it_Lazio-Rome.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Lazio-Rome.gtfs.zip"
+  },
+  {
+    "Name": "it_Liguria-Genova.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Liguria-Genova.gtfs.zip"
+  },
+  {
+    "Name": "it_Lombardia-ATM.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Lombardia-ATM.gtfs.zip"
+  },
+  {
+    "Name": "it_Lombardia-AirPullman.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Lombardia-AirPullman.gtfs.zip"
+  },
+  {
+    "Name": "it_Lombardia-Movibus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Lombardia-Movibus.gtfs.zip"
+  },
+  {
+    "Name": "it_Lombardia-NET.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Lombardia-NET.gtfs.zip"
+  },
+  {
+    "Name": "it_Lombardia-STAR.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Lombardia-STAR.gtfs.zip"
+  },
+  {
+    "Name": "it_Lombardia-STAV.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Lombardia-STAV.gtfs.zip"
+  },
+  {
+    "Name": "it_Lombardia-Trenord.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Lombardia-Trenord.gtfs.zip"
+  },
+  {
+    "Name": "it_Piemonte-Bus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Piemonte-Bus.gtfs.zip"
+  },
+  {
+    "Name": "it_Piemonte-Gruppo-Torinese-Trasporti.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Piemonte-Gruppo-Torinese-Trasporti.gtfs.zip"
+  },
+  {
+    "Name": "it_Piemonte-Trenitalia.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Piemonte-Trenitalia.gtfs.zip"
+  },
+  {
+    "Name": "it_Puglia-Bari.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Puglia-Bari.gtfs.zip"
+  },
+  {
+    "Name": "it_Puglia-Brindisi-Extraurbano.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Puglia-Brindisi-Extraurbano.gtfs.zip"
+  },
+  {
+    "Name": "it_Puglia-Brindisi-Francavilla.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Puglia-Brindisi-Francavilla.gtfs.zip"
+  },
+  {
+    "Name": "it_Puglia-Brindisi-Ostuni.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Puglia-Brindisi-Ostuni.gtfs.zip"
+  },
+  {
+    "Name": "it_Puglia-Brindisi.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Puglia-Brindisi.gtfs.zip"
+  },
+  {
+    "Name": "it_Puglia-Lecce.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Puglia-Lecce.gtfs.zip"
+  },
+  {
+    "Name": "it_Sardegna-ARST.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Sardegna-ARST.gtfs.zip"
+  },
+  {
+    "Name": "it_Sardegna-ASPO-Olbia.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Sardegna-ASPO-Olbia.gtfs.zip"
+  },
+  {
+    "Name": "it_Sardegna-ATP-Nuoro.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Sardegna-ATP-Nuoro.gtfs.zip"
+  },
+  {
+    "Name": "it_Sardegna-ATP-Sassari.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Sardegna-ATP-Sassari.gtfs.zip"
+  },
+  {
+    "Name": "it_Sardegna-CTM.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Sardegna-CTM.gtfs.zip"
+  },
+  {
+    "Name": "it_Sardegna-Contributate.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Sardegna-Contributate.gtfs.zip"
+  },
+  {
+    "Name": "it_Sardegna-Ferries-Collegamenti-isole-minori.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Sardegna-Ferries-Collegamenti-isole-minori.gtfs.zip"
+  },
+  {
+    "Name": "it_Sardegna-Ferries-Collegamenti-marittimi-Corsica.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Sardegna-Ferries-Collegamenti-marittimi-Corsica.gtfs.zip"
+  },
+  {
+    "Name": "it_Sardegna-Planes-Cagliari-Airport.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Sardegna-Planes-Cagliari-Airport.gtfs.zip"
+  },
+  {
+    "Name": "it_Sardegna-Planes-Olbia-Airport.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Sardegna-Planes-Olbia-Airport.gtfs.zip"
+  },
+  {
+    "Name": "it_Sardegna-Trenitalia.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Sardegna-Trenitalia.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Arezzo-Extraurbano-Casentino-EMG.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Arezzo-Extraurbano-Casentino-EMG.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Arezzo-Extraurbano-CivitellaValChiana-EMG.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Arezzo-Extraurbano-CivitellaValChiana-EMG.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Arezzo-Extraurbano.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Arezzo-Extraurbano.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Arezzo-Urbano.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Arezzo-Urbano.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Autolinee-LineeRegionali.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Autolinee-LineeRegionali.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Autolinee-Poggibonsi.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Autolinee-Poggibonsi.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Autolinee-ServiziSostitutiviFerrovie.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Autolinee-ServiziSostitutiviFerrovie.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Extraurbano-Debole.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Extraurbano-Debole.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Extraurbano-Empoli.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Extraurbano-Empoli.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Firenze-Extraurbano.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Firenze-Extraurbano.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Firenze-Urbano.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Firenze-Urbano.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-GEST.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-GEST.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Grosseto-Extraurbano.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Grosseto-Extraurbano.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Grosseto-Urbano-Follonica.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Grosseto-Urbano-Follonica.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Grosseto-Urbano.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Grosseto-Urbano.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Livorno-Extraurbano-Debole.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Livorno-Extraurbano-Debole.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Livorno-Extraurbano.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Livorno-Extraurbano.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Livorno-Urbano-Cecina.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Livorno-Urbano-Cecina.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Livorno-Urbano-Piombino.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Livorno-Urbano-Piombino.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Livorno-Urbano-Portoferraio.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Livorno-Urbano-Portoferraio.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Livorno-Urbano-RosignanoMarittimo.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Livorno-Urbano-RosignanoMarittimo.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Livorno-Urbano.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Livorno-Urbano.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Lucca-Extraurbano-EMG.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Lucca-Extraurbano-EMG.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Lucca-Extraurbano.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Lucca-Extraurbano.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Lucca-Urbano-Viareggio.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Lucca-Urbano-Viareggio.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Lucca-Urbano.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Lucca-Urbano.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-MassaCarrara-Extraurbano-EMG.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-MassaCarrara-Extraurbano-EMG.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-MassaCarrara-Extraurbano.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-MassaCarrara-Extraurbano.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-MassaCarrara-Urbano-Carrara.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-MassaCarrara-Urbano-Carrara.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-MassaCarrara-Urbano-Massa.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-MassaCarrara-Urbano-Massa.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-MassaCarrara-Urbano.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-MassaCarrara-Urbano.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Pisa-Extraurbano-EMG.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Pisa-Extraurbano-EMG.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Pisa-Extraurbano.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Pisa-Extraurbano.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Pisa-Urbano-Debole.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Pisa-Urbano-Debole.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Pisa-Urbano-Pontedera-EMG.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Pisa-Urbano-Pontedera-EMG.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Pisa-Urbano-SanMiniato-EMG.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Pisa-Urbano-SanMiniato-EMG.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Pisa-Urbano.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Pisa-Urbano.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Pistoia-Extraurbano-Debole.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Pistoia-Extraurbano-Debole.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Pistoia-Extraurbano.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Pistoia-Extraurbano.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Pistoia-Urbano-MontecatiniTerme.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Pistoia-Urbano-MontecatiniTerme.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Pistoia-Urbano-Pescia.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Pistoia-Urbano-Pescia.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Pistoia-Urbano.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Pistoia-Urbano.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Prato-Extraurbano-Debole.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Prato-Extraurbano-Debole.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Prato-Extraurbano.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Prato-Extraurbano.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Prato-Urbano.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Prato-Urbano.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Siena-Extraurbano-EMG.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Siena-Extraurbano-EMG.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Siena-Extraurbano.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Siena-Extraurbano.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Siena-Urbano-ChiancianoTerme.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Siena-Urbano-ChiancianoTerme.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Siena-Urbano-Chiusi.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Siena-Urbano-Chiusi.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Siena-Urbano-ColleValDElsa.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Siena-Urbano-ColleValDElsa.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Siena-Urbano-Montepulciano.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Siena-Urbano-Montepulciano.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Siena-Urbano-SanGimignano.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Siena-Urbano-SanGimignano.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Siena-Urbano.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Siena-Urbano.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-TFT.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-TFT.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Toremar.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Toremar.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Trenitalia.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Trenitalia.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Urbano-Certaldo.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Urbano-Certaldo.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Urbano-Empoli.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Urbano-Empoli.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Urbano-Volterra-EMG.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Urbano-Volterra-EMG.gtfs.zip"
+  },
+  {
+    "Name": "it_Toscana-Valdarno.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Toscana-Valdarno.gtfs.zip"
+  },
+  {
+    "Name": "it_Trentino-Extraurbano.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Trentino-Extraurbano.gtfs.zip"
+  },
+  {
+    "Name": "it_Trentino-Urbano.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Trentino-Urbano.gtfs.zip"
+  },
+  {
+    "Name": "it_Veneto-Venezia-Bus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Veneto-Venezia-Bus.gtfs.zip"
+  },
+  {
+    "Name": "it_Veneto-Venezia-Ferries.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/it_Veneto-Venezia-Ferries.gtfs.zip"
+  },
+  {
+    "Name": "jp_hiroden.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/jp_hiroden.gtfs.zip"
+  },
+  {
+    "Name": "jp_toeibus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/jp_toeibus.gtfs.zip"
+  },
+  {
+    "Name": "lt_alytus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/lt_alytus.gtfs.zip"
+  },
+  {
+    "Name": "lt_druskininkai.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/lt_druskininkai.gtfs.zip"
+  },
+  {
+    "Name": "lt_kaunas.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/lt_kaunas.gtfs.zip"
+  },
+  {
+    "Name": "lt_klaipeda.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/lt_klaipeda.gtfs.zip"
+  },
+  {
+    "Name": "lt_panevezys.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/lt_panevezys.gtfs.zip"
+  },
+  {
+    "Name": "lt_siauliai.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/lt_siauliai.gtfs.zip"
+  },
+  {
+    "Name": "lt_taurage.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/lt_taurage.gtfs.zip"
+  },
+  {
+    "Name": "lt_traukiniai.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/lt_traukiniai.gtfs.zip"
+  },
+  {
+    "Name": "lt_vilnius.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/lt_vilnius.gtfs.zip"
+  },
+  {
+    "Name": "lt_visimarsrutai.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/lt_visimarsrutai.gtfs.zip"
+  },
+  {
+    "Name": "lu_administration-des-transports-publics.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/lu_administration-des-transports-publics.gtfs.zip"
+  },
+  {
+    "Name": "lu_openov.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/lu_openov.gtfs.zip"
+  },
+  {
+    "Name": "lv_B-Bus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/lv_B-Bus.gtfs.zip"
+  },
+  {
+    "Name": "lv_pieturas.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/lv_pieturas.gtfs.zip"
+  },
+  {
+    "Name": "md_Chi%C8%99in%C4%83u.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/md_Chi%C8%99in%C4%83u.gtfs.zip"
+  },
+  {
+    "Name": "me_zpcg.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/me_zpcg.gtfs.zip"
+  },
+  {
+    "Name": "mx_mexico.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/mx_mexico.gtfs.zip"
+  },
+  {
+    "Name": "my_bus-kl.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/my_bus-kl.gtfs.zip"
+  },
+  {
+    "Name": "my_bus-kuantan.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/my_bus-kuantan.gtfs.zip"
+  },
+  {
+    "Name": "my_bus-mrt-feeder.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/my_bus-mrt-feeder.gtfs.zip"
+  },
+  {
+    "Name": "my_bus-penang.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/my_bus-penang.gtfs.zip"
+  },
+  {
+    "Name": "my_ktmb.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/my_ktmb.gtfs.zip"
+  },
+  {
+    "Name": "my_rail-kl.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/my_rail-kl.gtfs.zip"
+  },
+  {
+    "Name": "nl_ovapi.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/nl_ovapi.gtfs.zip"
+  },
+  {
+    "Name": "no_Entur.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/no_Entur.gtfs.zip"
+  },
+  {
+    "Name": "nz_AT.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/nz_AT.gtfs.zip"
+  },
+  {
+    "Name": "nz_BUSIT.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/nz_BUSIT.gtfs.zip"
+  },
+  {
+    "Name": "nz_Baybus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/nz_Baybus.gtfs.zip"
+  },
+  {
+    "Name": "nz_Horizons-Regional-Council.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/nz_Horizons-Regional-Council.gtfs.zip"
+  },
+  {
+    "Name": "nz_Metlink.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/nz_Metlink.gtfs.zip"
+  },
+  {
+    "Name": "nz_Metro-Christchurch.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/nz_Metro-Christchurch.gtfs.zip"
+  },
+  {
+    "Name": "nz_Otago-Regional-Council.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/nz_Otago-Regional-Council.gtfs.zip"
+  },
+  {
+    "Name": "om_oman-mwasalat.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/om_oman-mwasalat.gtfs.zip"
+  },
+  {
+    "Name": "pl_Bydgoszcz.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pl_Bydgoszcz.gtfs.zip"
+  },
+  {
+    "Name": "pl_Elbl%C4%85g.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pl_Elbl%C4%85g.gtfs.zip"
+  },
+  {
+    "Name": "pl_Gda%C5%84sk.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pl_Gda%C5%84sk.gtfs.zip"
+  },
+  {
+    "Name": "pl_Gdynia.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pl_Gdynia.gtfs.zip"
+  },
+  {
+    "Name": "pl_Gi%C5%BCycko.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pl_Gi%C5%BCycko.gtfs.zip"
+  },
+  {
+    "Name": "pl_Kielce.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pl_Kielce.gtfs.zip"
+  },
+  {
+    "Name": "pl_Koleje-Dolno%C5%9Bl%C4%85skie.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pl_Koleje-Dolno%C5%9Bl%C4%85skie.gtfs.zip"
+  },
+  {
+    "Name": "pl_Koleje-Mazowieckie.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pl_Koleje-Mazowieckie.gtfs.zip"
+  },
+  {
+    "Name": "pl_Koleje-Ma%C5%82opolskie.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pl_Koleje-Ma%C5%82opolskie.gtfs.zip"
+  },
+  {
+    "Name": "pl_Lublin.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pl_Lublin.gtfs.zip"
+  },
+  {
+    "Name": "pl_MZK-E%C5%82k.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pl_MZK-E%C5%82k.gtfs.zip"
+  },
+  {
+    "Name": "pl_PKP-Intercity.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pl_PKP-Intercity.gtfs.zip"
+  },
+  {
+    "Name": "pl_PolRegio.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pl_PolRegio.gtfs.zip"
+  },
+  {
+    "Name": "pl_Pozna%C5%84.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pl_Pozna%C5%84.gtfs.zip"
+  },
+  {
+    "Name": "pl_Radom.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pl_Radom.gtfs.zip"
+  },
+  {
+    "Name": "pl_Rzesz%C3%B3w.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pl_Rzesz%C3%B3w.gtfs.zip"
+  },
+  {
+    "Name": "pl_Szczecin.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pl_Szczecin.gtfs.zip"
+  },
+  {
+    "Name": "pl_Toru%C5%84.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pl_Toru%C5%84.gtfs.zip"
+  },
+  {
+    "Name": "pl_TransportGZM.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pl_TransportGZM.gtfs.zip"
+  },
+  {
+    "Name": "pl_Warszawa.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pl_Warszawa.gtfs.zip"
+  },
+  {
+    "Name": "pl_Wejherowo.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pl_Wejherowo.gtfs.zip"
+  },
+  {
+    "Name": "pl_ZTP-Krak%C3%B3w.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pl_ZTP-Krak%C3%B3w.gtfs.zip"
+  },
+  {
+    "Name": "pl_%C5%81om%C5%BCa.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pl_%C5%81om%C5%BCa.gtfs.zip"
+  },
+  {
+    "Name": "pl_%C5%9Awinouj%C5%9Bcie.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pl_%C5%9Awinouj%C5%9Bcie.gtfs.zip"
+  },
+  {
+    "Name": "pr_puerto-rico.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pr_puerto-rico.gtfs.zip"
+  },
+  {
+    "Name": "pt_Albufeira-Giro.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pt_Albufeira-Giro.gtfs.zip"
+  },
+  {
+    "Name": "pt_Algarve-Vamus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pt_Algarve-Vamus.gtfs.zip"
+  },
+  {
+    "Name": "pt_Apanha-me.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pt_Apanha-me.gtfs.zip"
+  },
+  {
+    "Name": "pt_Autna.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pt_Autna.gtfs.zip"
+  },
+  {
+    "Name": "pt_Barreiro.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pt_Barreiro.gtfs.zip"
+  },
+  {
+    "Name": "pt_CIMRL-Leira.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pt_CIMRL-Leira.gtfs.zip"
+  },
+  {
+    "Name": "pt_Carris-Metropolitana.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pt_Carris-Metropolitana.gtfs.zip"
+  },
+  {
+    "Name": "pt_Carris.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pt_Carris.gtfs.zip"
+  },
+  {
+    "Name": "pt_Cascais-Pr%C3%B3xima.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pt_Cascais-Pr%C3%B3xima.gtfs.zip"
+  },
+  {
+    "Name": "pt_Comboios-de-Portugal%28CP%29.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pt_Comboios-de-Portugal%28CP%29.gtfs.zip"
+  },
+  {
+    "Name": "pt_Faro.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pt_Faro.gtfs.zip"
+  },
+  {
+    "Name": "pt_Fergatus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pt_Fergatus.gtfs.zip"
+  },
+  {
+    "Name": "pt_Funchal.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pt_Funchal.gtfs.zip"
+  },
+  {
+    "Name": "pt_Lagos-Aonda.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pt_Lagos-Aonda.gtfs.zip"
+  },
+  {
+    "Name": "pt_Leira-Mobilis.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pt_Leira-Mobilis.gtfs.zip"
+  },
+  {
+    "Name": "pt_Meio-MedioTejo.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pt_Meio-MedioTejo.gtfs.zip"
+  },
+  {
+    "Name": "pt_Metro-Lisboa.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pt_Metro-Lisboa.gtfs.zip"
+  },
+  {
+    "Name": "pt_Olhao.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pt_Olhao.gtfs.zip"
+  },
+  {
+    "Name": "pt_Portimao.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pt_Portimao.gtfs.zip"
+  },
+  {
+    "Name": "pt_Porto-STCP.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pt_Porto-STCP.gtfs.zip"
+  },
+  {
+    "Name": "pt_Tavira.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pt_Tavira.gtfs.zip"
+  },
+  {
+    "Name": "pt_Transportes-Urbanos-de-Braga.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/pt_Transportes-Urbanos-de-Braga.gtfs.zip"
+  },
+  {
+    "Name": "ro_Cluj-Napoca.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ro_Cluj-Napoca.gtfs.zip"
+  },
+  {
+    "Name": "ro_Consiliul-Judetean-Vrancea.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ro_Consiliul-Judetean-Vrancea.gtfs.zip"
+  },
+  {
+    "Name": "ro_Craiova.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ro_Craiova.gtfs.zip"
+  },
+  {
+    "Name": "ro_Ploie%C8%99ti.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ro_Ploie%C8%99ti.gtfs.zip"
+  },
+  {
+    "Name": "ro_Sinaia.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ro_Sinaia.gtfs.zip"
+  },
+  {
+    "Name": "ro_Transbus-Buz%C4%83u.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ro_Transbus-Buz%C4%83u.gtfs.zip"
+  },
+  {
+    "Name": "ro_T%C3%A2rgovi%C8%99te.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ro_T%C3%A2rgovi%C8%99te.gtfs.zip"
+  },
+  {
+    "Name": "ro_Zal%C4%83u.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ro_Zal%C4%83u.gtfs.zip"
+  },
+  {
+    "Name": "ro_brasov.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ro_brasov.gtfs.zip"
+  },
+  {
+    "Name": "ro_bucuresti.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ro_bucuresti.gtfs.zip"
+  },
+  {
+    "Name": "ro_constan%C8%9Ba.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ro_constan%C8%9Ba.gtfs.zip"
+  },
+  {
+    "Name": "ro_railway.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ro_railway.gtfs.zip"
+  },
+  {
+    "Name": "ro_tursib.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ro_tursib.gtfs.zip"
+  },
+  {
+    "Name": "rs_Beograd.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/rs_Beograd.gtfs.zip"
+  },
+  {
+    "Name": "rs_Kragujevac.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/rs_Kragujevac.gtfs.zip"
+  },
+  {
+    "Name": "rs_Ni%C5%A1.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/rs_Ni%C5%A1.gtfs.zip"
+  },
+  {
+    "Name": "rs_Srbijavoz.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/rs_Srbijavoz.gtfs.zip"
+  },
+  {
+    "Name": "rs_Subotica.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/rs_Subotica.gtfs.zip"
+  },
+  {
+    "Name": "rs_Uzice.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/rs_Uzice.gtfs.zip"
+  },
+  {
+    "Name": "se_Trafiklab.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/se_Trafiklab.gtfs.zip"
+  },
+  {
+    "Name": "sg_LTA.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/sg_LTA.gtfs.zip"
+  },
+  {
+    "Name": "si_lpp.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/si_lpp.gtfs.zip"
+  },
+  {
+    "Name": "si_nap.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/si_nap.gtfs.zip"
+  },
+  {
+    "Name": "sk_Bratislava.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/sk_Bratislava.gtfs.zip"
+  },
+  {
+    "Name": "sk_zssk.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/sk_zssk.gtfs.zip"
+  },
+  {
+    "Name": "tn_SNCTF.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/tn_SNCTF.gtfs.zip"
+  },
+  {
+    "Name": "tr_ankara.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/tr_ankara.gtfs.zip"
+  },
+  {
+    "Name": "tr_antalya.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/tr_antalya.gtfs.zip"
+  },
+  {
+    "Name": "tr_istanbul-ibb.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/tr_istanbul-ibb.gtfs.zip"
+  },
+  {
+    "Name": "tr_istanbul-iett.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/tr_istanbul-iett.gtfs.zip"
+  },
+  {
+    "Name": "tr_izmir-eshot.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/tr_izmir-eshot.gtfs.zip"
+  },
+  {
+    "Name": "tr_izmir-izban.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/tr_izmir-izban.gtfs.zip"
+  },
+  {
+    "Name": "tr_izmir-metro.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/tr_izmir-metro.gtfs.zip"
+  },
+  {
+    "Name": "tr_izmir-tram.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/tr_izmir-tram.gtfs.zip"
+  },
+  {
+    "Name": "tr_kocaeli.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/tr_kocaeli.gtfs.zip"
+  },
+  {
+    "Name": "tr_konya.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/tr_konya.gtfs.zip"
+  },
+  {
+    "Name": "ua_lviv.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/ua_lviv.gtfs.zip"
+  },
+  {
+    "Name": "us-ar_Rock-Region-Metro.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ar_Rock-Region-Metro.gtfs.zip"
+  },
+  {
+    "Name": "us-az_valleymetro.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-az_valleymetro.gtfs.zip"
+  },
+  {
+    "Name": "us-ca_Antelope-Valley-Transit-Authority.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ca_Antelope-Valley-Transit-Authority.gtfs.zip"
+  },
+  {
+    "Name": "us-ca_Burbank-Bus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ca_Burbank-Bus.gtfs.zip"
+  },
+  {
+    "Name": "us-ca_Caltrain.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ca_Caltrain.gtfs.zip"
+  },
+  {
+    "Name": "us-ca_Capitolcorridor.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ca_Capitolcorridor.gtfs.zip"
+  },
+  {
+    "Name": "us-ca_Catalina-Express.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ca_Catalina-Express.gtfs.zip"
+  },
+  {
+    "Name": "us-ca_Elkgrove.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ca_Elkgrove.gtfs.zip"
+  },
+  {
+    "Name": "us-ca_Goldengatetransit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ca_Goldengatetransit.gtfs.zip"
+  },
+  {
+    "Name": "us-ca_LA-County.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ca_LA-County.gtfs.zip"
+  },
+  {
+    "Name": "us-ca_Metro-LosAngeles-Rail.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ca_Metro-LosAngeles-Rail.gtfs.zip"
+  },
+  {
+    "Name": "us-ca_Metro-LosAngeles.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ca_Metro-LosAngeles.gtfs.zip"
+  },
+  {
+    "Name": "us-ca_Metrolink.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ca_Metrolink.gtfs.zip"
+  },
+  {
+    "Name": "us-ca_Monterey-Salinas-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ca_Monterey-Salinas-Transit.gtfs.zip"
+  },
+  {
+    "Name": "us-ca_Roseville-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ca_Roseville-Transit.gtfs.zip"
+  },
+  {
+    "Name": "us-ca_SDMTS.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ca_SDMTS.gtfs.zip"
+  },
+  {
+    "Name": "us-ca_SF-bayarea.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ca_SF-bayarea.gtfs.zip"
+  },
+  {
+    "Name": "us-ca_SFMTA.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ca_SFMTA.gtfs.zip"
+  },
+  {
+    "Name": "us-ca_Sacramento-Regional-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ca_Sacramento-Regional-Transit.gtfs.zip"
+  },
+  {
+    "Name": "us-ca_Sage-Stage.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ca_Sage-Stage.gtfs.zip"
+  },
+  {
+    "Name": "us-ca_Samtrans.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ca_Samtrans.gtfs.zip"
+  },
+  {
+    "Name": "us-ca_Santa-Clarita-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ca_Santa-Clarita-Transit.gtfs.zip"
+  },
+  {
+    "Name": "us-ca_Southcounty-Transitlink.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ca_Southcounty-Transitlink.gtfs.zip"
+  },
+  {
+    "Name": "us-co_RTD-bustang.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-co_RTD-bustang.gtfs.zip"
+  },
+  {
+    "Name": "us-co_RTD.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-co_RTD.gtfs.zip"
+  },
+  {
+    "Name": "us-dc_WMATA-bus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-dc_WMATA-bus.gtfs.zip"
+  },
+  {
+    "Name": "us-dc_WMATA-rail.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-dc_WMATA-rail.gtfs.zip"
+  },
+  {
+    "Name": "us-de_DART-First-State.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-de_DART-First-State.gtfs.zip"
+  },
+  {
+    "Name": "us-fl_miami-beach.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-fl_miami-beach.gtfs.zip"
+  },
+  {
+    "Name": "us-fl_miami-dade.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-fl_miami-dade.gtfs.zip"
+  },
+  {
+    "Name": "us-fl_sunrail.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-fl_sunrail.gtfs.zip"
+  },
+  {
+    "Name": "us-fl_tri-rail.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-fl_tri-rail.gtfs.zip"
+  },
+  {
+    "Name": "us-ga_MARTA.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ga_MARTA.gtfs.zip"
+  },
+  {
+    "Name": "us-hi_Hele-On.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-hi_Hele-On.gtfs.zip"
+  },
+  {
+    "Name": "us-hi_Kauai.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-hi_Kauai.gtfs.zip"
+  },
+  {
+    "Name": "us-hi_Maui.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-hi_Maui.gtfs.zip"
+  },
+  {
+    "Name": "us-hi_TheBus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-hi_TheBus.gtfs.zip"
+  },
+  {
+    "Name": "us-ia_CAMBUS.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ia_CAMBUS.gtfs.zip"
+  },
+  {
+    "Name": "us-ia_Coralville-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ia_Coralville-Transit.gtfs.zip"
+  },
+  {
+    "Name": "us-ia_Iowa-City-Transit-System.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ia_Iowa-City-Transit-System.gtfs.zip"
+  },
+  {
+    "Name": "us-il_CTA.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-il_CTA.gtfs.zip"
+  },
+  {
+    "Name": "us-il_ChampaignUrbana-MTD.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-il_ChampaignUrbana-MTD.gtfs.zip"
+  },
+  {
+    "Name": "us-il_Peoria-CityLink.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-il_Peoria-CityLink.gtfs.zip"
+  },
+  {
+    "Name": "us-il_SMTD.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-il_SMTD.gtfs.zip"
+  },
+  {
+    "Name": "us-in_Bloomington-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-in_Bloomington-Transit.gtfs.zip"
+  },
+  {
+    "Name": "us-in_CityBus-of-Greater-Lafayette-Indiana.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-in_CityBus-of-Greater-Lafayette-Indiana.gtfs.zip"
+  },
+  {
+    "Name": "us-in_Gary-Public-Transportation-Corporation.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-in_Gary-Public-Transportation-Corporation.gtfs.zip"
+  },
+  {
+    "Name": "us-in_Indiana-County-Transit-Authority.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-in_Indiana-County-Transit-Authority.gtfs.zip"
+  },
+  {
+    "Name": "us-in_IndyGo.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-in_IndyGo.gtfs.zip"
+  },
+  {
+    "Name": "us-in_Interurban-Trolley.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-in_Interurban-Trolley.gtfs.zip"
+  },
+  {
+    "Name": "us-in_Muncie-Indiana-Transit-System.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-in_Muncie-Indiana-Transit-System.gtfs.zip"
+  },
+  {
+    "Name": "us-in_Northern-Indiana-Commuter-Transportation-District.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-in_Northern-Indiana-Commuter-Transportation-District.gtfs.zip"
+  },
+  {
+    "Name": "us-in_Terre-Haute-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-in_Terre-Haute-Transit.gtfs.zip"
+  },
+  {
+    "Name": "us-in_Valparaiso-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-in_Valparaiso-Transit.gtfs.zip"
+  },
+  {
+    "Name": "us-ks_Flint-Hills.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ks_Flint-Hills.gtfs.zip"
+  },
+  {
+    "Name": "us-ks_Lawrence-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ks_Lawrence-Transit.gtfs.zip"
+  },
+  {
+    "Name": "us-ks_RideKC.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ks_RideKC.gtfs.zip"
+  },
+  {
+    "Name": "us-ks_Salina-CityGo.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ks_Salina-CityGo.gtfs.zip"
+  },
+  {
+    "Name": "us-ks_Topeka-Metro.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ks_Topeka-Metro.gtfs.zip"
+  },
+  {
+    "Name": "us-ks_Wichita-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ks_Wichita-Transit.gtfs.zip"
+  },
+  {
+    "Name": "us-ma_BrocktonMA.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ma_BrocktonMA.gtfs.zip"
+  },
+  {
+    "Name": "us-ma_LexingtonMA.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ma_LexingtonMA.gtfs.zip"
+  },
+  {
+    "Name": "us-ma_LoganExpress.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ma_LoganExpress.gtfs.zip"
+  },
+  {
+    "Name": "us-ma_MBTA.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ma_MBTA.gtfs.zip"
+  },
+  {
+    "Name": "us-ma_MWRTA.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ma_MWRTA.gtfs.zip"
+  },
+  {
+    "Name": "us-ma_Massport.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ma_Massport.gtfs.zip"
+  },
+  {
+    "Name": "us-md_CTS.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-md_CTS.gtfs.zip"
+  },
+  {
+    "Name": "us-md_EPTA.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-md_EPTA.gtfs.zip"
+  },
+  {
+    "Name": "us-md_MTA-bus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-md_MTA-bus.gtfs.zip"
+  },
+  {
+    "Name": "us-md_MTA-commuterbus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-md_MTA-commuterbus.gtfs.zip"
+  },
+  {
+    "Name": "us-md_MTA-marc.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-md_MTA-marc.gtfs.zip"
+  },
+  {
+    "Name": "us-md_MTA-raillink.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-md_MTA-raillink.gtfs.zip"
+  },
+  {
+    "Name": "us-md_MTA-subwaylink.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-md_MTA-subwaylink.gtfs.zip"
+  },
+  {
+    "Name": "us-md_RTA.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-md_RTA.gtfs.zip"
+  },
+  {
+    "Name": "us-md_RideOn.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-md_RideOn.gtfs.zip"
+  },
+  {
+    "Name": "us-me_acadia.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-me_acadia.gtfs.zip"
+  },
+  {
+    "Name": "us-me_biddeford-saco-old-orchard-beach.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-me_biddeford-saco-old-orchard-beach.gtfs.zip"
+  },
+  {
+    "Name": "us-me_casco-bay.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-me_casco-bay.gtfs.zip"
+  },
+  {
+    "Name": "us-me_greater-portland-metro-bus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-me_greater-portland-metro-bus.gtfs.zip"
+  },
+  {
+    "Name": "us-me_lakes-region-explorer.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-me_lakes-region-explorer.gtfs.zip"
+  },
+  {
+    "Name": "us-me_lewiston.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-me_lewiston.gtfs.zip"
+  },
+  {
+    "Name": "us-me_south-portland.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-me_south-portland.gtfs.zip"
+  },
+  {
+    "Name": "us-mi_Bay-Area-Transportation-Authority.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-mi_Bay-Area-Transportation-Authority.gtfs.zip"
+  },
+  {
+    "Name": "us-mi_CATA.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-mi_CATA.gtfs.zip"
+  },
+  {
+    "Name": "us-mi_DDOT.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-mi_DDOT.gtfs.zip"
+  },
+  {
+    "Name": "us-mi_DPM.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-mi_DPM.gtfs.zip"
+  },
+  {
+    "Name": "us-mi_MATS.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-mi_MATS.gtfs.zip"
+  },
+  {
+    "Name": "us-mi_MAX.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-mi_MAX.gtfs.zip"
+  },
+  {
+    "Name": "us-mi_Mass-Transportation-Authority-Flint.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-mi_Mass-Transportation-Authority-Flint.gtfs.zip"
+  },
+  {
+    "Name": "us-mi_Michigan-Flyer.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-mi_Michigan-Flyer.gtfs.zip"
+  },
+  {
+    "Name": "us-mi_STARS.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-mi_STARS.gtfs.zip"
+  },
+  {
+    "Name": "us-mi_The-Rapid.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-mi_The-Rapid.gtfs.zip"
+  },
+  {
+    "Name": "us-mi_TheRide.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-mi_TheRide.gtfs.zip"
+  },
+  {
+    "Name": "us-mi_University-of-Michigan-Transit-Services.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-mi_University-of-Michigan-Transit-Services.gtfs.zip"
+  },
+  {
+    "Name": "us-mi_qline.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-mi_qline.gtfs.zip"
+  },
+  {
+    "Name": "us-mi_smart.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-mi_smart.gtfs.zip"
+  },
+  {
+    "Name": "us-mn_Minneapolis-St-Paul.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-mn_Minneapolis-St-Paul.gtfs.zip"
+  },
+  {
+    "Name": "us-mo_KCATA.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-mo_KCATA.gtfs.zip"
+  },
+  {
+    "Name": "us-mo_Metro-stlouis.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-mo_Metro-stlouis.gtfs.zip"
+  },
+  {
+    "Name": "us-nc_ChapelHillTransit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-nc_ChapelHillTransit.gtfs.zip"
+  },
+  {
+    "Name": "us-nc_DukeTransit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-nc_DukeTransit.gtfs.zip"
+  },
+  {
+    "Name": "us-nc_GoCary.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-nc_GoCary.gtfs.zip"
+  },
+  {
+    "Name": "us-nc_GoDurham.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-nc_GoDurham.gtfs.zip"
+  },
+  {
+    "Name": "us-nc_GoRaleigh.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-nc_GoRaleigh.gtfs.zip"
+  },
+  {
+    "Name": "us-nc_GoTriangle.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-nc_GoTriangle.gtfs.zip"
+  },
+  {
+    "Name": "us-nc_NCSU-Wolfline.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-nc_NCSU-Wolfline.gtfs.zip"
+  },
+  {
+    "Name": "us-nh_advance-transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-nh_advance-transit.gtfs.zip"
+  },
+  {
+    "Name": "us-nh_coast.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-nh_coast.gtfs.zip"
+  },
+  {
+    "Name": "us-nh_dartmouth.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-nh_dartmouth.gtfs.zip"
+  },
+  {
+    "Name": "us-nj_NJ-Transit-Bus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-nj_NJ-Transit-Bus.gtfs.zip"
+  },
+  {
+    "Name": "us-nj_NJ-Transit-Rail.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-nj_NJ-Transit-Rail.gtfs.zip"
+  },
+  {
+    "Name": "us-nm_abq.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-nm_abq.gtfs.zip"
+  },
+  {
+    "Name": "us-nm_atomic-city.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-nm_atomic-city.gtfs.zip"
+  },
+  {
+    "Name": "us-nm_bandalier-national-monument.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-nm_bandalier-national-monument.gtfs.zip"
+  },
+  {
+    "Name": "us-nm_gallup-express.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-nm_gallup-express.gtfs.zip"
+  },
+  {
+    "Name": "us-nm_las-cruces.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-nm_las-cruces.gtfs.zip"
+  },
+  {
+    "Name": "us-nm_navajo-transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-nm_navajo-transit.gtfs.zip"
+  },
+  {
+    "Name": "us-nm_ncrtd.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-nm_ncrtd.gtfs.zip"
+  },
+  {
+    "Name": "us-nm_nm-dot-park-and-ride.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-nm_nm-dot-park-and-ride.gtfs.zip"
+  },
+  {
+    "Name": "us-nm_red-apple-transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-nm_red-apple-transit.gtfs.zip"
+  },
+  {
+    "Name": "us-nm_santa-fe-trails.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-nm_santa-fe-trails.gtfs.zip"
+  },
+  {
+    "Name": "us-nv_North-Lake-Tahoe.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-nv_North-Lake-Tahoe.gtfs.zip"
+  },
+  {
+    "Name": "us-nv_las-vegas-rtc.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-nv_las-vegas-rtc.gtfs.zip"
+  },
+  {
+    "Name": "us-nv_lasvegasloop.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-nv_lasvegasloop.gtfs.zip"
+  },
+  {
+    "Name": "us-nv_tahoe.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-nv_tahoe.gtfs.zip"
+  },
+  {
+    "Name": "us-ny_CDTA.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ny_CDTA.gtfs.zip"
+  },
+  {
+    "Name": "us-ny_GlenCove.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ny_GlenCove.gtfs.zip"
+  },
+  {
+    "Name": "us-ny_LIRR.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ny_LIRR.gtfs.zip"
+  },
+  {
+    "Name": "us-ny_LongBeach.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ny_LongBeach.gtfs.zip"
+  },
+  {
+    "Name": "us-ny_MTA-BusBronx.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ny_MTA-BusBronx.gtfs.zip"
+  },
+  {
+    "Name": "us-ny_MTA-BusBrooklyn.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ny_MTA-BusBrooklyn.gtfs.zip"
+  },
+  {
+    "Name": "us-ny_MTA-BusCompany.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ny_MTA-BusCompany.gtfs.zip"
+  },
+  {
+    "Name": "us-ny_MTA-BusManhattan.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ny_MTA-BusManhattan.gtfs.zip"
+  },
+  {
+    "Name": "us-ny_MTA-BusQueens.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ny_MTA-BusQueens.gtfs.zip"
+  },
+  {
+    "Name": "us-ny_MTA-BusStatenIsland.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ny_MTA-BusStatenIsland.gtfs.zip"
+  },
+  {
+    "Name": "us-ny_MTA-NYCSubway.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ny_MTA-NYCSubway.gtfs.zip"
+  },
+  {
+    "Name": "us-ny_MetroNorth.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ny_MetroNorth.gtfs.zip"
+  },
+  {
+    "Name": "us-ny_NY-Waterway.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ny_NY-Waterway.gtfs.zip"
+  },
+  {
+    "Name": "us-ny_NYC-Ferry.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ny_NYC-Ferry.gtfs.zip"
+  },
+  {
+    "Name": "us-ny_NassauInterCountyExpress.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ny_NassauInterCountyExpress.gtfs.zip"
+  },
+  {
+    "Name": "us-ny_NationalParkService.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ny_NationalParkService.gtfs.zip"
+  },
+  {
+    "Name": "us-ny_NewYorkCityDOT.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ny_NewYorkCityDOT.gtfs.zip"
+  },
+  {
+    "Name": "us-ny_PATH.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ny_PATH.gtfs.zip"
+  },
+  {
+    "Name": "us-ny_Seastreak.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ny_Seastreak.gtfs.zip"
+  },
+  {
+    "Name": "us-ny_SuffolkCountyTransit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ny_SuffolkCountyTransit.gtfs.zip"
+  },
+  {
+    "Name": "us-ny_TransitOrange.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ny_TransitOrange.gtfs.zip"
+  },
+  {
+    "Name": "us-ny_UCAT.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ny_UCAT.gtfs.zip"
+  },
+  {
+    "Name": "us-oh_Miller-Transportation.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-oh_Miller-Transportation.gtfs.zip"
+  },
+  {
+    "Name": "us-oh_RTA.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-oh_RTA.gtfs.zip"
+  },
+  {
+    "Name": "us-oh_Stark-Area-Regional-Transit-Authority.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-oh_Stark-Area-Regional-Transit-Authority.gtfs.zip"
+  },
+  {
+    "Name": "us-oh_Yourmetrobus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-oh_Yourmetrobus.gtfs.zip"
+  },
+  {
+    "Name": "us-or_Trimet.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-or_Trimet.gtfs.zip"
+  },
+  {
+    "Name": "us-pa_BeST.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-pa_BeST.gtfs.zip"
+  },
+  {
+    "Name": "us-pa_CAT.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-pa_CAT.gtfs.zip"
+  },
+  {
+    "Name": "us-pa_IndiGO.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-pa_IndiGO.gtfs.zip"
+  },
+  {
+    "Name": "us-pa_MMVTA.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-pa_MMVTA.gtfs.zip"
+  },
+  {
+    "Name": "us-pa_NCATA.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-pa_NCATA.gtfs.zip"
+  },
+  {
+    "Name": "us-pa_PATCO.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-pa_PATCO.gtfs.zip"
+  },
+  {
+    "Name": "us-pa_PRT.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-pa_PRT.gtfs.zip"
+  },
+  {
+    "Name": "us-pa_SEPTA-Bus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-pa_SEPTA-Bus.gtfs.zip"
+  },
+  {
+    "Name": "us-pa_SEPTA-Rail.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-pa_SEPTA-Rail.gtfs.zip"
+  },
+  {
+    "Name": "us-pa_altoona.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-pa_altoona.gtfs.zip"
+  },
+  {
+    "Name": "us-pa_barta.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-pa_barta.gtfs.zip"
+  },
+  {
+    "Name": "us-pa_beaver.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-pa_beaver.gtfs.zip"
+  },
+  {
+    "Name": "us-pa_butler.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-pa_butler.gtfs.zip"
+  },
+  {
+    "Name": "us-pa_cambria.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-pa_cambria.gtfs.zip"
+  },
+  {
+    "Name": "us-pa_cata.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-pa_cata.gtfs.zip"
+  },
+  {
+    "Name": "us-pa_crawford.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-pa_crawford.gtfs.zip"
+  },
+  {
+    "Name": "us-pa_fayette.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-pa_fayette.gtfs.zip"
+  },
+  {
+    "Name": "us-pa_freedom.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-pa_freedom.gtfs.zip"
+  },
+  {
+    "Name": "us-pa_hazleton.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-pa_hazleton.gtfs.zip"
+  },
+  {
+    "Name": "us-pa_lackawanna.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-pa_lackawanna.gtfs.zip"
+  },
+  {
+    "Name": "us-pa_lanta.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-pa_lanta.gtfs.zip"
+  },
+  {
+    "Name": "us-pa_lebanon.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-pa_lebanon.gtfs.zip"
+  },
+  {
+    "Name": "us-pa_lower-anthracite.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-pa_lower-anthracite.gtfs.zip"
+  },
+  {
+    "Name": "us-pa_luzerne.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-pa_luzerne.gtfs.zip"
+  },
+  {
+    "Name": "us-pa_north-central.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-pa_north-central.gtfs.zip"
+  },
+  {
+    "Name": "us-pa_pottstown.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-pa_pottstown.gtfs.zip"
+  },
+  {
+    "Name": "us-pa_rabbittransit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-pa_rabbittransit.gtfs.zip"
+  },
+  {
+    "Name": "us-pa_redrosetransit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-pa_redrosetransit.gtfs.zip"
+  },
+  {
+    "Name": "us-pa_river-valley.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-pa_river-valley.gtfs.zip"
+  },
+  {
+    "Name": "us-pa_schuylkill.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-pa_schuylkill.gtfs.zip"
+  },
+  {
+    "Name": "us-pa_shenango-valley.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-pa_shenango-valley.gtfs.zip"
+  },
+  {
+    "Name": "us-pa_westmoreland.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-pa_westmoreland.gtfs.zip"
+  },
+  {
+    "Name": "us-ri_RIPTA.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ri_RIPTA.gtfs.zip"
+  },
+  {
+    "Name": "us-tx_abilene.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-tx_abilene.gtfs.zip"
+  },
+  {
+    "Name": "us-tx_amarillo.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-tx_amarillo.gtfs.zip"
+  },
+  {
+    "Name": "us-tx_capital-metro.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-tx_capital-metro.gtfs.zip"
+  },
+  {
+    "Name": "us-tx_concho-valley.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-tx_concho-valley.gtfs.zip"
+  },
+  {
+    "Name": "us-tx_corpus-christi.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-tx_corpus-christi.gtfs.zip"
+  },
+  {
+    "Name": "us-tx_dallas-area-rapidtransit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-tx_dallas-area-rapidtransit.gtfs.zip"
+  },
+  {
+    "Name": "us-tx_denton.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-tx_denton.gtfs.zip"
+  },
+  {
+    "Name": "us-tx_fortworth-TA.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-tx_fortworth-TA.gtfs.zip"
+  },
+  {
+    "Name": "us-tx_houston-metro.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-tx_houston-metro.gtfs.zip"
+  },
+  {
+    "Name": "us-tx_laredo.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-tx_laredo.gtfs.zip"
+  },
+  {
+    "Name": "us-tx_lubbock.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-tx_lubbock.gtfs.zip"
+  },
+  {
+    "Name": "us-tx_star-transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-tx_star-transit.gtfs.zip"
+  },
+  {
+    "Name": "us-tx_sun-metro.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-tx_sun-metro.gtfs.zip"
+  },
+  {
+    "Name": "us-tx_via-san-antonio.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-tx_via-san-antonio.gtfs.zip"
+  },
+  {
+    "Name": "us-ut_UTA.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ut_UTA.gtfs.zip"
+  },
+  {
+    "Name": "us-ut_cache-valley.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ut_cache-valley.gtfs.zip"
+  },
+  {
+    "Name": "us-ut_high-valley.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ut_high-valley.gtfs.zip"
+  },
+  {
+    "Name": "us-ut_park-city.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-ut_park-city.gtfs.zip"
+  },
+  {
+    "Name": "us-va_Fairfax-CUE-Bus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_Fairfax-CUE-Bus.gtfs.zip"
+  },
+  {
+    "Name": "us-va_Greensville-Emporia.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_Greensville-Emporia.gtfs.zip"
+  },
+  {
+    "Name": "us-va_alexandria-dash.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_alexandria-dash.gtfs.zip"
+  },
+  {
+    "Name": "us-va_altavista.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_altavista.gtfs.zip"
+  },
+  {
+    "Name": "us-va_arlington.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_arlington.gtfs.zip"
+  },
+  {
+    "Name": "us-va_bay-transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_bay-transit.gtfs.zip"
+  },
+  {
+    "Name": "us-va_blackstone.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_blackstone.gtfs.zip"
+  },
+  {
+    "Name": "us-va_bristol.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_bristol.gtfs.zip"
+  },
+  {
+    "Name": "us-va_brite-bus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_brite-bus.gtfs.zip"
+  },
+  {
+    "Name": "us-va_danville.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_danville.gtfs.zip"
+  },
+  {
+    "Name": "us-va_districtthree.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_districtthree.gtfs.zip"
+  },
+  {
+    "Name": "us-va_dqch-prtc.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_dqch-prtc.gtfs.zip"
+  },
+  {
+    "Name": "us-va_fairfax-connector.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_fairfax-connector.gtfs.zip"
+  },
+  {
+    "Name": "us-va_farmville.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_farmville.gtfs.zip"
+  },
+  {
+    "Name": "us-va_four-county.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_four-county.gtfs.zip"
+  },
+  {
+    "Name": "us-va_gltc-lynchburg.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_gltc-lynchburg.gtfs.zip"
+  },
+  {
+    "Name": "us-va_graham.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_graham.gtfs.zip"
+  },
+  {
+    "Name": "us-va_hafe-shuttle-transport.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_hafe-shuttle-transport.gtfs.zip"
+  },
+  {
+    "Name": "us-va_harrisonburg.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_harrisonburg.gtfs.zip"
+  },
+  {
+    "Name": "us-va_hrt.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_hrt.gtfs.zip"
+  },
+  {
+    "Name": "us-va_jaunt.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_jaunt.gtfs.zip"
+  },
+  {
+    "Name": "us-va_loudoun-county.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_loudoun-county.gtfs.zip"
+  },
+  {
+    "Name": "us-va_petersburg.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_petersburg.gtfs.zip"
+  },
+  {
+    "Name": "us-va_pulaski.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_pulaski.gtfs.zip"
+  },
+  {
+    "Name": "us-va_radartransit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_radartransit.gtfs.zip"
+  },
+  {
+    "Name": "us-va_radford.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_radford.gtfs.zip"
+  },
+  {
+    "Name": "us-va_richmond.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_richmond.gtfs.zip"
+  },
+  {
+    "Name": "us-va_roanoke.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_roanoke.gtfs.zip"
+  },
+  {
+    "Name": "us-va_star-transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_star-transit.gtfs.zip"
+  },
+  {
+    "Name": "us-va_university-virginia.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_university-virginia.gtfs.zip"
+  },
+  {
+    "Name": "us-va_vatransit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_vatransit.gtfs.zip"
+  },
+  {
+    "Name": "us-va_virginia-railway-express.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_virginia-railway-express.gtfs.zip"
+  },
+  {
+    "Name": "us-va_williamsburg.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_williamsburg.gtfs.zip"
+  },
+  {
+    "Name": "us-va_winchester.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-va_winchester.gtfs.zip"
+  },
+  {
+    "Name": "us-vt_dvtamoover.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-vt_dvtamoover.gtfs.zip"
+  },
+  {
+    "Name": "us-vt_gmt.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-vt_gmt.gtfs.zip"
+  },
+  {
+    "Name": "us-vt_greenmtncn.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-vt_greenmtncn.gtfs.zip"
+  },
+  {
+    "Name": "us-vt_lake-champlain-ferries.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-vt_lake-champlain-ferries.gtfs.zip"
+  },
+  {
+    "Name": "us-vt_rensselaer-county-yankee-trails.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-vt_rensselaer-county-yankee-trails.gtfs.zip"
+  },
+  {
+    "Name": "us-vt_ruralcommunity.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-vt_ruralcommunity.gtfs.zip"
+  },
+  {
+    "Name": "us-vt_thebus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-vt_thebus.gtfs.zip"
+  },
+  {
+    "Name": "us-vt_tri-valley-transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-vt_tri-valley-transit.gtfs.zip"
+  },
+  {
+    "Name": "us-vt_vt-translines.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-vt_vt-translines.gtfs.zip"
+  },
+  {
+    "Name": "us-wa_Appleline-Goldline-Dungenessline-Grapeline.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wa_Appleline-Goldline-Dungenessline-Grapeline.gtfs.zip"
+  },
+  {
+    "Name": "us-wa_Asotin-County-PTBA.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wa_Asotin-County-PTBA.gtfs.zip"
+  },
+  {
+    "Name": "us-wa_Ben-Franklin-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wa_Ben-Franklin-Transit.gtfs.zip"
+  },
+  {
+    "Name": "us-wa_Clallam-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wa_Clallam-Transit.gtfs.zip"
+  },
+  {
+    "Name": "us-wa_Community-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wa_Community-Transit.gtfs.zip"
+  },
+  {
+    "Name": "us-wa_Everett-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wa_Everett-Transit.gtfs.zip"
+  },
+  {
+    "Name": "us-wa_Grant-Transit-Authority.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wa_Grant-Transit-Authority.gtfs.zip"
+  },
+  {
+    "Name": "us-wa_Grays-Harbor-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wa_Grays-Harbor-Transit.gtfs.zip"
+  },
+  {
+    "Name": "us-wa_Intercity-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wa_Intercity-Transit.gtfs.zip"
+  },
+  {
+    "Name": "us-wa_Island-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wa_Island-Transit.gtfs.zip"
+  },
+  {
+    "Name": "us-wa_Jefferson-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wa_Jefferson-Transit.gtfs.zip"
+  },
+  {
+    "Name": "us-wa_Kitsap-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wa_Kitsap-Transit.gtfs.zip"
+  },
+  {
+    "Name": "us-wa_Link-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wa_Link-Transit.gtfs.zip"
+  },
+  {
+    "Name": "us-wa_Mason-Transit-Authority.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wa_Mason-Transit-Authority.gtfs.zip"
+  },
+  {
+    "Name": "us-wa_Metro-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wa_Metro-Transit.gtfs.zip"
+  },
+  {
+    "Name": "us-wa_Microsoft-Shuttles.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wa_Microsoft-Shuttles.gtfs.zip"
+  },
+  {
+    "Name": "us-wa_Pacific-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wa_Pacific-Transit.gtfs.zip"
+  },
+  {
+    "Name": "us-wa_Pierce-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wa_Pierce-Transit.gtfs.zip"
+  },
+  {
+    "Name": "us-wa_Pullman-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wa_Pullman-Transit.gtfs.zip"
+  },
+  {
+    "Name": "us-wa_RiverCities-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wa_RiverCities-Transit.gtfs.zip"
+  },
+  {
+    "Name": "us-wa_Seattle-Childrens-Hospital-Shuttle.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wa_Seattle-Childrens-Hospital-Shuttle.gtfs.zip"
+  },
+  {
+    "Name": "us-wa_Selah-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wa_Selah-Transit.gtfs.zip"
+  },
+  {
+    "Name": "us-wa_Skagit-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wa_Skagit-Transit.gtfs.zip"
+  },
+  {
+    "Name": "us-wa_Sound-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wa_Sound-Transit.gtfs.zip"
+  },
+  {
+    "Name": "us-wa_Spokane-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wa_Spokane-Transit.gtfs.zip"
+  },
+  {
+    "Name": "us-wa_TheVictoriaClipper.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wa_TheVictoriaClipper.gtfs.zip"
+  },
+  {
+    "Name": "us-wa_Union-Gap-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wa_Union-Gap-Transit.gtfs.zip"
+  },
+  {
+    "Name": "us-wa_Valley-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wa_Valley-Transit.gtfs.zip"
+  },
+  {
+    "Name": "us-wa_Washington-State-Ferries.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wa_Washington-State-Ferries.gtfs.zip"
+  },
+  {
+    "Name": "us-wa_Whatcom-Transporation-Authority.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wa_Whatcom-Transporation-Authority.gtfs.zip"
+  },
+  {
+    "Name": "us-wa_Yakima-Transit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wa_Yakima-Transit.gtfs.zip"
+  },
+  {
+    "Name": "us-wi_eauclairetransit.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wi_eauclairetransit.gtfs.zip"
+  },
+  {
+    "Name": "us-wi_green-bay.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wi_green-bay.gtfs.zip"
+  },
+  {
+    "Name": "us-wi_janesville-jts.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wi_janesville-jts.gtfs.zip"
+  },
+  {
+    "Name": "us-wi_kenosha.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wi_kenosha.gtfs.zip"
+  },
+  {
+    "Name": "us-wi_madison.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wi_madison.gtfs.zip"
+  },
+  {
+    "Name": "us-wi_oshkosh.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wi_oshkosh.gtfs.zip"
+  },
+  {
+    "Name": "us-wi_racine.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wi_racine.gtfs.zip"
+  },
+  {
+    "Name": "us-wi_sheboygan.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wi_sheboygan.gtfs.zip"
+  },
+  {
+    "Name": "us-wi_stevens-point.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wi_stevens-point.gtfs.zip"
+  },
+  {
+    "Name": "us-wi_waukesha.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wi_waukesha.gtfs.zip"
+  },
+  {
+    "Name": "us-wi_wausau.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wi_wausau.gtfs.zip"
+  },
+  {
+    "Name": "us-wv_WVU-PRT.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wv_WVU-PRT.gtfs.zip"
+  },
+  {
+    "Name": "us-wv_beckley.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wv_beckley.gtfs.zip"
+  },
+  {
+    "Name": "us-wv_epta.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wv_epta.gtfs.zip"
+  },
+  {
+    "Name": "us-wv_mlta.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wv_mlta.gtfs.zip"
+  },
+  {
+    "Name": "us-wy_sheridan.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us-wy_sheridan.gtfs.zip"
+  },
+  {
+    "Name": "us_Amtrak.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us_Amtrak.gtfs.zip"
+  },
+  {
+    "Name": "us_Brightline.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us_Brightline.gtfs.zip"
+  },
+  {
+    "Name": "us_Megabus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us_Megabus.gtfs.zip"
+  },
+  {
+    "Name": "us_Peter-Pan-Bus-Lines.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us_Peter-Pan-Bus-Lines.gtfs.zip"
+  },
+  {
+    "Name": "us_flixbus.gtfs.zip",
+    "Url": "https://api.transitous.org/gtfs/us_flixbus.gtfs.zip"
+  }
+]

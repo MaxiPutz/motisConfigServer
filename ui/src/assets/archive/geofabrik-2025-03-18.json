@@ -1,0 +1,4285 @@
+{
+ "path": "",
+ "isLeaf": false,
+ "regionName": "",
+ "osmData": "",
+ "rootPath": "",
+ "rawHtml": "https://download.geofabrik.de",
+ "children": [
+  {
+   "path": "africa.htmla",
+   "isLeaf": false,
+   "regionName": "Africa",
+   "osmData": "africa-latest.osm.pbf",
+   "rootPath": "",
+   "rawHtml": "https://download.geofabrik.de",
+   "children": [
+    {
+     "path": "africa/algeria.html",
+     "isLeaf": true,
+     "regionName": "Algeria",
+     "osmData": "africa/algeria-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/angola.html",
+     "isLeaf": true,
+     "regionName": "Angola",
+     "osmData": "africa/angola-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/benin.html",
+     "isLeaf": true,
+     "regionName": "Benin",
+     "osmData": "africa/benin-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/botswana.html",
+     "isLeaf": true,
+     "regionName": "Botswana",
+     "osmData": "africa/botswana-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/burkina-faso.html",
+     "isLeaf": true,
+     "regionName": "Burkina Faso",
+     "osmData": "africa/burkina-faso-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/burundi.html",
+     "isLeaf": true,
+     "regionName": "Burundi",
+     "osmData": "africa/burundi-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/cameroon.html",
+     "isLeaf": true,
+     "regionName": "Cameroon",
+     "osmData": "africa/cameroon-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/canary-islands.html",
+     "isLeaf": true,
+     "regionName": "Canary Islands",
+     "osmData": "africa/canary-islands-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/cape-verde.html",
+     "isLeaf": true,
+     "regionName": "Cape Verde",
+     "osmData": "africa/cape-verde-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/central-african-republic.html",
+     "isLeaf": true,
+     "regionName": "Central African Republic",
+     "osmData": "africa/central-african-republic-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/chad.html",
+     "isLeaf": true,
+     "regionName": "Chad",
+     "osmData": "africa/chad-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/comores.html",
+     "isLeaf": true,
+     "regionName": "Comores",
+     "osmData": "africa/comores-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/congo-brazzaville.html",
+     "isLeaf": true,
+     "regionName": "Congo (Republic/Brazzaville)",
+     "osmData": "africa/congo-brazzaville-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/congo-democratic-republic.html",
+     "isLeaf": true,
+     "regionName": "Congo (Democratic Republic/Kinshasa)",
+     "osmData": "africa/congo-democratic-republic-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/djibouti.html",
+     "isLeaf": true,
+     "regionName": "Djibouti",
+     "osmData": "africa/djibouti-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/egypt.html",
+     "isLeaf": true,
+     "regionName": "Egypt",
+     "osmData": "africa/egypt-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/equatorial-guinea.html",
+     "isLeaf": true,
+     "regionName": "Equatorial Guinea",
+     "osmData": "africa/equatorial-guinea-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/eritrea.html",
+     "isLeaf": true,
+     "regionName": "Eritrea",
+     "osmData": "africa/eritrea-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/ethiopia.html",
+     "isLeaf": true,
+     "regionName": "Ethiopia",
+     "osmData": "africa/ethiopia-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/gabon.html",
+     "isLeaf": true,
+     "regionName": "Gabon",
+     "osmData": "africa/gabon-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/ghana.html",
+     "isLeaf": true,
+     "regionName": "Ghana",
+     "osmData": "africa/ghana-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/guinea.html",
+     "isLeaf": true,
+     "regionName": "Guinea",
+     "osmData": "africa/guinea-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/guinea-bissau.html",
+     "isLeaf": true,
+     "regionName": "Guinea-Bissau",
+     "osmData": "africa/guinea-bissau-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/ivory-coast.html",
+     "isLeaf": true,
+     "regionName": "Ivory Coast",
+     "osmData": "africa/ivory-coast-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/kenya.html",
+     "isLeaf": true,
+     "regionName": "Kenya",
+     "osmData": "africa/kenya-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/lesotho.html",
+     "isLeaf": true,
+     "regionName": "Lesotho",
+     "osmData": "africa/lesotho-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/liberia.html",
+     "isLeaf": true,
+     "regionName": "Liberia",
+     "osmData": "africa/liberia-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/libya.html",
+     "isLeaf": true,
+     "regionName": "Libya",
+     "osmData": "africa/libya-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/madagascar.html",
+     "isLeaf": true,
+     "regionName": "Madagascar",
+     "osmData": "africa/madagascar-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/malawi.html",
+     "isLeaf": true,
+     "regionName": "Malawi",
+     "osmData": "africa/malawi-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/mali.html",
+     "isLeaf": true,
+     "regionName": "Mali",
+     "osmData": "africa/mali-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/mauritania.html",
+     "isLeaf": true,
+     "regionName": "Mauritania",
+     "osmData": "africa/mauritania-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/mauritius.html",
+     "isLeaf": true,
+     "regionName": "Mauritius",
+     "osmData": "africa/mauritius-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/morocco.html",
+     "isLeaf": true,
+     "regionName": "Morocco",
+     "osmData": "africa/morocco-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/mozambique.html",
+     "isLeaf": true,
+     "regionName": "Mozambique",
+     "osmData": "africa/mozambique-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/namibia.html",
+     "isLeaf": true,
+     "regionName": "Namibia",
+     "osmData": "africa/namibia-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/niger.html",
+     "isLeaf": true,
+     "regionName": "Niger",
+     "osmData": "africa/niger-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/nigeria.html",
+     "isLeaf": true,
+     "regionName": "Nigeria",
+     "osmData": "africa/nigeria-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/rwanda.html",
+     "isLeaf": true,
+     "regionName": "Rwanda",
+     "osmData": "africa/rwanda-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/saint-helena-ascension-and-tristan-da-cunha.html",
+     "isLeaf": true,
+     "regionName": "Saint Helena, Ascension, and Tristan da Cunha",
+     "osmData": "africa/saint-helena-ascension-and-tristan-da-cunha-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/sao-tome-and-principe.html",
+     "isLeaf": true,
+     "regionName": "Sao Tome and Principe",
+     "osmData": "africa/sao-tome-and-principe-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/senegal-and-gambia.html",
+     "isLeaf": true,
+     "regionName": "Senegal and Gambia",
+     "osmData": "africa/senegal-and-gambia-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/seychelles.html",
+     "isLeaf": true,
+     "regionName": "Seychelles",
+     "osmData": "africa/seychelles-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/sierra-leone.html",
+     "isLeaf": true,
+     "regionName": "Sierra Leone",
+     "osmData": "africa/sierra-leone-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/somalia.html",
+     "isLeaf": true,
+     "regionName": "Somalia",
+     "osmData": "africa/somalia-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/south-africa.html",
+     "isLeaf": true,
+     "regionName": "South Africa",
+     "osmData": "africa/south-africa-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/south-sudan.html",
+     "isLeaf": true,
+     "regionName": "South Sudan",
+     "osmData": "africa/south-sudan-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/sudan.html",
+     "isLeaf": true,
+     "regionName": "Sudan",
+     "osmData": "africa/sudan-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/swaziland.html",
+     "isLeaf": true,
+     "regionName": "Swaziland",
+     "osmData": "africa/swaziland-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/tanzania.html",
+     "isLeaf": true,
+     "regionName": "Tanzania",
+     "osmData": "africa/tanzania-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/togo.html",
+     "isLeaf": true,
+     "regionName": "Togo",
+     "osmData": "africa/togo-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/tunisia.html",
+     "isLeaf": true,
+     "regionName": "Tunisia",
+     "osmData": "africa/tunisia-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/uganda.html",
+     "isLeaf": true,
+     "regionName": "Uganda",
+     "osmData": "africa/uganda-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/zambia.html",
+     "isLeaf": true,
+     "regionName": "Zambia",
+     "osmData": "africa/zambia-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/zimbabwe.html",
+     "isLeaf": true,
+     "regionName": "Zimbabwe",
+     "osmData": "africa/zimbabwe-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "africa/south-africa-and-lesotho.html",
+     "isLeaf": true,
+     "regionName": "South Africa (includes Lesotho)",
+     "osmData": "africa/south-africa-and-lesotho-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    }
+   ]
+  },
+  {
+   "path": "antarctica.html",
+   "isLeaf": true,
+   "regionName": "Antarctica",
+   "osmData": "antarctica-latest.osm.pbf",
+   "rootPath": "",
+   "rawHtml": "https://download.geofabrik.de",
+   "children": []
+  },
+  {
+   "path": "asia.html",
+   "isLeaf": false,
+   "regionName": "Asia",
+   "osmData": "asia-latest.osm.pbf",
+   "rootPath": "",
+   "rawHtml": "https://download.geofabrik.de",
+   "children": [
+    {
+     "path": "asia/afghanistan.html",
+     "isLeaf": true,
+     "regionName": "Afghanistan",
+     "osmData": "asia/afghanistan-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "asia/armenia.html",
+     "isLeaf": true,
+     "regionName": "Armenia",
+     "osmData": "asia/armenia-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "asia/azerbaijan.html",
+     "isLeaf": true,
+     "regionName": "Azerbaijan",
+     "osmData": "asia/azerbaijan-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "asia/bangladesh.html",
+     "isLeaf": true,
+     "regionName": "Bangladesh",
+     "osmData": "asia/bangladesh-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "asia/bhutan.html",
+     "isLeaf": true,
+     "regionName": "Bhutan",
+     "osmData": "asia/bhutan-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "asia/cambodia.html",
+     "isLeaf": true,
+     "regionName": "Cambodia",
+     "osmData": "asia/cambodia-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "asia/china.html",
+     "isLeaf": false,
+     "regionName": "China",
+     "osmData": "asia/china-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": [
+      {
+       "path": "china/anhui.html",
+       "isLeaf": true,
+       "regionName": "Anhui",
+       "osmData": "china/anhui-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "china/beijing.html",
+       "isLeaf": true,
+       "regionName": "Beijing",
+       "osmData": "china/beijing-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "china/chongqing.html",
+       "isLeaf": true,
+       "regionName": "Chongqing",
+       "osmData": "china/chongqing-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "china/fujian.html",
+       "isLeaf": true,
+       "regionName": "Fujian",
+       "osmData": "china/fujian-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "china/gansu.html",
+       "isLeaf": true,
+       "regionName": "Gansu",
+       "osmData": "china/gansu-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "china/guangdong.html",
+       "isLeaf": true,
+       "regionName": "Guangdong (with Hong Kong and Macau)",
+       "osmData": "china/guangdong-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "china/guangxi.html",
+       "isLeaf": true,
+       "regionName": "Guangxi",
+       "osmData": "china/guangxi-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "china/guizhou.html",
+       "isLeaf": true,
+       "regionName": "Guizhou",
+       "osmData": "china/guizhou-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "china/hainan.html",
+       "isLeaf": true,
+       "regionName": "Hainan",
+       "osmData": "china/hainan-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "china/hebei.html",
+       "isLeaf": true,
+       "regionName": "Hebei (with Beijing and Tianjin)",
+       "osmData": "china/hebei-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "china/heilongjiang.html",
+       "isLeaf": true,
+       "regionName": "Heilongjiang",
+       "osmData": "china/heilongjiang-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "china/henan.html",
+       "isLeaf": true,
+       "regionName": "Henan",
+       "osmData": "china/henan-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "china/hong-kong.html",
+       "isLeaf": true,
+       "regionName": "Hong Kong",
+       "osmData": "china/hong-kong-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "china/hubei.html",
+       "isLeaf": true,
+       "regionName": "Hubei",
+       "osmData": "china/hubei-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "china/hunan.html",
+       "isLeaf": true,
+       "regionName": "Hunan",
+       "osmData": "china/hunan-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "china/inner-mongolia.html",
+       "isLeaf": true,
+       "regionName": "Inner Mongolia",
+       "osmData": "china/inner-mongolia-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "china/jiangsu.html",
+       "isLeaf": true,
+       "regionName": "Jiangsu",
+       "osmData": "china/jiangsu-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "china/jiangxi.html",
+       "isLeaf": true,
+       "regionName": "Jiangxi",
+       "osmData": "china/jiangxi-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "china/jilin.html",
+       "isLeaf": true,
+       "regionName": "Jilin",
+       "osmData": "china/jilin-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "china/liaoning.html",
+       "isLeaf": true,
+       "regionName": "Liaoning",
+       "osmData": "china/liaoning-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "china/macau.html",
+       "isLeaf": true,
+       "regionName": "Macau",
+       "osmData": "china/macau-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "china/ningxia.html",
+       "isLeaf": true,
+       "regionName": "Ningxia",
+       "osmData": "china/ningxia-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "china/qinghai.html",
+       "isLeaf": true,
+       "regionName": "Qinghai",
+       "osmData": "china/qinghai-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "china/shaanxi.html",
+       "isLeaf": true,
+       "regionName": "Shaanxi",
+       "osmData": "china/shaanxi-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "china/shandong.html",
+       "isLeaf": true,
+       "regionName": "Shandong",
+       "osmData": "china/shandong-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "china/shanghai.html",
+       "isLeaf": true,
+       "regionName": "Shanghai",
+       "osmData": "china/shanghai-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "china/shanxi.html",
+       "isLeaf": true,
+       "regionName": "Shanxi",
+       "osmData": "china/shanxi-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "china/sichuan.html",
+       "isLeaf": true,
+       "regionName": "Sichuan",
+       "osmData": "china/sichuan-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "china/tianjin.html",
+       "isLeaf": true,
+       "regionName": "Tianjin",
+       "osmData": "china/tianjin-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "china/tibet.html",
+       "isLeaf": true,
+       "regionName": "Tibet",
+       "osmData": "china/tibet-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "china/xinjiang.html",
+       "isLeaf": true,
+       "regionName": "Xinjiang",
+       "osmData": "china/xinjiang-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "china/yunnan.html",
+       "isLeaf": true,
+       "regionName": "Yunnan",
+       "osmData": "china/yunnan-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "china/zhejiang.html",
+       "isLeaf": true,
+       "regionName": "Zhejiang",
+       "osmData": "china/zhejiang-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      }
+     ]
+    },
+    {
+     "path": "asia/east-timor.html",
+     "isLeaf": true,
+     "regionName": "East Timor",
+     "osmData": "asia/east-timor-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "asia/gcc-states.html",
+     "isLeaf": true,
+     "regionName": "GCC States",
+     "osmData": "asia/gcc-states-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "asia/india.html",
+     "isLeaf": false,
+     "regionName": "India",
+     "osmData": "asia/india-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": [
+      {
+       "path": "india/central-zone.html",
+       "isLeaf": true,
+       "regionName": "Central Zone",
+       "osmData": "india/central-zone-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "india/eastern-zone.html",
+       "isLeaf": true,
+       "regionName": "Eastern Zone",
+       "osmData": "india/eastern-zone-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "india/north-eastern-zone.html",
+       "isLeaf": true,
+       "regionName": "North-Eastern Zone",
+       "osmData": "india/north-eastern-zone-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "india/northern-zone.html",
+       "isLeaf": true,
+       "regionName": "Northern Zone",
+       "osmData": "india/northern-zone-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "india/southern-zone.html",
+       "isLeaf": true,
+       "regionName": "Southern Zone",
+       "osmData": "india/southern-zone-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "india/western-zone.html",
+       "isLeaf": true,
+       "regionName": "Western Zone",
+       "osmData": "india/western-zone-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      }
+     ]
+    },
+    {
+     "path": "asia/indonesia.html",
+     "isLeaf": false,
+     "regionName": "Indonesia (with East Timor)",
+     "osmData": "asia/indonesia-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": [
+      {
+       "path": "indonesia/java.html",
+       "isLeaf": true,
+       "regionName": "Java",
+       "osmData": "indonesia/java-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "indonesia/kalimantan.html",
+       "isLeaf": true,
+       "regionName": "Kalimantan",
+       "osmData": "indonesia/kalimantan-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "indonesia/maluku.html",
+       "isLeaf": true,
+       "regionName": "Maluku",
+       "osmData": "indonesia/maluku-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "indonesia/nusa-tenggara.html",
+       "isLeaf": true,
+       "regionName": "Nusa-Tenggara",
+       "osmData": "indonesia/nusa-tenggara-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "indonesia/papua.html",
+       "isLeaf": true,
+       "regionName": "Papua",
+       "osmData": "indonesia/papua-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "indonesia/sulawesi.html",
+       "isLeaf": true,
+       "regionName": "Sulawesi",
+       "osmData": "indonesia/sulawesi-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "indonesia/sumatra.html",
+       "isLeaf": true,
+       "regionName": "Sumatra",
+       "osmData": "indonesia/sumatra-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      }
+     ]
+    },
+    {
+     "path": "asia/iran.html",
+     "isLeaf": true,
+     "regionName": "Iran",
+     "osmData": "asia/iran-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "asia/iraq.html",
+     "isLeaf": true,
+     "regionName": "Iraq",
+     "osmData": "asia/iraq-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "asia/israel-and-palestine.html",
+     "isLeaf": true,
+     "regionName": "Israel and Palestine",
+     "osmData": "asia/israel-and-palestine-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "asia/japan.html",
+     "isLeaf": false,
+     "regionName": "Japan",
+     "osmData": "asia/japan-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": [
+      {
+       "path": "japan/chubu.html",
+       "isLeaf": true,
+       "regionName": "Chūbu region",
+       "osmData": "japan/chubu-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "japan/chugoku.html",
+       "isLeaf": true,
+       "regionName": "Chūgoku region",
+       "osmData": "japan/chugoku-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "japan/hokkaido.html",
+       "isLeaf": true,
+       "regionName": "Hokkaidō",
+       "osmData": "japan/hokkaido-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "japan/kansai.html",
+       "isLeaf": true,
+       "regionName": "Kansai region (a.k.a. Kinki region)",
+       "osmData": "japan/kansai-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "japan/kanto.html",
+       "isLeaf": true,
+       "regionName": "Kantō region",
+       "osmData": "japan/kanto-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "japan/kyushu.html",
+       "isLeaf": true,
+       "regionName": "Kyūshū",
+       "osmData": "japan/kyushu-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "japan/shikoku.html",
+       "isLeaf": true,
+       "regionName": "Shikoku",
+       "osmData": "japan/shikoku-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "japan/tohoku.html",
+       "isLeaf": true,
+       "regionName": "Tōhoku region",
+       "osmData": "japan/tohoku-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      }
+     ]
+    },
+    {
+     "path": "asia/jordan.html",
+     "isLeaf": true,
+     "regionName": "Jordan",
+     "osmData": "asia/jordan-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "asia/kazakhstan.html",
+     "isLeaf": true,
+     "regionName": "Kazakhstan",
+     "osmData": "asia/kazakhstan-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "asia/kyrgyzstan.html",
+     "isLeaf": true,
+     "regionName": "Kyrgyzstan",
+     "osmData": "asia/kyrgyzstan-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "asia/laos.html",
+     "isLeaf": true,
+     "regionName": "Laos",
+     "osmData": "asia/laos-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "asia/lebanon.html",
+     "isLeaf": true,
+     "regionName": "Lebanon",
+     "osmData": "asia/lebanon-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "asia/malaysia-singapore-brunei.html",
+     "isLeaf": true,
+     "regionName": "Malaysia, Singapore, and Brunei",
+     "osmData": "asia/malaysia-singapore-brunei-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "asia/maldives.html",
+     "isLeaf": true,
+     "regionName": "Maldives",
+     "osmData": "asia/maldives-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "asia/mongolia.html",
+     "isLeaf": true,
+     "regionName": "Mongolia",
+     "osmData": "asia/mongolia-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "asia/myanmar.html",
+     "isLeaf": true,
+     "regionName": "Myanmar (a.k.a. Burma)",
+     "osmData": "asia/myanmar-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "asia/nepal.html",
+     "isLeaf": true,
+     "regionName": "Nepal",
+     "osmData": "asia/nepal-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "asia/north-korea.html",
+     "isLeaf": true,
+     "regionName": "North Korea",
+     "osmData": "asia/north-korea-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "asia/pakistan.html",
+     "isLeaf": true,
+     "regionName": "Pakistan",
+     "osmData": "asia/pakistan-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "asia/philippines.html",
+     "isLeaf": true,
+     "regionName": "Philippines",
+     "osmData": "asia/philippines-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "russia.html",
+     "isLeaf": false,
+     "regionName": "Russian Federation",
+     "osmData": "russia-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": [
+      {
+       "path": "russia/central-fed-district.html",
+       "isLeaf": true,
+       "regionName": "Central Federal District",
+       "osmData": "russia/central-fed-district-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "russia/crimean-fed-district.html",
+       "isLeaf": true,
+       "regionName": "Crimean Federal District",
+       "osmData": "russia/crimean-fed-district-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "russia/far-eastern-fed-district.html",
+       "isLeaf": true,
+       "regionName": "Far Eastern Federal District",
+       "osmData": "russia/far-eastern-fed-district-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "russia/north-caucasus-fed-district.html",
+       "isLeaf": true,
+       "regionName": "North Caucasus Federal District",
+       "osmData": "russia/north-caucasus-fed-district-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "russia/northwestern-fed-district.html",
+       "isLeaf": true,
+       "regionName": "Northwestern Federal District",
+       "osmData": "russia/northwestern-fed-district-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "russia/siberian-fed-district.html",
+       "isLeaf": true,
+       "regionName": "Siberian Federal District",
+       "osmData": "russia/siberian-fed-district-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "russia/south-fed-district.html",
+       "isLeaf": true,
+       "regionName": "South Federal District",
+       "osmData": "russia/south-fed-district-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "russia/ural-fed-district.html",
+       "isLeaf": true,
+       "regionName": "Ural Federal District",
+       "osmData": "russia/ural-fed-district-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "russia/volga-fed-district.html",
+       "isLeaf": true,
+       "regionName": "Volga Federal District",
+       "osmData": "russia/volga-fed-district-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "russia/kaliningrad.html",
+       "isLeaf": true,
+       "regionName": "Kaliningrad",
+       "osmData": "russia/kaliningrad-latest.osm.pbf",
+       "rootPath": "/asia.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      }
+     ]
+    },
+    {
+     "path": "asia/south-korea.html",
+     "isLeaf": true,
+     "regionName": "South Korea",
+     "osmData": "asia/south-korea-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "asia/sri-lanka.html",
+     "isLeaf": true,
+     "regionName": "Sri Lanka",
+     "osmData": "asia/sri-lanka-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "asia/syria.html",
+     "isLeaf": true,
+     "regionName": "Syria",
+     "osmData": "asia/syria-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "asia/taiwan.html",
+     "isLeaf": true,
+     "regionName": "Taiwan",
+     "osmData": "asia/taiwan-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "asia/tajikistan.html",
+     "isLeaf": true,
+     "regionName": "Tajikistan",
+     "osmData": "asia/tajikistan-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "asia/thailand.html",
+     "isLeaf": true,
+     "regionName": "Thailand",
+     "osmData": "asia/thailand-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "asia/turkmenistan.html",
+     "isLeaf": true,
+     "regionName": "Turkmenistan",
+     "osmData": "asia/turkmenistan-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "asia/uzbekistan.html",
+     "isLeaf": true,
+     "regionName": "Uzbekistan",
+     "osmData": "asia/uzbekistan-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "asia/vietnam.html",
+     "isLeaf": true,
+     "regionName": "Vietnam",
+     "osmData": "asia/vietnam-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "asia/yemen.html",
+     "isLeaf": true,
+     "regionName": "Yemen",
+     "osmData": "asia/yemen-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    }
+   ]
+  },
+  {
+   "path": "australia-oceania.html",
+   "isLeaf": false,
+   "regionName": "Australia and Oceania",
+   "osmData": "australia-oceania-latest.osm.pbf",
+   "rootPath": "",
+   "rawHtml": "https://download.geofabrik.de",
+   "children": [
+    {
+     "path": "australia-oceania/american-oceania.html",
+     "isLeaf": true,
+     "regionName": "American Oceania",
+     "osmData": "australia-oceania/american-oceania-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "australia-oceania/australia.html",
+     "isLeaf": true,
+     "regionName": "Australia",
+     "osmData": "australia-oceania/australia-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "australia-oceania/cook-islands.html",
+     "isLeaf": true,
+     "regionName": "Cook Islands",
+     "osmData": "australia-oceania/cook-islands-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "australia-oceania/fiji.html",
+     "isLeaf": true,
+     "regionName": "Fiji",
+     "osmData": "australia-oceania/fiji-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "australia-oceania/ile-de-clipperton.html",
+     "isLeaf": true,
+     "regionName": "Île de Clipperton",
+     "osmData": "australia-oceania/ile-de-clipperton-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "australia-oceania/kiribati.html",
+     "isLeaf": true,
+     "regionName": "Kiribati",
+     "osmData": "australia-oceania/kiribati-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "australia-oceania/marshall-islands.html",
+     "isLeaf": true,
+     "regionName": "Marshall Islands",
+     "osmData": "australia-oceania/marshall-islands-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "australia-oceania/micronesia.html",
+     "isLeaf": true,
+     "regionName": "Micronesia",
+     "osmData": "australia-oceania/micronesia-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "australia-oceania/nauru.html",
+     "isLeaf": true,
+     "regionName": "Nauru",
+     "osmData": "australia-oceania/nauru-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "australia-oceania/new-caledonia.html",
+     "isLeaf": true,
+     "regionName": "New Caledonia",
+     "osmData": "australia-oceania/new-caledonia-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "australia-oceania/new-zealand.html",
+     "isLeaf": true,
+     "regionName": "New Zealand",
+     "osmData": "australia-oceania/new-zealand-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "australia-oceania/niue.html",
+     "isLeaf": true,
+     "regionName": "Niue",
+     "osmData": "australia-oceania/niue-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "australia-oceania/palau.html",
+     "isLeaf": true,
+     "regionName": "Palau",
+     "osmData": "australia-oceania/palau-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "australia-oceania/papua-new-guinea.html",
+     "isLeaf": true,
+     "regionName": "Papua New Guinea",
+     "osmData": "australia-oceania/papua-new-guinea-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "australia-oceania/pitcairn-islands.html",
+     "isLeaf": true,
+     "regionName": "Pitcairn Islands",
+     "osmData": "australia-oceania/pitcairn-islands-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "australia-oceania/polynesie-francaise.html",
+     "isLeaf": true,
+     "regionName": "Polynésie française (French Polynesia)",
+     "osmData": "australia-oceania/polynesie-francaise-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "australia-oceania/samoa.html",
+     "isLeaf": true,
+     "regionName": "Samoa",
+     "osmData": "australia-oceania/samoa-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "australia-oceania/solomon-islands.html",
+     "isLeaf": true,
+     "regionName": "Solomon Islands",
+     "osmData": "australia-oceania/solomon-islands-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "australia-oceania/tokelau.html",
+     "isLeaf": true,
+     "regionName": "Tokelau",
+     "osmData": "australia-oceania/tokelau-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "australia-oceania/tonga.html",
+     "isLeaf": true,
+     "regionName": "Tonga",
+     "osmData": "australia-oceania/tonga-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "australia-oceania/tuvalu.html",
+     "isLeaf": true,
+     "regionName": "Tuvalu",
+     "osmData": "australia-oceania/tuvalu-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "australia-oceania/vanuatu.html",
+     "isLeaf": true,
+     "regionName": "Vanuatu",
+     "osmData": "australia-oceania/vanuatu-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "australia-oceania/wallis-et-futuna.html",
+     "isLeaf": true,
+     "regionName": "Wallis et Futuna",
+     "osmData": "australia-oceania/wallis-et-futuna-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    }
+   ]
+  },
+  {
+   "path": "central-america.html",
+   "isLeaf": false,
+   "regionName": "Central America",
+   "osmData": "central-america-latest.osm.pbf",
+   "rootPath": "",
+   "rawHtml": "https://download.geofabrik.de",
+   "children": [
+    {
+     "path": "central-america/bahamas.html",
+     "isLeaf": true,
+     "regionName": "Bahamas",
+     "osmData": "central-america/bahamas-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "central-america/belize.html",
+     "isLeaf": true,
+     "regionName": "Belize",
+     "osmData": "central-america/belize-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "central-america/costa-rica.html",
+     "isLeaf": true,
+     "regionName": "Costa Rica",
+     "osmData": "central-america/costa-rica-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "central-america/cuba.html",
+     "isLeaf": true,
+     "regionName": "Cuba",
+     "osmData": "central-america/cuba-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "central-america/el-salvador.html",
+     "isLeaf": true,
+     "regionName": "El Salvador",
+     "osmData": "central-america/el-salvador-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "central-america/guatemala.html",
+     "isLeaf": true,
+     "regionName": "Guatemala",
+     "osmData": "central-america/guatemala-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "central-america/haiti-and-domrep.html",
+     "isLeaf": true,
+     "regionName": "Haiti and Dominican Republic",
+     "osmData": "central-america/haiti-and-domrep-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "central-america/honduras.html",
+     "isLeaf": true,
+     "regionName": "Honduras",
+     "osmData": "central-america/honduras-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "central-america/jamaica.html",
+     "isLeaf": true,
+     "regionName": "Jamaica",
+     "osmData": "central-america/jamaica-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "central-america/nicaragua.html",
+     "isLeaf": false,
+     "regionName": "Nicaragua",
+     "osmData": "central-america/nicaragua-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": null
+    },
+    {
+     "path": "central-america/panama.html",
+     "isLeaf": true,
+     "regionName": "Panama",
+     "osmData": "central-america/panama-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    }
+   ]
+  },
+  {
+   "path": "europe.html",
+   "isLeaf": false,
+   "regionName": "Europe",
+   "osmData": "europe-latest.osm.pbf",
+   "rootPath": "",
+   "rawHtml": "https://download.geofabrik.de",
+   "children": [
+    {
+     "path": "europe/albania.html",
+     "isLeaf": true,
+     "regionName": "Albania",
+     "osmData": "europe/albania-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/andorra.html",
+     "isLeaf": true,
+     "regionName": "Andorra",
+     "osmData": "europe/andorra-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/austria.html",
+     "isLeaf": true,
+     "regionName": "Austria",
+     "osmData": "europe/austria-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/azores.html",
+     "isLeaf": true,
+     "regionName": "Azores",
+     "osmData": "europe/azores-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/belarus.html",
+     "isLeaf": true,
+     "regionName": "Belarus",
+     "osmData": "europe/belarus-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/belgium.html",
+     "isLeaf": true,
+     "regionName": "Belgium",
+     "osmData": "europe/belgium-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/bosnia-herzegovina.html",
+     "isLeaf": true,
+     "regionName": "Bosnia-Herzegovina",
+     "osmData": "europe/bosnia-herzegovina-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/bulgaria.html",
+     "isLeaf": true,
+     "regionName": "Bulgaria",
+     "osmData": "europe/bulgaria-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/croatia.html",
+     "isLeaf": true,
+     "regionName": "Croatia",
+     "osmData": "europe/croatia-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/cyprus.html",
+     "isLeaf": true,
+     "regionName": "Cyprus",
+     "osmData": "europe/cyprus-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/czech-republic.html",
+     "isLeaf": true,
+     "regionName": "Czech Republic",
+     "osmData": "europe/czech-republic-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/denmark.html",
+     "isLeaf": true,
+     "regionName": "Denmark",
+     "osmData": "europe/denmark-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/estonia.html",
+     "isLeaf": true,
+     "regionName": "Estonia",
+     "osmData": "europe/estonia-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/faroe-islands.html",
+     "isLeaf": true,
+     "regionName": "Faroe Islands",
+     "osmData": "europe/faroe-islands-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/finland.html",
+     "isLeaf": true,
+     "regionName": "Finland",
+     "osmData": "europe/finland-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/france.html",
+     "isLeaf": false,
+     "regionName": "France",
+     "osmData": "europe/france-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": [
+      {
+       "path": "france/alsace.html",
+       "isLeaf": true,
+       "regionName": "Alsace",
+       "osmData": "france/alsace-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "france/aquitaine.html",
+       "isLeaf": true,
+       "regionName": "Aquitaine",
+       "osmData": "france/aquitaine-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "france/auvergne.html",
+       "isLeaf": true,
+       "regionName": "Auvergne",
+       "osmData": "france/auvergne-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "france/basse-normandie.html",
+       "isLeaf": true,
+       "regionName": "Basse-Normandie",
+       "osmData": "france/basse-normandie-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "france/bourgogne.html",
+       "isLeaf": true,
+       "regionName": "Bourgogne",
+       "osmData": "france/bourgogne-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "france/bretagne.html",
+       "isLeaf": true,
+       "regionName": "Bretagne",
+       "osmData": "france/bretagne-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "france/centre.html",
+       "isLeaf": true,
+       "regionName": "Centre",
+       "osmData": "france/centre-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "france/champagne-ardenne.html",
+       "isLeaf": true,
+       "regionName": "Champagne Ardenne",
+       "osmData": "france/champagne-ardenne-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "france/corse.html",
+       "isLeaf": true,
+       "regionName": "Corse",
+       "osmData": "france/corse-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "france/franche-comte.html",
+       "isLeaf": true,
+       "regionName": "Franche Comte",
+       "osmData": "france/franche-comte-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "france/guadeloupe.html",
+       "isLeaf": false,
+       "regionName": "Guadeloupe",
+       "osmData": "france/guadeloupe-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": null
+      },
+      {
+       "path": "france/guyane.html",
+       "isLeaf": true,
+       "regionName": "Guyane",
+       "osmData": "france/guyane-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "france/haute-normandie.html",
+       "isLeaf": true,
+       "regionName": "Haute-Normandie",
+       "osmData": "france/haute-normandie-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "france/ile-de-france.html",
+       "isLeaf": true,
+       "regionName": "Ile-de-France",
+       "osmData": "france/ile-de-france-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "france/languedoc-roussillon.html",
+       "isLeaf": true,
+       "regionName": "Languedoc-Roussillon",
+       "osmData": "france/languedoc-roussillon-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "france/limousin.html",
+       "isLeaf": true,
+       "regionName": "Limousin",
+       "osmData": "france/limousin-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "france/lorraine.html",
+       "isLeaf": true,
+       "regionName": "Lorraine",
+       "osmData": "france/lorraine-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "france/martinique.html",
+       "isLeaf": false,
+       "regionName": "Martinique",
+       "osmData": "france/martinique-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": null
+      },
+      {
+       "path": "france/mayotte.html",
+       "isLeaf": false,
+       "regionName": "Mayotte",
+       "osmData": "france/mayotte-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": null
+      },
+      {
+       "path": "france/midi-pyrenees.html",
+       "isLeaf": true,
+       "regionName": "Midi-Pyrenees",
+       "osmData": "france/midi-pyrenees-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "france/nord-pas-de-calais.html",
+       "isLeaf": true,
+       "regionName": "Nord-Pas-de-Calais",
+       "osmData": "france/nord-pas-de-calais-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "france/pays-de-la-loire.html",
+       "isLeaf": true,
+       "regionName": "Pays de la Loire",
+       "osmData": "france/pays-de-la-loire-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "france/picardie.html",
+       "isLeaf": true,
+       "regionName": "Picardie",
+       "osmData": "france/picardie-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "france/poitou-charentes.html",
+       "isLeaf": true,
+       "regionName": "Poitou-Charentes",
+       "osmData": "france/poitou-charentes-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "france/provence-alpes-cote-d-azur.html",
+       "isLeaf": true,
+       "regionName": "Provence Alpes-Cote-d'Azur",
+       "osmData": "france/provence-alpes-cote-d-azur-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "france/reunion.html",
+       "isLeaf": false,
+       "regionName": "Reunion",
+       "osmData": "france/reunion-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": null
+      },
+      {
+       "path": "france/rhone-alpes.html",
+       "isLeaf": true,
+       "regionName": "Rhone-Alpes",
+       "osmData": "france/rhone-alpes-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      }
+     ]
+    },
+    {
+     "path": "europe/georgia.html",
+     "isLeaf": true,
+     "regionName": "Georgia",
+     "osmData": "europe/georgia-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/germany.html",
+     "isLeaf": false,
+     "regionName": "Germany",
+     "osmData": "europe/germany-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": [
+      {
+       "path": "germany/baden-wuerttemberg.html",
+       "isLeaf": false,
+       "regionName": "Baden-Württemberg",
+       "osmData": "germany/baden-wuerttemberg-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": [
+        {
+         "path": "baden-wuerttemberg/freiburg-regbez.html",
+         "isLeaf": true,
+         "regionName": "Regierungsbezirk Freiburg",
+         "osmData": "baden-wuerttemberg/freiburg-regbez-latest.osm.pbf",
+         "rootPath": "/europe/germany.html",
+         "rawHtml": "https://download.geofabrik.de",
+         "children": []
+        },
+        {
+         "path": "baden-wuerttemberg/karlsruhe-regbez.html",
+         "isLeaf": true,
+         "regionName": "Regierungsbezirk Karlsruhe",
+         "osmData": "baden-wuerttemberg/karlsruhe-regbez-latest.osm.pbf",
+         "rootPath": "/europe/germany.html",
+         "rawHtml": "https://download.geofabrik.de",
+         "children": []
+        },
+        {
+         "path": "baden-wuerttemberg/stuttgart-regbez.html",
+         "isLeaf": true,
+         "regionName": "Regierungsbezirk Stuttgart",
+         "osmData": "baden-wuerttemberg/stuttgart-regbez-latest.osm.pbf",
+         "rootPath": "/europe/germany.html",
+         "rawHtml": "https://download.geofabrik.de",
+         "children": []
+        },
+        {
+         "path": "baden-wuerttemberg/tuebingen-regbez.html",
+         "isLeaf": true,
+         "regionName": "Regierungsbezirk Tübingen",
+         "osmData": "baden-wuerttemberg/tuebingen-regbez-latest.osm.pbf",
+         "rootPath": "/europe/germany.html",
+         "rawHtml": "https://download.geofabrik.de",
+         "children": []
+        }
+       ]
+      },
+      {
+       "path": "germany/bayern.html",
+       "isLeaf": false,
+       "regionName": "Bayern",
+       "osmData": "germany/bayern-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": [
+        {
+         "path": "bayern/mittelfranken.html",
+         "isLeaf": true,
+         "regionName": "Mittelfranken",
+         "osmData": "bayern/mittelfranken-latest.osm.pbf",
+         "rootPath": "/europe/germany.html",
+         "rawHtml": "https://download.geofabrik.de",
+         "children": []
+        },
+        {
+         "path": "bayern/niederbayern.html",
+         "isLeaf": true,
+         "regionName": "Niederbayern",
+         "osmData": "bayern/niederbayern-latest.osm.pbf",
+         "rootPath": "/europe/germany.html",
+         "rawHtml": "https://download.geofabrik.de",
+         "children": []
+        },
+        {
+         "path": "bayern/oberbayern.html",
+         "isLeaf": true,
+         "regionName": "Oberbayern",
+         "osmData": "bayern/oberbayern-latest.osm.pbf",
+         "rootPath": "/europe/germany.html",
+         "rawHtml": "https://download.geofabrik.de",
+         "children": []
+        },
+        {
+         "path": "bayern/oberfranken.html",
+         "isLeaf": true,
+         "regionName": "Oberfranken",
+         "osmData": "bayern/oberfranken-latest.osm.pbf",
+         "rootPath": "/europe/germany.html",
+         "rawHtml": "https://download.geofabrik.de",
+         "children": []
+        },
+        {
+         "path": "bayern/oberpfalz.html",
+         "isLeaf": true,
+         "regionName": "Oberpfalz",
+         "osmData": "bayern/oberpfalz-latest.osm.pbf",
+         "rootPath": "/europe/germany.html",
+         "rawHtml": "https://download.geofabrik.de",
+         "children": []
+        },
+        {
+         "path": "bayern/schwaben.html",
+         "isLeaf": true,
+         "regionName": "Schwaben",
+         "osmData": "bayern/schwaben-latest.osm.pbf",
+         "rootPath": "/europe/germany.html",
+         "rawHtml": "https://download.geofabrik.de",
+         "children": []
+        },
+        {
+         "path": "bayern/unterfranken.html",
+         "isLeaf": true,
+         "regionName": "Unterfranken",
+         "osmData": "bayern/unterfranken-latest.osm.pbf",
+         "rootPath": "/europe/germany.html",
+         "rawHtml": "https://download.geofabrik.de",
+         "children": []
+        }
+       ]
+      },
+      {
+       "path": "germany/berlin.html",
+       "isLeaf": true,
+       "regionName": "Berlin",
+       "osmData": "germany/berlin-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "germany/brandenburg.html",
+       "isLeaf": true,
+       "regionName": "Brandenburg (mit Berlin)",
+       "osmData": "germany/brandenburg-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "germany/bremen.html",
+       "isLeaf": true,
+       "regionName": "Bremen",
+       "osmData": "germany/bremen-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "germany/hamburg.html",
+       "isLeaf": true,
+       "regionName": "Hamburg",
+       "osmData": "germany/hamburg-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "germany/hessen.html",
+       "isLeaf": true,
+       "regionName": "Hessen",
+       "osmData": "germany/hessen-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "germany/mecklenburg-vorpommern.html",
+       "isLeaf": true,
+       "regionName": "Mecklenburg-Vorpommern",
+       "osmData": "germany/mecklenburg-vorpommern-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "germany/niedersachsen.html",
+       "isLeaf": true,
+       "regionName": "Niedersachsen (mit Bremen)",
+       "osmData": "germany/niedersachsen-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "germany/nordrhein-westfalen.html",
+       "isLeaf": false,
+       "regionName": "Nordrhein-Westfalen",
+       "osmData": "germany/nordrhein-westfalen-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": [
+        {
+         "path": "nordrhein-westfalen/arnsberg-regbez.html",
+         "isLeaf": true,
+         "regionName": "Regierungsbezirk Arnsberg",
+         "osmData": "nordrhein-westfalen/arnsberg-regbez-latest.osm.pbf",
+         "rootPath": "/europe/germany.html",
+         "rawHtml": "https://download.geofabrik.de",
+         "children": []
+        },
+        {
+         "path": "nordrhein-westfalen/detmold-regbez.html",
+         "isLeaf": true,
+         "regionName": "Regierungsbezirk Detmold",
+         "osmData": "nordrhein-westfalen/detmold-regbez-latest.osm.pbf",
+         "rootPath": "/europe/germany.html",
+         "rawHtml": "https://download.geofabrik.de",
+         "children": []
+        },
+        {
+         "path": "nordrhein-westfalen/duesseldorf-regbez.html",
+         "isLeaf": true,
+         "regionName": "Regierungsbezirk Düsseldorf",
+         "osmData": "nordrhein-westfalen/duesseldorf-regbez-latest.osm.pbf",
+         "rootPath": "/europe/germany.html",
+         "rawHtml": "https://download.geofabrik.de",
+         "children": []
+        },
+        {
+         "path": "nordrhein-westfalen/koeln-regbez.html",
+         "isLeaf": true,
+         "regionName": "Regierungsbezirk Köln",
+         "osmData": "nordrhein-westfalen/koeln-regbez-latest.osm.pbf",
+         "rootPath": "/europe/germany.html",
+         "rawHtml": "https://download.geofabrik.de",
+         "children": []
+        },
+        {
+         "path": "nordrhein-westfalen/muenster-regbez.html",
+         "isLeaf": true,
+         "regionName": "Regierungsbezirk Münster",
+         "osmData": "nordrhein-westfalen/muenster-regbez-latest.osm.pbf",
+         "rootPath": "/europe/germany.html",
+         "rawHtml": "https://download.geofabrik.de",
+         "children": []
+        }
+       ]
+      },
+      {
+       "path": "germany/rheinland-pfalz.html",
+       "isLeaf": true,
+       "regionName": "Rheinland-Pfalz",
+       "osmData": "germany/rheinland-pfalz-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "germany/saarland.html",
+       "isLeaf": true,
+       "regionName": "Saarland",
+       "osmData": "germany/saarland-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "germany/sachsen.html",
+       "isLeaf": true,
+       "regionName": "Sachsen",
+       "osmData": "germany/sachsen-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "germany/sachsen-anhalt.html",
+       "isLeaf": true,
+       "regionName": "Sachsen-Anhalt",
+       "osmData": "germany/sachsen-anhalt-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "germany/schleswig-holstein.html",
+       "isLeaf": true,
+       "regionName": "Schleswig-Holstein",
+       "osmData": "germany/schleswig-holstein-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "germany/thueringen.html",
+       "isLeaf": true,
+       "regionName": "Thüringen",
+       "osmData": "germany/thueringen-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      }
+     ]
+    },
+    {
+     "path": "europe/greece.html",
+     "isLeaf": true,
+     "regionName": "Greece",
+     "osmData": "europe/greece-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/guernsey-jersey.html",
+     "isLeaf": true,
+     "regionName": "Guernsey and Jersey",
+     "osmData": "europe/guernsey-jersey-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/hungary.html",
+     "isLeaf": true,
+     "regionName": "Hungary",
+     "osmData": "europe/hungary-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/iceland.html",
+     "isLeaf": true,
+     "regionName": "Iceland",
+     "osmData": "europe/iceland-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/ireland-and-northern-ireland.html",
+     "isLeaf": true,
+     "regionName": "Ireland and Northern Ireland",
+     "osmData": "europe/ireland-and-northern-ireland-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/isle-of-man.html",
+     "isLeaf": true,
+     "regionName": "Isle of Man",
+     "osmData": "europe/isle-of-man-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/italy.html",
+     "isLeaf": false,
+     "regionName": "Italy",
+     "osmData": "europe/italy-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": [
+      {
+       "path": "italy/centro.html",
+       "isLeaf": true,
+       "regionName": "Centro",
+       "osmData": "italy/centro-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "italy/isole.html",
+       "isLeaf": true,
+       "regionName": "Isole",
+       "osmData": "italy/isole-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "italy/nord-est.html",
+       "isLeaf": true,
+       "regionName": "Nord-Est",
+       "osmData": "italy/nord-est-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "italy/nord-ovest.html",
+       "isLeaf": true,
+       "regionName": "Nord-Ovest",
+       "osmData": "italy/nord-ovest-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "italy/sud.html",
+       "isLeaf": true,
+       "regionName": "Sud",
+       "osmData": "italy/sud-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      }
+     ]
+    },
+    {
+     "path": "europe/kosovo.html",
+     "isLeaf": true,
+     "regionName": "Kosovo",
+     "osmData": "europe/kosovo-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/latvia.html",
+     "isLeaf": true,
+     "regionName": "Latvia",
+     "osmData": "europe/latvia-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/liechtenstein.html",
+     "isLeaf": true,
+     "regionName": "Liechtenstein",
+     "osmData": "europe/liechtenstein-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/lithuania.html",
+     "isLeaf": true,
+     "regionName": "Lithuania",
+     "osmData": "europe/lithuania-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/luxembourg.html",
+     "isLeaf": true,
+     "regionName": "Luxembourg",
+     "osmData": "europe/luxembourg-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/macedonia.html",
+     "isLeaf": true,
+     "regionName": "Macedonia",
+     "osmData": "europe/macedonia-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/malta.html",
+     "isLeaf": true,
+     "regionName": "Malta",
+     "osmData": "europe/malta-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/moldova.html",
+     "isLeaf": true,
+     "regionName": "Moldova",
+     "osmData": "europe/moldova-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/monaco.html",
+     "isLeaf": true,
+     "regionName": "Monaco",
+     "osmData": "europe/monaco-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/montenegro.html",
+     "isLeaf": true,
+     "regionName": "Montenegro",
+     "osmData": "europe/montenegro-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/netherlands.html",
+     "isLeaf": false,
+     "regionName": "Netherlands",
+     "osmData": "europe/netherlands-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": [
+      {
+       "path": "netherlands/drenthe.html",
+       "isLeaf": true,
+       "regionName": "Drenthe",
+       "osmData": "netherlands/drenthe-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "netherlands/flevoland.html",
+       "isLeaf": true,
+       "regionName": "Flevoland",
+       "osmData": "netherlands/flevoland-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "netherlands/friesland.html",
+       "isLeaf": true,
+       "regionName": "Friesland",
+       "osmData": "netherlands/friesland-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "netherlands/gelderland.html",
+       "isLeaf": true,
+       "regionName": "Gelderland",
+       "osmData": "netherlands/gelderland-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "netherlands/groningen.html",
+       "isLeaf": true,
+       "regionName": "Groningen",
+       "osmData": "netherlands/groningen-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "netherlands/limburg.html",
+       "isLeaf": true,
+       "regionName": "Limburg",
+       "osmData": "netherlands/limburg-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "netherlands/noord-brabant.html",
+       "isLeaf": true,
+       "regionName": "Noord-Brabant",
+       "osmData": "netherlands/noord-brabant-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "netherlands/noord-holland.html",
+       "isLeaf": true,
+       "regionName": "Noord-Holland",
+       "osmData": "netherlands/noord-holland-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "netherlands/overijssel.html",
+       "isLeaf": true,
+       "regionName": "Overijssel",
+       "osmData": "netherlands/overijssel-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "netherlands/utrecht.html",
+       "isLeaf": true,
+       "regionName": "Utrecht",
+       "osmData": "netherlands/utrecht-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "netherlands/zeeland.html",
+       "isLeaf": true,
+       "regionName": "Zeeland",
+       "osmData": "netherlands/zeeland-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "netherlands/zuid-holland.html",
+       "isLeaf": true,
+       "regionName": "Zuid-Holland",
+       "osmData": "netherlands/zuid-holland-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      }
+     ]
+    },
+    {
+     "path": "europe/norway.html",
+     "isLeaf": true,
+     "regionName": "Norway",
+     "osmData": "europe/norway-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/poland.html",
+     "isLeaf": false,
+     "regionName": "Poland",
+     "osmData": "europe/poland-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": [
+      {
+       "path": "poland/dolnoslaskie.html",
+       "isLeaf": true,
+       "regionName": "Województwo dolnośląskie(Lower Silesian Voivodeship)",
+       "osmData": "poland/dolnoslaskie-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "poland/kujawsko-pomorskie.html",
+       "isLeaf": true,
+       "regionName": "Województwo kujawsko-pomorskie(Kuyavian-Pomeranian Voivodeship)",
+       "osmData": "poland/kujawsko-pomorskie-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "poland/lodzkie.html",
+       "isLeaf": true,
+       "regionName": "Województwo łódzkie(Łódź Voivodeship)",
+       "osmData": "poland/lodzkie-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "poland/lubelskie.html",
+       "isLeaf": true,
+       "regionName": "Województwo lubelskie(Lublin Voivodeship)",
+       "osmData": "poland/lubelskie-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "poland/lubuskie.html",
+       "isLeaf": true,
+       "regionName": "Województwo lubuskie(Lubusz Voivodeship)",
+       "osmData": "poland/lubuskie-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "poland/malopolskie.html",
+       "isLeaf": true,
+       "regionName": "Województwo małopolskie(Lesser Poland Voivodeship)",
+       "osmData": "poland/malopolskie-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "poland/mazowieckie.html",
+       "isLeaf": true,
+       "regionName": "Województwo mazowieckie(Mazovian Voivodeship)",
+       "osmData": "poland/mazowieckie-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "poland/opolskie.html",
+       "isLeaf": true,
+       "regionName": "Województwo opolskie(Opole Voivodeship)",
+       "osmData": "poland/opolskie-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "poland/podkarpackie.html",
+       "isLeaf": true,
+       "regionName": "Województwo podkarpackie(Subcarpathian Voivodeship)",
+       "osmData": "poland/podkarpackie-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "poland/podlaskie.html",
+       "isLeaf": true,
+       "regionName": "Województwo podlaskie(Podlaskie Voivodeship)",
+       "osmData": "poland/podlaskie-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "poland/pomorskie.html",
+       "isLeaf": true,
+       "regionName": "Województwo pomorskie(Pomeranian Voivodeship)",
+       "osmData": "poland/pomorskie-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "poland/slaskie.html",
+       "isLeaf": true,
+       "regionName": "Województwo śląskie(Silesian Voivodeship)",
+       "osmData": "poland/slaskie-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "poland/swietokrzyskie.html",
+       "isLeaf": true,
+       "regionName": "Województwo świętokrzyskie(Świętokrzyskie Voivodeship)",
+       "osmData": "poland/swietokrzyskie-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "poland/warminsko-mazurskie.html",
+       "isLeaf": true,
+       "regionName": "Województwo warmińsko-mazurskie(Warmian-Masurian Voivodeship)",
+       "osmData": "poland/warminsko-mazurskie-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "poland/wielkopolskie.html",
+       "isLeaf": true,
+       "regionName": "Województwo wielkopolskie(Greater Poland Voivodeship)",
+       "osmData": "poland/wielkopolskie-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "poland/zachodniopomorskie.html",
+       "isLeaf": true,
+       "regionName": "Województwo zachodniopomorskie(West Pomeranian Voivodeship)",
+       "osmData": "poland/zachodniopomorskie-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      }
+     ]
+    },
+    {
+     "path": "europe/portugal.html",
+     "isLeaf": true,
+     "regionName": "Portugal",
+     "osmData": "europe/portugal-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/romania.html",
+     "isLeaf": true,
+     "regionName": "Romania",
+     "osmData": "europe/romania-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "russia.html",
+     "isLeaf": false,
+     "regionName": "Russian Federation",
+     "osmData": "russia-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": [
+      {
+       "path": "russia/central-fed-district.html",
+       "isLeaf": true,
+       "regionName": "Central Federal District",
+       "osmData": "russia/central-fed-district-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "russia/crimean-fed-district.html",
+       "isLeaf": true,
+       "regionName": "Crimean Federal District",
+       "osmData": "russia/crimean-fed-district-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "russia/far-eastern-fed-district.html",
+       "isLeaf": true,
+       "regionName": "Far Eastern Federal District",
+       "osmData": "russia/far-eastern-fed-district-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "russia/north-caucasus-fed-district.html",
+       "isLeaf": true,
+       "regionName": "North Caucasus Federal District",
+       "osmData": "russia/north-caucasus-fed-district-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "russia/northwestern-fed-district.html",
+       "isLeaf": true,
+       "regionName": "Northwestern Federal District",
+       "osmData": "russia/northwestern-fed-district-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "russia/siberian-fed-district.html",
+       "isLeaf": true,
+       "regionName": "Siberian Federal District",
+       "osmData": "russia/siberian-fed-district-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "russia/south-fed-district.html",
+       "isLeaf": true,
+       "regionName": "South Federal District",
+       "osmData": "russia/south-fed-district-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "russia/ural-fed-district.html",
+       "isLeaf": true,
+       "regionName": "Ural Federal District",
+       "osmData": "russia/ural-fed-district-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "russia/volga-fed-district.html",
+       "isLeaf": true,
+       "regionName": "Volga Federal District",
+       "osmData": "russia/volga-fed-district-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "russia/kaliningrad.html",
+       "isLeaf": true,
+       "regionName": "Kaliningrad",
+       "osmData": "russia/kaliningrad-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      }
+     ]
+    },
+    {
+     "path": "europe/serbia.html",
+     "isLeaf": true,
+     "regionName": "Serbia",
+     "osmData": "europe/serbia-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/slovakia.html",
+     "isLeaf": true,
+     "regionName": "Slovakia",
+     "osmData": "europe/slovakia-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/slovenia.html",
+     "isLeaf": true,
+     "regionName": "Slovenia",
+     "osmData": "europe/slovenia-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/spain.html",
+     "isLeaf": false,
+     "regionName": "Spain",
+     "osmData": "europe/spain-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": [
+      {
+       "path": "spain/andalucia.html",
+       "isLeaf": true,
+       "regionName": "Andalucía",
+       "osmData": "spain/andalucia-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "spain/aragon.html",
+       "isLeaf": true,
+       "regionName": "Aragón",
+       "osmData": "spain/aragon-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "spain/asturias.html",
+       "isLeaf": true,
+       "regionName": "Asturias",
+       "osmData": "spain/asturias-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "spain/cantabria.html",
+       "isLeaf": true,
+       "regionName": "Cantabria",
+       "osmData": "spain/cantabria-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "spain/castilla-la-mancha.html",
+       "isLeaf": true,
+       "regionName": "Castilla-La Mancha",
+       "osmData": "spain/castilla-la-mancha-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "spain/castilla-y-leon.html",
+       "isLeaf": true,
+       "regionName": "Castilla y León",
+       "osmData": "spain/castilla-y-leon-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "spain/cataluna.html",
+       "isLeaf": true,
+       "regionName": "Cataluña",
+       "osmData": "spain/cataluna-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "spain/ceuta.html",
+       "isLeaf": true,
+       "regionName": "Ceuta",
+       "osmData": "spain/ceuta-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "spain/extremadura.html",
+       "isLeaf": true,
+       "regionName": "Extremadura",
+       "osmData": "spain/extremadura-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "spain/galicia.html",
+       "isLeaf": true,
+       "regionName": "Galicia",
+       "osmData": "spain/galicia-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "spain/islas-baleares.html",
+       "isLeaf": true,
+       "regionName": "Islas Baleares",
+       "osmData": "spain/islas-baleares-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "spain/la-rioja.html",
+       "isLeaf": true,
+       "regionName": "La Rioja",
+       "osmData": "spain/la-rioja-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "spain/madrid.html",
+       "isLeaf": true,
+       "regionName": "Madrid",
+       "osmData": "spain/madrid-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "spain/melilla.html",
+       "isLeaf": true,
+       "regionName": "Melilla",
+       "osmData": "spain/melilla-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "spain/murcia.html",
+       "isLeaf": true,
+       "regionName": "Murcia",
+       "osmData": "spain/murcia-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "spain/navarra.html",
+       "isLeaf": true,
+       "regionName": "Navarra",
+       "osmData": "spain/navarra-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "spain/pais-vasco.html",
+       "isLeaf": true,
+       "regionName": "País Vasco",
+       "osmData": "spain/pais-vasco-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "spain/valencia.html",
+       "isLeaf": true,
+       "regionName": "Valencia",
+       "osmData": "spain/valencia-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      }
+     ]
+    },
+    {
+     "path": "europe/sweden.html",
+     "isLeaf": true,
+     "regionName": "Sweden",
+     "osmData": "europe/sweden-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/switzerland.html",
+     "isLeaf": true,
+     "regionName": "Switzerland",
+     "osmData": "europe/switzerland-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/turkey.html",
+     "isLeaf": true,
+     "regionName": "Turkey",
+     "osmData": "europe/turkey-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/ukraine.html",
+     "isLeaf": true,
+     "regionName": "Ukraine (with Crimea)",
+     "osmData": "europe/ukraine-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/united-kingdom.html",
+     "isLeaf": false,
+     "regionName": "United Kingdom",
+     "osmData": "europe/united-kingdom-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": [
+      {
+       "path": "united-kingdom/england.html",
+       "isLeaf": true,
+       "regionName": "England",
+       "osmData": "united-kingdom/england-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "united-kingdom/scotland.html",
+       "isLeaf": true,
+       "regionName": "Scotland",
+       "osmData": "united-kingdom/scotland-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "united-kingdom/wales.html",
+       "isLeaf": true,
+       "regionName": "Wales",
+       "osmData": "united-kingdom/wales-latest.osm.pbf",
+       "rootPath": "/europe.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      }
+     ]
+    },
+    {
+     "path": "europe/alps.html",
+     "isLeaf": true,
+     "regionName": "Alps",
+     "osmData": "europe/alps-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/britain-and-ireland.html",
+     "isLeaf": true,
+     "regionName": "Britain and Ireland",
+     "osmData": "europe/britain-and-ireland-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/dach.html",
+     "isLeaf": true,
+     "regionName": "Germany, Austria, Switzerland",
+     "osmData": "europe/dach-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "europe/great-britain.html",
+     "isLeaf": true,
+     "regionName": "Great Britain",
+     "osmData": "europe/great-britain-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    }
+   ]
+  },
+  {
+   "path": "north-america.html",
+   "isLeaf": false,
+   "regionName": "North America",
+   "osmData": "north-america-latest.osm.pbf",
+   "rootPath": "",
+   "rawHtml": "https://download.geofabrik.de",
+   "children": [
+    {
+     "path": "north-america/canada.html",
+     "isLeaf": false,
+     "regionName": "Canada",
+     "osmData": "north-america/canada-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": [
+      {
+       "path": "canada/alberta.html",
+       "isLeaf": true,
+       "regionName": "Alberta",
+       "osmData": "canada/alberta-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "canada/british-columbia.html",
+       "isLeaf": true,
+       "regionName": "British Columbia",
+       "osmData": "canada/british-columbia-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "canada/manitoba.html",
+       "isLeaf": true,
+       "regionName": "Manitoba",
+       "osmData": "canada/manitoba-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "canada/new-brunswick.html",
+       "isLeaf": true,
+       "regionName": "New Brunswick",
+       "osmData": "canada/new-brunswick-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "canada/newfoundland-and-labrador.html",
+       "isLeaf": true,
+       "regionName": "Newfoundland and Labrador",
+       "osmData": "canada/newfoundland-and-labrador-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "canada/northwest-territories.html",
+       "isLeaf": true,
+       "regionName": "Northwest Territories",
+       "osmData": "canada/northwest-territories-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "canada/nova-scotia.html",
+       "isLeaf": true,
+       "regionName": "Nova Scotia",
+       "osmData": "canada/nova-scotia-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "canada/nunavut.html",
+       "isLeaf": true,
+       "regionName": "Nunavut",
+       "osmData": "canada/nunavut-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "canada/ontario.html",
+       "isLeaf": true,
+       "regionName": "Ontario",
+       "osmData": "canada/ontario-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "canada/prince-edward-island.html",
+       "isLeaf": true,
+       "regionName": "Prince Edward Island",
+       "osmData": "canada/prince-edward-island-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "canada/quebec.html",
+       "isLeaf": true,
+       "regionName": "Quebec",
+       "osmData": "canada/quebec-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "canada/saskatchewan.html",
+       "isLeaf": true,
+       "regionName": "Saskatchewan",
+       "osmData": "canada/saskatchewan-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "canada/yukon.html",
+       "isLeaf": true,
+       "regionName": "Yukon",
+       "osmData": "canada/yukon-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      }
+     ]
+    },
+    {
+     "path": "north-america/greenland.html",
+     "isLeaf": true,
+     "regionName": "Greenland",
+     "osmData": "north-america/greenland-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "north-america/mexico.html",
+     "isLeaf": true,
+     "regionName": "Mexico",
+     "osmData": "north-america/mexico-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "north-america/us.html",
+     "isLeaf": false,
+     "regionName": "United States of America",
+     "osmData": "north-america/us-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": [
+      {
+       "path": "us/alabama.html",
+       "isLeaf": true,
+       "regionName": "Alabama",
+       "osmData": "us/alabama-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/alaska.html",
+       "isLeaf": true,
+       "regionName": "Alaska",
+       "osmData": "us/alaska-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/arizona.html",
+       "isLeaf": true,
+       "regionName": "Arizona",
+       "osmData": "us/arizona-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/arkansas.html",
+       "isLeaf": true,
+       "regionName": "Arkansas",
+       "osmData": "us/arkansas-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/california.html",
+       "isLeaf": false,
+       "regionName": "California",
+       "osmData": "us/california-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": [
+        {
+         "path": "california/norcal.html",
+         "isLeaf": true,
+         "regionName": "Northern California",
+         "osmData": "california/norcal-latest.osm.pbf",
+         "rootPath": "/north-america/us.html",
+         "rawHtml": "https://download.geofabrik.de",
+         "children": []
+        },
+        {
+         "path": "california/socal.html",
+         "isLeaf": true,
+         "regionName": "Southern California",
+         "osmData": "california/socal-latest.osm.pbf",
+         "rootPath": "/north-america/us.html",
+         "rawHtml": "https://download.geofabrik.de",
+         "children": []
+        }
+       ]
+      },
+      {
+       "path": "us/colorado.html",
+       "isLeaf": true,
+       "regionName": "Colorado",
+       "osmData": "us/colorado-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/connecticut.html",
+       "isLeaf": true,
+       "regionName": "Connecticut",
+       "osmData": "us/connecticut-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/delaware.html",
+       "isLeaf": true,
+       "regionName": "Delaware",
+       "osmData": "us/delaware-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/district-of-columbia.html",
+       "isLeaf": true,
+       "regionName": "District of Columbia",
+       "osmData": "us/district-of-columbia-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/florida.html",
+       "isLeaf": true,
+       "regionName": "Florida",
+       "osmData": "us/florida-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/georgia.html",
+       "isLeaf": true,
+       "regionName": "Georgia",
+       "osmData": "us/georgia-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/hawaii.html",
+       "isLeaf": true,
+       "regionName": "Hawaii",
+       "osmData": "us/hawaii-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/idaho.html",
+       "isLeaf": true,
+       "regionName": "Idaho",
+       "osmData": "us/idaho-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/illinois.html",
+       "isLeaf": true,
+       "regionName": "Illinois",
+       "osmData": "us/illinois-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/indiana.html",
+       "isLeaf": true,
+       "regionName": "Indiana",
+       "osmData": "us/indiana-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/iowa.html",
+       "isLeaf": true,
+       "regionName": "Iowa",
+       "osmData": "us/iowa-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/kansas.html",
+       "isLeaf": true,
+       "regionName": "Kansas",
+       "osmData": "us/kansas-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/kentucky.html",
+       "isLeaf": true,
+       "regionName": "Kentucky",
+       "osmData": "us/kentucky-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/louisiana.html",
+       "isLeaf": true,
+       "regionName": "Louisiana",
+       "osmData": "us/louisiana-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/maine.html",
+       "isLeaf": true,
+       "regionName": "Maine",
+       "osmData": "us/maine-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/maryland.html",
+       "isLeaf": true,
+       "regionName": "Maryland",
+       "osmData": "us/maryland-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/massachusetts.html",
+       "isLeaf": true,
+       "regionName": "Massachusetts",
+       "osmData": "us/massachusetts-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/michigan.html",
+       "isLeaf": true,
+       "regionName": "Michigan",
+       "osmData": "us/michigan-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/minnesota.html",
+       "isLeaf": true,
+       "regionName": "Minnesota",
+       "osmData": "us/minnesota-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/mississippi.html",
+       "isLeaf": true,
+       "regionName": "Mississippi",
+       "osmData": "us/mississippi-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/missouri.html",
+       "isLeaf": true,
+       "regionName": "Missouri",
+       "osmData": "us/missouri-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/montana.html",
+       "isLeaf": true,
+       "regionName": "Montana",
+       "osmData": "us/montana-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/nebraska.html",
+       "isLeaf": true,
+       "regionName": "Nebraska",
+       "osmData": "us/nebraska-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/nevada.html",
+       "isLeaf": true,
+       "regionName": "Nevada",
+       "osmData": "us/nevada-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/new-hampshire.html",
+       "isLeaf": true,
+       "regionName": "New Hampshire",
+       "osmData": "us/new-hampshire-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/new-jersey.html",
+       "isLeaf": true,
+       "regionName": "New Jersey",
+       "osmData": "us/new-jersey-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/new-mexico.html",
+       "isLeaf": true,
+       "regionName": "New Mexico",
+       "osmData": "us/new-mexico-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/new-york.html",
+       "isLeaf": true,
+       "regionName": "New York",
+       "osmData": "us/new-york-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/north-carolina.html",
+       "isLeaf": true,
+       "regionName": "North Carolina",
+       "osmData": "us/north-carolina-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/north-dakota.html",
+       "isLeaf": true,
+       "regionName": "North Dakota",
+       "osmData": "us/north-dakota-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/ohio.html",
+       "isLeaf": true,
+       "regionName": "Ohio",
+       "osmData": "us/ohio-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/oklahoma.html",
+       "isLeaf": true,
+       "regionName": "Oklahoma",
+       "osmData": "us/oklahoma-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/oregon.html",
+       "isLeaf": true,
+       "regionName": "Oregon",
+       "osmData": "us/oregon-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/pennsylvania.html",
+       "isLeaf": true,
+       "regionName": "Pennsylvania",
+       "osmData": "us/pennsylvania-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/puerto-rico.html",
+       "isLeaf": true,
+       "regionName": "Puerto Rico",
+       "osmData": "us/puerto-rico-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/rhode-island.html",
+       "isLeaf": true,
+       "regionName": "Rhode Island",
+       "osmData": "us/rhode-island-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/south-carolina.html",
+       "isLeaf": true,
+       "regionName": "South Carolina",
+       "osmData": "us/south-carolina-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/south-dakota.html",
+       "isLeaf": true,
+       "regionName": "South Dakota",
+       "osmData": "us/south-dakota-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/tennessee.html",
+       "isLeaf": true,
+       "regionName": "Tennessee",
+       "osmData": "us/tennessee-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/texas.html",
+       "isLeaf": true,
+       "regionName": "Texas",
+       "osmData": "us/texas-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/us-virgin-islands.html",
+       "isLeaf": true,
+       "regionName": "United States Virgin Islands",
+       "osmData": "us/us-virgin-islands-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/utah.html",
+       "isLeaf": true,
+       "regionName": "Utah",
+       "osmData": "us/utah-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/vermont.html",
+       "isLeaf": true,
+       "regionName": "Vermont",
+       "osmData": "us/vermont-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/virginia.html",
+       "isLeaf": true,
+       "regionName": "Virginia",
+       "osmData": "us/virginia-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/washington.html",
+       "isLeaf": true,
+       "regionName": "Washington",
+       "osmData": "us/washington-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/west-virginia.html",
+       "isLeaf": true,
+       "regionName": "West Virginia",
+       "osmData": "us/west-virginia-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/wisconsin.html",
+       "isLeaf": true,
+       "regionName": "Wisconsin",
+       "osmData": "us/wisconsin-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "us/wyoming.html",
+       "isLeaf": true,
+       "regionName": "Wyoming",
+       "osmData": "us/wyoming-latest.osm.pbf",
+       "rootPath": "/north-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      }
+     ]
+    },
+    {
+     "path": "north-america/us-midwest.html",
+     "isLeaf": true,
+     "regionName": "US Midwest",
+     "osmData": "north-america/us-midwest-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "north-america/us-northeast.html",
+     "isLeaf": true,
+     "regionName": "US Northeast",
+     "osmData": "north-america/us-northeast-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "north-america/us-pacific.html",
+     "isLeaf": true,
+     "regionName": "US Pacific",
+     "osmData": "north-america/us-pacific-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "north-america/us-south.html",
+     "isLeaf": true,
+     "regionName": "US South",
+     "osmData": "north-america/us-south-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "north-america/us-west.html",
+     "isLeaf": true,
+     "regionName": "US West",
+     "osmData": "north-america/us-west-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    }
+   ]
+  },
+  {
+   "path": "south-america.html",
+   "isLeaf": false,
+   "regionName": "South America",
+   "osmData": "south-america-latest.osm.pbf",
+   "rootPath": "",
+   "rawHtml": "https://download.geofabrik.de",
+   "children": [
+    {
+     "path": "south-america/argentina.html",
+     "isLeaf": true,
+     "regionName": "Argentina",
+     "osmData": "south-america/argentina-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "south-america/bolivia.html",
+     "isLeaf": true,
+     "regionName": "Bolivia",
+     "osmData": "south-america/bolivia-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "south-america/brazil.html",
+     "isLeaf": false,
+     "regionName": "Brazil",
+     "osmData": "south-america/brazil-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": [
+      {
+       "path": "brazil/centro-oeste.html",
+       "isLeaf": true,
+       "regionName": "Centro-Oeste",
+       "osmData": "brazil/centro-oeste-latest.osm.pbf",
+       "rootPath": "/south-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "brazil/nordeste.html",
+       "isLeaf": true,
+       "regionName": "Nordeste",
+       "osmData": "brazil/nordeste-latest.osm.pbf",
+       "rootPath": "/south-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "brazil/norte.html",
+       "isLeaf": true,
+       "regionName": "Norte",
+       "osmData": "brazil/norte-latest.osm.pbf",
+       "rootPath": "/south-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "brazil/sudeste.html",
+       "isLeaf": true,
+       "regionName": "Sudeste",
+       "osmData": "brazil/sudeste-latest.osm.pbf",
+       "rootPath": "/south-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      },
+      {
+       "path": "brazil/sul.html",
+       "isLeaf": true,
+       "regionName": "Sul",
+       "osmData": "brazil/sul-latest.osm.pbf",
+       "rootPath": "/south-america.html",
+       "rawHtml": "https://download.geofabrik.de",
+       "children": []
+      }
+     ]
+    },
+    {
+     "path": "south-america/chile.html",
+     "isLeaf": true,
+     "regionName": "Chile",
+     "osmData": "south-america/chile-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "south-america/colombia.html",
+     "isLeaf": true,
+     "regionName": "Colombia",
+     "osmData": "south-america/colombia-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "south-america/ecuador.html",
+     "isLeaf": false,
+     "regionName": "Ecuador",
+     "osmData": "south-america/ecuador-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": null
+    },
+    {
+     "path": "south-america/guyana.html",
+     "isLeaf": true,
+     "regionName": "Guyana",
+     "osmData": "south-america/guyana-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "south-america/paraguay.html",
+     "isLeaf": true,
+     "regionName": "Paraguay",
+     "osmData": "south-america/paraguay-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "south-america/peru.html",
+     "isLeaf": true,
+     "regionName": "Peru",
+     "osmData": "south-america/peru-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "south-america/suriname.html",
+     "isLeaf": true,
+     "regionName": "Suriname",
+     "osmData": "south-america/suriname-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "south-america/uruguay.html",
+     "isLeaf": true,
+     "regionName": "Uruguay",
+     "osmData": "south-america/uruguay-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    },
+    {
+     "path": "south-america/venezuela.html",
+     "isLeaf": true,
+     "regionName": "Venezuela",
+     "osmData": "south-america/venezuela-latest.osm.pbf",
+     "rootPath": "",
+     "rawHtml": "https://download.geofabrik.de",
+     "children": []
+    }
+   ]
+  }
+ ]
+}
