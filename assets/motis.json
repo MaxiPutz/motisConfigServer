@@ -1,5 +1,155 @@
 [
   {
+    "tag_name": "v2.0.48",
+    "name": "v2.0.48: Live Elevator Status",
+    "assets": [
+      {
+        "name": "motis-linux-amd64.tar.bz2",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v2.0.48/motis-linux-amd64.tar.bz2",
+        "os": "linux",
+        "arch": "x86"
+      },
+      {
+        "name": "motis-windows.zip",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v2.0.48/motis-windows.zip",
+        "os": "windows",
+        "arch": "amd64"
+      },
+      {
+        "name": "motis-macos-arm64.tar.bz2",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v2.0.48/motis-macos-arm64.tar.bz2",
+        "os": "macos",
+        "arch": "arm64"
+      },
+      {
+        "name": "motis-macos-x86_64.tar.bz2",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v2.0.48/motis-macos-x86_64.tar.bz2",
+        "os": "macos",
+        "arch": "x86"
+      }
+    ]
+  },
+  {
+    "tag_name": "v2.0.47",
+    "name": "v2.0.47",
+    "assets": [
+      {
+        "name": "motis-linux-amd64.tar.bz2",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v2.0.47/motis-linux-amd64.tar.bz2",
+        "os": "linux",
+        "arch": "x86"
+      },
+      {
+        "name": "motis-macos-arm64.tar.bz2",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v2.0.47/motis-macos-arm64.tar.bz2",
+        "os": "macos",
+        "arch": "arm64"
+      },
+      {
+        "name": "motis-macos-x86_64.tar.bz2",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v2.0.47/motis-macos-x86_64.tar.bz2",
+        "os": "macos",
+        "arch": "x86"
+      },
+      {
+        "name": "motis-windows.zip",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v2.0.47/motis-windows.zip",
+        "os": "windows",
+        "arch": "amd64"
+      }
+    ]
+  },
+  {
+    "tag_name": "v2.0.46",
+    "name": "v2.0.46",
+    "assets": [
+      {
+        "name": "motis-linux-amd64.tar.bz2",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v2.0.46/motis-linux-amd64.tar.bz2",
+        "os": "linux",
+        "arch": "x86"
+      },
+      {
+        "name": "motis-windows.zip",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v2.0.46/motis-windows.zip",
+        "os": "windows",
+        "arch": "amd64"
+      },
+      {
+        "name": "motis-macos-x86_64.tar.bz2",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v2.0.46/motis-macos-x86_64.tar.bz2",
+        "os": "macos",
+        "arch": "x86"
+      },
+      {
+        "name": "motis-macos-arm64.tar.bz2",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v2.0.46/motis-macos-arm64.tar.bz2",
+        "os": "macos",
+        "arch": "arm64"
+      }
+    ]
+  },
+  {
+    "tag_name": "v2.0.45",
+    "name": "v2.0.45",
+    "assets": [
+      {
+        "name": "motis-linux-amd64.tar.bz2",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v2.0.45/motis-linux-amd64.tar.bz2",
+        "os": "linux",
+        "arch": "x86"
+      },
+      {
+        "name": "motis-windows.zip",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v2.0.45/motis-windows.zip",
+        "os": "windows",
+        "arch": "amd64"
+      },
+      {
+        "name": "motis-macos-arm64.tar.bz2",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v2.0.45/motis-macos-arm64.tar.bz2",
+        "os": "macos",
+        "arch": "arm64"
+      },
+      {
+        "name": "motis-macos-x86_64.tar.bz2",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v2.0.45/motis-macos-x86_64.tar.bz2",
+        "os": "macos",
+        "arch": "x86"
+      }
+    ]
+  },
+  {
+    "tag_name": "v2.0.44",
+    "name": "v2.0.44",
+    "assets": [
+      {
+        "name": "motis-linux-amd64.tar.bz2",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v2.0.44/motis-linux-amd64.tar.bz2",
+        "os": "linux",
+        "arch": "x86"
+      },
+      {
+        "name": "motis-windows.zip",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v2.0.44/motis-windows.zip",
+        "os": "windows",
+        "arch": "amd64"
+      },
+      {
+        "name": "motis-macos-arm64.tar.bz2",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v2.0.44/motis-macos-arm64.tar.bz2",
+        "os": "macos",
+        "arch": "arm64"
+      },
+      {
+        "name": "motis-macos-x86_64.tar.bz2",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v2.0.44/motis-macos-x86_64.tar.bz2",
+        "os": "macos",
+        "arch": "x86"
+      }
+    ]
+  },
+  {
     "tag_name": "v2.0.43",
     "name": "v2.0.43",
     "assets": [
@@ -3255,12 +3405,6 @@
         "arch": "arm64"
       },
       {
-        "name": "motis-macos-x86_64.tar.bz2",
-        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v0.11.33/motis-macos-x86_64.tar.bz2",
-        "os": "macos",
-        "arch": "x86"
-      },
-      {
         "name": "motis-macos-arm64.tar.bz2",
         "browser_download_url": "https://github.com/motis-project/motis/releases/download/v0.11.33/motis-macos-arm64.tar.bz2",
         "os": "macos",
@@ -3269,6 +3413,12 @@
       {
         "name": "motis-macos-x86_64-noavx2.tar.bz2",
         "browser_download_url": "https://github.com/motis-project/motis/releases/download/v0.11.33/motis-macos-x86_64-noavx2.tar.bz2",
+        "os": "macos",
+        "arch": "x86"
+      },
+      {
+        "name": "motis-macos-x86_64.tar.bz2",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v0.11.33/motis-macos-x86_64.tar.bz2",
         "os": "macos",
         "arch": "x86"
       },
@@ -3285,14 +3435,14 @@
     "name": "v0.11.32: osr fixes",
     "assets": [
       {
-        "name": "motis-linux-amd64.tar.bz2",
-        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v0.11.32/motis-linux-amd64.tar.bz2",
+        "name": "motis-linux-amd64-noavx.tar.bz2",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v0.11.32/motis-linux-amd64-noavx.tar.bz2",
         "os": "linux",
         "arch": "x86"
       },
       {
-        "name": "motis-linux-amd64-noavx.tar.bz2",
-        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v0.11.32/motis-linux-amd64-noavx.tar.bz2",
+        "name": "motis-linux-amd64.tar.bz2",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v0.11.32/motis-linux-amd64.tar.bz2",
         "os": "linux",
         "arch": "x86"
       },
@@ -3303,10 +3453,10 @@
         "arch": "arm64"
       },
       {
-        "name": "motis-macos-x86_64.tar.bz2",
-        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v0.11.32/motis-macos-x86_64.tar.bz2",
+        "name": "motis-macos-arm64.tar.bz2",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v0.11.32/motis-macos-arm64.tar.bz2",
         "os": "macos",
-        "arch": "x86"
+        "arch": "arm64"
       },
       {
         "name": "motis-macos-x86_64-noavx2.tar.bz2",
@@ -3315,10 +3465,10 @@
         "arch": "x86"
       },
       {
-        "name": "motis-macos-arm64.tar.bz2",
-        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v0.11.32/motis-macos-arm64.tar.bz2",
+        "name": "motis-macos-x86_64.tar.bz2",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v0.11.32/motis-macos-x86_64.tar.bz2",
         "os": "macos",
-        "arch": "arm64"
+        "arch": "x86"
       },
       {
         "name": "motis-windows.zip",
@@ -3333,14 +3483,14 @@
     "name": "v0.11.31: osr turn restrictions",
     "assets": [
       {
-        "name": "motis-linux-amd64.tar.bz2",
-        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v0.11.31/motis-linux-amd64.tar.bz2",
+        "name": "motis-linux-amd64-noavx.tar.bz2",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v0.11.31/motis-linux-amd64-noavx.tar.bz2",
         "os": "linux",
         "arch": "x86"
       },
       {
-        "name": "motis-linux-amd64-noavx.tar.bz2",
-        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v0.11.31/motis-linux-amd64-noavx.tar.bz2",
+        "name": "motis-linux-amd64.tar.bz2",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v0.11.31/motis-linux-amd64.tar.bz2",
         "os": "linux",
         "arch": "x86"
       },
@@ -3351,12 +3501,6 @@
         "arch": "arm64"
       },
       {
-        "name": "motis-macos-x86_64.tar.bz2",
-        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v0.11.31/motis-macos-x86_64.tar.bz2",
-        "os": "macos",
-        "arch": "x86"
-      },
-      {
         "name": "motis-macos-arm64.tar.bz2",
         "browser_download_url": "https://github.com/motis-project/motis/releases/download/v0.11.31/motis-macos-arm64.tar.bz2",
         "os": "macos",
@@ -3365,6 +3509,12 @@
       {
         "name": "motis-macos-x86_64-noavx2.tar.bz2",
         "browser_download_url": "https://github.com/motis-project/motis/releases/download/v0.11.31/motis-macos-x86_64-noavx2.tar.bz2",
+        "os": "macos",
+        "arch": "x86"
+      },
+      {
+        "name": "motis-macos-x86_64.tar.bz2",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v0.11.31/motis-macos-x86_64.tar.bz2",
         "os": "macos",
         "arch": "x86"
       },
@@ -3381,14 +3531,14 @@
     "name": "v0.11.30",
     "assets": [
       {
-        "name": "motis-linux-amd64.tar.bz2",
-        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v0.11.30/motis-linux-amd64.tar.bz2",
+        "name": "motis-linux-amd64-noavx.tar.bz2",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v0.11.30/motis-linux-amd64-noavx.tar.bz2",
         "os": "linux",
         "arch": "x86"
       },
       {
-        "name": "motis-linux-amd64-noavx.tar.bz2",
-        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v0.11.30/motis-linux-amd64-noavx.tar.bz2",
+        "name": "motis-linux-amd64.tar.bz2",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v0.11.30/motis-linux-amd64.tar.bz2",
         "os": "linux",
         "arch": "x86"
       },
@@ -3399,10 +3549,10 @@
         "arch": "arm64"
       },
       {
-        "name": "motis-macos-x86_64.tar.bz2",
-        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v0.11.30/motis-macos-x86_64.tar.bz2",
+        "name": "motis-macos-arm64.tar.bz2",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v0.11.30/motis-macos-arm64.tar.bz2",
         "os": "macos",
-        "arch": "x86"
+        "arch": "arm64"
       },
       {
         "name": "motis-macos-x86_64-noavx2.tar.bz2",
@@ -3411,10 +3561,10 @@
         "arch": "x86"
       },
       {
-        "name": "motis-macos-arm64.tar.bz2",
-        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v0.11.30/motis-macos-arm64.tar.bz2",
+        "name": "motis-macos-x86_64.tar.bz2",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v0.11.30/motis-macos-x86_64.tar.bz2",
         "os": "macos",
-        "arch": "arm64"
+        "arch": "x86"
       },
       {
         "name": "motis-windows.zip",
@@ -3429,14 +3579,14 @@
     "name": "v0.11.29: osr Bugfix",
     "assets": [
       {
-        "name": "motis-linux-amd64.tar.bz2",
-        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v0.11.29/motis-linux-amd64.tar.bz2",
+        "name": "motis-linux-amd64-noavx.tar.bz2",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v0.11.29/motis-linux-amd64-noavx.tar.bz2",
         "os": "linux",
         "arch": "x86"
       },
       {
-        "name": "motis-linux-amd64-noavx.tar.bz2",
-        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v0.11.29/motis-linux-amd64-noavx.tar.bz2",
+        "name": "motis-linux-amd64.tar.bz2",
+        "browser_download_url": "https://github.com/motis-project/motis/releases/download/v0.11.29/motis-linux-amd64.tar.bz2",
         "os": "linux",
         "arch": "x86"
       },

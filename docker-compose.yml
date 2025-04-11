@@ -1,0 +1,43 @@
+version: "3.9"
+
+services:
+  init:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: motis:latest
+    volumes:
+      - ./bin:/output
+    command: sh -c "echo '👉 Open http://localhost:3001 in your browser to finish setup!' && cp -r /app/bin/* /output  && cp -r /app/bin/* /output"
+    restart: "no"
+
+  config:
+    image: motis:latest
+    depends_on:
+      - init
+    volumes:
+      - ./out:/app/out
+    ports:
+      - "3001:3001"
+    command: ["./motisConfigServer"]
+    restart: "no"
+    stdin_open: true     # 👈 This allows interactive input
+    tty: true            # 👈 This allocates a pseudo-TTY
+
+  import:
+    image: motis:latest
+    volumes:
+      - ./out:/app/out
+    working_dir: /app/out
+    command: ["./motis", "import"]
+    restart: "no"
+
+  server:
+    image: motis:latest
+    volumes:
+      - ./out:/app/out
+    ports:
+      - "8080:8080"
+    working_dir: /app/out
+    command: ["./motis", "server"]
+    restart: "always"  # Only this one should keep running

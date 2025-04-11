@@ -111,15 +111,24 @@ func PrintRelease(realses []Release) {
 }
 
 func writeInToAssets(releases []Release) error {
-
 	data, err := json.MarshalIndent(releases, "", "  ")
-
 	fmt.Printf("data: %v\n", data)
 	if err != nil {
 		return err
 	}
 
-	err = os.WriteFile("assets/motis.json", data, 0664)
+	// Ensure the folder exists
+	folderPath := "assets"
+	if _, err := os.Stat(folderPath); os.IsNotExist(err) {
+		err := os.MkdirAll(folderPath, 0755)
+		if err != nil {
+			return err
+		}
+	}
+
+	// Write the file
+	filePath := folderPath + "/motis.json"
+	err = os.WriteFile(filePath, data, 0664)
 	if err != nil {
 		return err
 	}

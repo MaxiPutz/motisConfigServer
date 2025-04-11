@@ -4,9 +4,11 @@ import (
 	"bufio"
 	"context"
 	"embed"
+	"encoding/json"
 	"fmt"
 	"log"
 	"maxiputz/motisConfigServer/download"
+	motisconfigfile "maxiputz/motisConfigServer/motisConfigFile"
 	"maxiputz/motisConfigServer/scrapper"
 	"net/http"
 	"os"
@@ -46,6 +48,9 @@ var writeMutex sync.Mutex
 
 //go:embed "ui/dist/*"
 var folderPath embed.FS
+
+//go:embed "assets/*"
+var assatsPath embed.FS
 
 func main() {
 
@@ -136,7 +141,19 @@ func main() {
 			osmFile, _ := findOsmInOut()
 			fmt.Printf("\"config is stared\": %v\n", "config is stared")
 			runMotisCondfig(feeds, osmFile)
-			fmt.Printf("\"config is stared\": %v\n", "config is stared")
+			fmt.Printf("config is writte you can run on your host pc ./motis import \n")
+			fmt.Printf("after the import is run through you can run ./motis serve \n")
+
+			reqestDataJson, err := json.MarshalIndent(reqData, " ", "    ")
+
+			if err != nil {
+				fmt.Printf("\"reqData not marshalled\": %v\n", "reqData not marshalled")
+				panic(1)
+			}
+
+			os.WriteFile("./out/downloadUrls.json", reqestDataJson, 0664)
+
+			os.Exit(0)
 			runMotisImportCallback(motisImportCallback)
 
 		}()
@@ -151,7 +168,9 @@ func main() {
 		return c.SendString("import is started")
 	})
 
-	app.Listen(":3000")
+	fmt.Printf("\"👉 Open http://localhost:3001 in your browser to finish setup!\": %v\n", "👉 Open http://localhost:3001 in your browser to finish setup!")
+	app.Listen(":3001")
+	fmt.Printf("\"👉 Open http://localhost:3001 in your browser to finish setup!\": %v\n", "👉 Open http://localhost:3001 in your browser to finish setup!")
 
 }
 
@@ -209,6 +228,10 @@ func findOsmInOut() (string, error) {
 	return result, nil
 }
 func runMotisCondfig(feeds []string, osmFile string) {
+
+	motisconfigfile.GenerateMotisConfig(osmFile, feeds, "out/")
+
+	return
 	args := append([]string{"config", osmFile}, feeds...)
 	fmt.Printf("\"motis\": %v\n", "motis")
 	fmt.Printf("args: %v\n", args)
