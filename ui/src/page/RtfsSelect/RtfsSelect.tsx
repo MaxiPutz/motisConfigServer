@@ -1,6 +1,6 @@
 // RtfsSelect.tsx
-import React, { useState, ChangeEvent } from 'react';
-import data from "../../assets/gtfs.json";
+import { useState, ChangeEvent } from 'react';
+//import data from "../../assets/gtfs.json";
 import "./RtfsSelect.css";
 import { useNavigate } from 'react-router';
 import { NavArea } from '../component/NavArea';
@@ -23,16 +23,17 @@ const groupByCountry = (files: Transitous[]) => {
     }, {});
 };
 
-export const RtfsSelect: React.FC = () => {
-    const { store, setFeeds } = useConfig()
+export function RtfsSelect({ feeds  }: { feeds: Transitous[]; }) {
+    const { store, setFeeds } = useConfig();
 
+    console.log(feeds)
 
     const [selectedFiles, setSelectedFiles] = useState<Transitous[]>(store.feeds);
     const [expandedCountries, setExpandedCountries] = useState<Set<string>>(new Set());
 
-    const nav = useNavigate()
+    const nav = useNavigate();
 
-    const groups = groupByCountry(data);
+    const groups = groupByCountry(feeds as Transitous[]);
 
     // Toggle a nation's expansion (show/hide its file list)
     const toggleCountry = (country: string) => {
@@ -49,10 +50,10 @@ export const RtfsSelect: React.FC = () => {
     const toggleFileSelection = (file: Transitous) => {
         if (selectedFiles.some(f => f.Name === file.Name)) {
             setSelectedFiles(selectedFiles.filter(f => f.Name !== file.Name));
-            setFeeds(selectedFiles.filter(f => f.Name !== file.Name))
+            setFeeds(selectedFiles.filter(f => f.Name !== file.Name));
         } else {
             setSelectedFiles([...selectedFiles, file]);
-            setFeeds([...selectedFiles, file])
+            setFeeds([...selectedFiles, file]);
         }
     };
 
@@ -64,20 +65,19 @@ export const RtfsSelect: React.FC = () => {
                 file => !selectedFiles.some(f => f.Name === file.Name)
             );
             setSelectedFiles([...selectedFiles, ...newFiles]);
-            setFeeds([...selectedFiles, ...newFiles])
+            setFeeds([...selectedFiles, ...newFiles]);
         } else {
             // Remove all files for that country.
             setSelectedFiles(
                 selectedFiles.filter(file => file.Name.split('_')[0] !== country)
             );
-            setFeeds(selectedFiles.filter(file => file.Name.split('_')[0] !== country))
+            setFeeds(selectedFiles.filter(file => file.Name.split('_')[0] !== country));
         }
     };
 
     // Compute if all files in a group are selected.
     const isAllSelected = (country: string): boolean => {
-        return groups[country].every(file =>
-            selectedFiles.some(f => f.Name === file.Name)
+        return groups[country].every(file => selectedFiles.some(f => f.Name === file.Name)
         );
     };
 
@@ -125,8 +125,7 @@ export const RtfsSelect: React.FC = () => {
                                     type="checkbox"
                                     checked={isAllSelected(country)}
                                     onChange={(e: ChangeEvent<HTMLInputElement>) => handleSelectAll(country, e.target.checked)}
-                                    style={{ marginLeft: 5 }}
-                                />
+                                    style={{ marginLeft: 5 }} />
                             </label>
                         </div>
                         {expandedCountries.has(country) && (
@@ -141,8 +140,7 @@ export const RtfsSelect: React.FC = () => {
                                             <input
                                                 type="checkbox"
                                                 checked={selectedFiles.some(f => f.Name === file.Name)}
-                                                onChange={() => toggleFileSelection(file)}
-                                            />
+                                                onChange={() => toggleFileSelection(file)} />
                                         </label>
                                     </div>
                                 ))}
@@ -153,4 +151,4 @@ export const RtfsSelect: React.FC = () => {
             <NavArea handleNext={() => nav("/overview")} handlePrev={() => nav("/osm")} />
         </div>
     );
-};
+}

@@ -12,6 +12,11 @@ import { useProgress } from './provider/progressProvider'
 import { BusIcon } from 'lucide-react'
 
 
+interface Feeds {
+  Name: string,
+  Url: string
+}
+
 const protocol = window.location.protocol; // "http:" or "https:"
 const wsProtocol = protocol === "https:" ? "wss:" : "ws:";
 const host = window.location.host; // "example.com:3000" or "localhost:5173"
@@ -52,6 +57,7 @@ function Header() {
 function App() {
   const [motisRelease, setMotisRelease] = useState(motisReleaseAsset)
   const [osAndArch, setOsAndArch] = useState({ os: "", arch: "" })
+  const [feed, setFeed] = useState([] as Feeds[])
   const { setProgressBar } = useProgress()
 
   let progresses: ProgressBar[] = []
@@ -88,11 +94,15 @@ function App() {
 
     fetch(`${ENV.baseURL}/init`).then((res) => res.json())
       .then(json => {
+        console.log(json, "test");
+        
+        setFeed(json.gtfsUrl)
         setMotisRelease(json.releases)
         setOsAndArch({
           arch: json.arch,
           os: json.os
         })
+
       })
   }, [])
 
@@ -101,11 +111,11 @@ function App() {
       <Header />
       <ConfigProvider>
         <div className="container">
-          <BrowserRouter>
+          <BrowserRouter>x
             <Routes>
-              <Route path='/' element={<MotisSelect updatedReleases={motisRelease} osAndArch={osAndArch} />} />
+              <Route path='/' element={<MotisSelect feeds={feed} updatedReleases={motisRelease} osAndArch={osAndArch}  />} />
               <Route path='/osm' element={<SelectOsm />} />
-              <Route path='/rtfs' element={<RtfsSelect />} />
+              <Route path='/rtfs' element={<RtfsSelect feeds={feed } />} />
               <Route path='/overview' element={<ConfigOverview />} />
             </Routes>
           </BrowserRouter>

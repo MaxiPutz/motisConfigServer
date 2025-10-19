@@ -38,6 +38,10 @@ export const ConfigProvider: FC<ConfigProviderProps> = ({ children }) => {
   const [store, setStore] = useState<Store>(defaultStore);
 
   const setFeeds = (feeds: Transitous[]) => {
+    console.log("test");
+    
+    console.log(feeds, "feeds");
+    
     setStore((prev) => ({ ...prev, feeds }));
   };
 

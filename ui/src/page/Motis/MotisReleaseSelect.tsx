@@ -3,6 +3,7 @@ import { SearchableDropdown } from "./SearchDorpDown/SearchDropDown"
 import { useNavigate } from "react-router"
 import { NavArea } from "../component/NavArea"
 import { useConfig } from "../../provider/configProvider"
+import { Transitous } from "../RtfsSelect/RtfsSelect"
 
 
 export interface Release {
@@ -26,7 +27,7 @@ export interface ReleaseGithubStruct {
     assets: Assets[]
 }
 
-export function MotisSelect({ updatedReleases, osAndArch }: { updatedReleases: ReleaseGithubStruct[], osAndArch: { os: string, arch: string } }) {
+export function MotisSelect({ updatedReleases, osAndArch, feeds }: { feeds: Transitous[], updatedReleases: ReleaseGithubStruct[], osAndArch: { os: string, arch: string } }) {
     const { setMotisUrl, store } = useConfig()
 
     const [os, setOs] = useState(osAndArch.os)
@@ -40,6 +41,8 @@ export function MotisSelect({ updatedReleases, osAndArch }: { updatedReleases: R
 
 
     useEffect(() => {
+        console.log(feeds, "feeds");
+        
         console.log(osAndArch, "osAndArch");
 
         if (osAndArch.os != "") {
